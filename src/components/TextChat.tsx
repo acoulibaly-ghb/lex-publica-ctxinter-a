@@ -113,8 +113,8 @@ const TextChat: React.FC = () => {
   const API_KEY = import.meta.env.VITE_API_KEY;
 
   const suggestions = [
+    "Qu'est-ce qu'un différend ?",
     "Définition et condions de licéité des contre-mesures ?",
-    "L'arrêt Mavrommatis et la notion de différend",
     "Qu'est-ce que la protection diplomatique ?"
   ];
 
