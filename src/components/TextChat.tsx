@@ -95,7 +95,7 @@ const cleanTextForTTS = (text: string) => {
 
 const TextChat: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
-    { role: 'model', text: '### Bonjour !\n\nJe suis votre assistant juridique spécialisé en contentieux international.\n\nJe peux vous aider **notamment** sur les thèmes suivants :\n- **Les différends internationaux**\n- **La protection diplomatique**\n- **Les contre-mesures**\n\nQuelle est votre question ?', timestamp: new Date() }
+    { role: 'model', text: '### Bonjour !\n\nJe suis **ADA**, votre assistante juridique spécialisée en Contentieux International.\n\nJe peux vous aider sur les thèmes suivants :\n- **La Cour Internationale de Justice**\n- **La procédure contentieuse et consultative**\n- **La responsabilité internationale de l\'État**\n\nQuelle est votre question ?', timestamp: new Date() }
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
