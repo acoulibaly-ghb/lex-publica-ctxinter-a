@@ -24,8 +24,8 @@ const App: React.FC = () => {
               Juriste Admin <span className="text-4xl font-extrabold tracking-tight text-slate-400 sm:text-5xl mb-2"> by </span><span className="text-indigo-600">Coulibaly</span>
             </h1>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
-              Votre assistant expert en droit administratif.
-              <span className="block text-sm text-slate-400 mt-1 font-medium">Actes unilatéraux • Police • Service Public</span>
+              Votre assistant expert en droit du contentieux international.
+              <span className="block text-sm text-slate-400 mt-1 font-medium">Introduction générale • Première partie • Seconde partie</span>
             </p>
           </div>
         </header>
@@ -65,7 +65,7 @@ const App: React.FC = () => {
         </main>
         
         <footer className="mt-12 text-center space-y-2">
-            <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Basé sur les cours de M. Coulibaly 2025-2026</p>
+            <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider">Basé sur le cours de M. Coulibaly 2025-2026</p>
             <div className="flex items-center justify-center gap-2 text-xs text-slate-400">
               <span>Propulsé par</span>
               <span className="flex items-center gap-1 font-bold text-slate-500">
