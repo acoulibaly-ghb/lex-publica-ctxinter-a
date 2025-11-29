@@ -21,7 +21,7 @@ const App: React.FC = () => {
           </div>
           <div>
             <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl mb-2">
-              Juriste Admin <span className="text-4xl font-extrabold tracking-tight text-slate-400 sm:text-5xl mb-2"> by </span><span className="text-indigo-600">Coulibaly</span>
+              Lex publica IA <span className="text-4xl font-extrabold tracking-tight text-slate-400 sm:text-5xl mb-2"> by </span><span className="text-indigo-600">Coulibaly</span>
             </h1>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
               Votre assistant expert en droit du contentieux international.
