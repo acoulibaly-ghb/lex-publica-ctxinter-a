@@ -1,6 +1,6 @@
 {
   "name": "Juriste DIP / Coulibaly",
-  "description": "Un assistant juridique spécialisé en droit administratif français (Actes unilatéraux, Police, Service Public), capable de répondre par texte et par voix.",
+  "description": "Une assistante juridique spécialisée en droit du Contentieux international, capable de répondre par texte et par voix.",
   "requestFramePermissions": [
     "microphone"
   ]
