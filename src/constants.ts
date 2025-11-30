@@ -438,6 +438,256 @@ Voilà une définition qui met en exergue à la fois des critères matériels  e
 --- DOCUMENT 2: CHAPITRE I ---
 
 
+CHAPITRE I
+Définition : Une question juridique est une question qui est libellée en termes juridiques, qui soulève des problèmes de droit international et qui, par sa nature même, est susceptible de recevoir une réponse fondée en droit international public – Sahara occidental, Avis consultatif du 16 octobre 1975. C.I.J. Recueil 1975, p.12.
+Définition : Une opinion dissidente émane d'un juge qui souhaite exposer les raisons pour lesquelles il s'est trouvé en désaccord, sur un ou plusieurs points, avec le dispositif de l'avis et avec les motifs qui en constituent le soutien nécessaire.  
+Définition : Une opinion individuelle est le fait d'un juge qui expose son accord avec le dispositif de l'avis et son désaccord avec tout ou partie des motifs qui en constituent le soutien nécessaire.  
+Définition : Une déclaration est normalement un bref exposé par lequel un juge fait connaître dans quel sens il a voté.
+
+*
+LA COUR INTERNATIONALE DE JUSTICE, ORGANE JUDICIAIRE À VOCATION 
+UNIVERSELLE
+ En tant qu’organe judiciaire principal des Nations Unies, la Cour internationale de Justice (CIJ) a succédé à la Cour Permanente de Justice Internationale (CPJI), officiellement dissoute le18 avril 1946 par l’Assemblée de la SDN (Société des Nations), qui s’apprêtait à passer le témoin à l’ONU.
+ En dépit de la rupture formelle, on relève une remarquable continuité matérielle entre les deux cours : 
+* L'article 92 de la Charte des Nations Unies dispose : « Elle [la Cour internationale de Justice] fonctionne conformément à un statut établi sur la base du Statut de la Cour Permanente de Justice Internationale ». Du reste, la numérotation des articles statutaires est à peu près la même.
+* L’article 36, paragraphe 5 et l’article 37 du Statut de la CIJ organisent un « transfert » de compétence entre les deux cours, et ce, afin éviter que ne deviennent caduques les acceptations antérieures de la juridiction de la CPJI ;
+* La CIJ a fait sienne la jurisprudence de la CPJI, etc. 
+
+**
+SECTION I – L’identité organique de la Cour
+
+I – La désignation des juges
+ L'article 2 du Statut de la Cour internationale de Justice dispose : 
+« La Cour est un corps de magistrats indépendants, élus sans égard à leur nationalité, parmi les personnes jouissant de la plus haute considération morale et qui réunissent les conditions requises pour l'exercice, dans leurs pays respectifs, des plus hautes fonctions judiciaires ou qui sont des jurisconsultes possédant une compétence notoire en matière de droit international. »
+A – Les membres de la Cour, juges permanents
+En ce qui concerne la désignation des membres de la Cour, le processus commence avec la présentation des candidats effectuée par le truchement de la Cour Permanente d'Arbitrage. 
+Cette dernière n’est, en fait, qu’une liste d’arbitres potentiels désignés par les États parties à la Convention de La Haye du 18 octobre 1907 pour le règlement pacifique des conflits internationaux.
+
+Les quinze (15) membres de la Cour sont élus pour une durée de neuf (9) ans renouvelable.
+La Cour est sujette à un renouvellement triennal partiel : cinq (5) sièges sont renouvelés tous les trois ans.
+Afin de réaliser l'universalité de la Cour, l'article 9 du Statut dispose que les juges élus doivent « assurer dans l'ensemble, la représentation des grandes formes de civilisation et des principaux systèmes juridiques du monde ».
+ Deux clés de répartition doivent être combinées :
+• S'il le désire, chaque État membre permanent du Conseil de sécurité dispose d'un siège pour un juge de sa nationalité.
+• Les sièges sont répartis par groupe d'États et par roulement. Répartition actuelle : Afrique, 3 ; Amérique latine, 2 ; Asie, 3 ; Europe occidentale et autres États, 5 ; Europe orientale, 2. 
+ Cela dit, la Cour ne peut comprendre plus d'un ressortissant d'un même État. Si deux candidats de même nationalité sont élus en même temps, seule l'élection du plus âgé est considérée comme valable.
+**
+B – Les juges ad hoc, juges temporaires
+ Les juges ad hoc sont des juges occasionnels, non permanents. Ce ne sont pas des membres (permanents) de la Cour.
+Ils sont désignés par les parties à un différend soumis à la Cour. Leurs fonctions prennent fin en même temps que le procès qui justifiait leur nomination. 
+ La désignation de juges ad hoc (article 31 du Statut) fait suite à l’une ou l’autre des deux hypothèses suivantes :  
+Soit la Cour compte sur le siège un seul juge de la nationalité de l'une ou l'autre des parties. Autrement dit, une seule des parties a un ressortissant siégeant comme membre permanent à la Cour. Dans ce cas, l’autre partie peut désigner un juge ad hoc qu’il choisira ou non parmi ses propres ressortissants. Ainsi, l’égalité des parties est-elle quelque peu garantie ; 
+Soit la Cour ne compte sur le siège aucun juge de la nationalité des parties, c’est-à-dire qu'aucune des parties n’a un ressortissant siégeant comme membre permanent à la Cour. 
+Dans cette hypothèse, chacune des parties peut désigner un juge ad hoc qu’il choisira ou non parmi ses propres ressortissants. 
+Le recours à des juges ad hoc garantit alors une bonne administration de la justice. Chacune des parties est assurée que ses thèses seront comprises, voire défendues par au moins l’un des membres de la Cour. 
+ Dans l'hypothèse, parfois réalisée, où une instance réunit plus de deux parties, il est prévu que les parties qui font, explicitement ou implicitement, cause commune 
+* ne peuvent désigner qu'un seul et même juge ad hoc 
+* ou ne peuvent désigner aucun juge ad hoc si l'une d'elles a déjà un juge de sa nationalité en mesure de siéger. 
+ Enfin, il résulte de tout ce qui précède qu’à l’occasion de bien des affaires, le nombre de juges siégeant effectivement à la Cour dépasse quinze (15) : 15 membres permanents + X juges ad hoc.
+**
+II – Le statut des juges
+A – Une indépendance affirmée
+ Rappelons que l’affirmation de l’indépendance figure à l’article 2 du Statut de la Cour internationale de Justice : 
+« La Cour est un corps de magistrats indépendants, élus sans égard à leur nationalité, parmi les personnes jouissant de la plus haute considération morale et qui réunissent les conditions requises pour l'exercice, dans leurs pays respectifs, des plus hautes fonctions judiciaires ou qui sont des jurisconsultes possédant une compétence notoire en matière de droit international. »
+**
+B – Une indépendance protégée
+ Sur les conditions génériques de l’indépendance, il existe un certain consensus que l’on peut résumer en trois formules frappantes.
+ Bénéficie d’une solide garantie d’indépendance tout organe auquel s’applique le triptyque suivant :
+- Ne rien craindre ;
+- Ne rien espérer ;
+- Vouloir être indépendant.
+Ce sont là les critères de l’indépendance.
+ En ce qui concerne la CIJ, la quête de l’indépendance se traduit par des incompatibilités, des avantages pécuniaires, l’inamovibilité des membres de la Cour, ainsi que des privilèges et des immunités de nature diplomatique.
+**
+*
+SECTION II – L’identité fonctionnelle de la Cour
+ 
+I – La compétence ratione personae
+ Il est impossible de décrire la compétence ratione personae de la Cour sans ouvrir d’abord une fenêtre sur sa compétence ratione materiae.
+Pourtant, la réciproque est également vraie.
+Comme l’a souligné Wittgenstein à propos des cercles vicieux, la subtilité n’est pas de sortir du cercle, mais d’y entrer correctement.
+La Cour exerce deux fonctions 
+* une fonction contentieuse et
+* une fonction consultative.
+ La fonction contentieuse consiste à trancher, au moyen d’arrêts (obligatoires), des différends entre États uniquement. 
+ Quant à la fonction consultative, elle consiste à répondre, au moyen d’avis consultatifs (non obligatoires sauf exceptions), à des questions juridiques posées par des organes ou institutions de l’ONU habilités à cet effet.
+A – Les États
+ Aux termes de l’article 34, paragraphe 1, du Statut, « seuls les États ont qualité pour se présenter devant la Cour. »
+Autrement dit, en matière contentieuse, seuls des États peuvent être demandeurs ou défendeurs.
+ Toutefois, si la Cour n’est ouverte, en matière contentieuse, qu’aux États, elle n’est pas ouverte à tous les États.
+Les États auxquels la Cour est ouverte en matière contentieuse se répartissent entre trois catégories :  
+Les États membres des Nations Unies (193) 
+L’article 93, paragraphe 1, de la Charte dispose : 
+« Tous les Membres des Nations Unies sont ipso facto parties au Statut de la Cour. » 
+D’un strict point de vue juridique, cette disposition est totalement superflue puisque, le Statut de la Cour étant annexé à la Charte, tous les Membres des Nations Unies ont nécessairement ratifié et la Charte et le Statut, et ce, par le même acte. 
+Cela dit, l’article 93, paragraphe 1, de la Charte a sans doute une portée symbolique voulue politiquement forte ;
+Les États non-membres des Nations Unies mais parties au Statut de la Cour.
+Ces États doivent satisfaire aux conditions déterminées par l'Assemblée générale sur recommandation du Conseil de sécurité.
+Les États non parties au Statut de la Cour mais auxquels la Cour peut être ouverte. 
+Ces États doivent satisfaire aux conditions fixées par le Conseil de sécurité.
+**
+B – Les organisations internationales
+Seules des organisations internationales peuvent déclencher l’exercice par la Cour de sa fonction consultative.
+Mais toutes les organisations internationales n’ont pas ce pouvoir. 
+Seules ont ce pouvoir les organisations ou institutions habilitées à cet effet par la Charte, soit directement, soit indirectement.
+En effet, l’article 65 du Statut de la Cour dispose : 
+« La Cour peut donner un avis consultatif sur toute question juridique, à la demande de tout organe ou institution qui aura été autorisé par la Charte des Nations Unies ou conformément à ses dispositions, à demander cet avis. » 
+**
+II – La compétence ratione materiae
+A – La fonction contentieuse et la fonction consultative de la Cour
+Rappelons que la compétence ratione materiae de la Cour comprend deux éléments : 
+* la fonction consultative 
+* et la fonction contentieuse. 
+L’analyse révèle à la fois une autonomie et un rapprochement de ces deux fonctions.
+
+1 – L’autonomie des deux fonctions
+ La principale manifestation de l’autonomie des deux fonctions est illustrée par le principe que l’on présenter ainsi : 
+Aux États la procédure contentieuse, aux organisations internationales la fonction consultative. 
+ L’impossibilité pour les États de solliciter directement des avis consultatifs est généralement justifiée par le souci d’une bonne administration de la justice. 
+ En effet, si l’un des États parties à un différend était autorisé à saisir la Cour d’une demande d’avis consultatif sur ce différend, il pourrait mettre ses adversaires devant un fait accompli judiciaire. 
+ Cette situation serait doublement critiquable :  
+1. Il n’y aurait pas eu, au préalable, une procédure véritablement contradictoire, donc pas d’égalité entre les protagonistes.  
+2. Par ce biais, on introduirait une forme de juridiction obligatoire.
+**
+2 – Le rapprochement des deux fonctions
+ On relève de nombreuses passerelles entre les fonctions consultative et contentieuse :
+Par exemple, l’article 34, paragraphe 2, du Statut dispose : 
+« Dans l'exercice de ses attributions consultatives, la Cour s'inspirera en outre des dispositions du présent Statut qui s'appliquent en matière contentieuse, dans la mesure où elle les reconnaîtra applicables. » 
+Du reste, la Cour rappelle souvent le « principe selon lequel, en tant qu'organe judiciaire, elle doit rester fidèle aux exigences de son caractère judiciaire, même lorsqu'elle donne des avis consultatifs. » 
+Le cas échéant, elle vérifie la compatibilité d'une demande d'avis consultatif avec « les principes généraux applicables à une action en justice. » 
+ En la matière, la Cour se garde de tout dogmatisme ; elle juge que le Statut « lui reconnaît le pouvoir d'apprécier dans quelle mesure les circonstances de chaque espèce doivent la déterminer à appliquer à la procédure consultative les dispositions du Statut applicables en matière contentieuse. » – Réserves à la convention pour la prévention et la répression du crime de génocide, Avis consultatif du 28 mai 1951. C.I.J. Recueil 1951. p.15. 
+ Le rapprochement est également jurisprudentiel. En effet, il arrive que la Cour cite dans ses arrêts, ses avis consultatifs (Voir, par exemple, Affaire du Cameroun septentrional, (Cameroun c. Royaume Uni), Exceptions préliminaires, Arrêt du 2 décembre 1963. C.I.J. Recueil 1963, p. 15) 
+et, dans ses avis consultatifs, ses arrêts. 
+Ces références croisées ne devraient guère surprendre, parce que, dans la fonction contentieuse comme dans la fonction consultative, la Cour dit le droit, et que l’on ne comprendrait pas que le droit varie substantiellement selon le cadre où il est dit. 
+*
+Nota bene : En matière consultative comme en matière contentieuse, la Cour applique le principe de l’économie du raisonnement (ou des moyens) ou principe du rasoir d’Occam. En l’occurrence, ce principe signifie que la Cour s’abstient volontairement de procéder à l’examen juridictionnel normal, c’est-à-dire complet, que l’on attend d’elle. La Cour fait l’économie (fait abstraction) d’un examen, d’un raisonnement normal dans deux cas :
+     1er cas : le défaut de pertinence juridique du moyen (c’est-à-dire de l’argument) avancé par une partie. Un moyen qui manque de pertinence juridique est ce que l’on appelle aussi un moyen inopérant. C’est un moyen qui, même si sa matérialité était établie en fait, n’entraînerait jamais les conséquences souhaitées par la partie qui l’avance. Voilà pourquoi, lorsqu’elle est confrontée à un moyen inopérant (ou dépourvu de pertinence juridique), la Cour se contente de rejeter le moyen sans vérifier la matérialité des faits sur lesquels est fondé ce moyen. Exemple : Si un différend ou une question [avis] est juridique, son éventuel caractère politique est un moyen inopérant.
+     2e cas : l’absence de l’une des conditions imposées par le droit. C’est la Cour qui expose le mieux ce second cas d’application du rasoir d’Occam :
+Exemple n°1 :
+« À strictement parler, dès lors qu'il est établi que la demande en révision ne remplit pas l'une des conditions de recevabilité prévues, la Cour n'a pas à aller plus loin et à se demander si les autres sont satisfaites. » - Demande en révision et en interprétation de l'arrêt du 24 février 1982 en l'affaire du plateau continental (Tunisie/Jamahiriya arabe libyenne) (Tunisie c. Jamahiriya arabe libyenne) arrêt du 10 décembre 1985, C.I.J. Recueil 1985, p. 207, par. 29.
+Exemple n°2 :
+« La Cour rappelle que les conditions pour l’indication de mesures conservatoires précisées dans sa jurisprudence sont cumulatives. 
+Ayant constaté que l’une de ces conditions n’était pas remplie, elle n’est donc pas tenue de rechercher si les autres le sont. » — Demande concernant la restitution de biens confisqués dans le cadre de procédures pénales (Guinée équatoriale c. France), Mesures conservatoires, Ordonnance du 12 septembre 2025. C.I.J. Recueil 2025.
+  Conséquence tirée de ces deux cas d’application du rasoir d’Occam : vous n’êtes nullement obligé (e) d’apprendre par cœur la liste - impressionnante - des objections avancées par les États pour s’opposer à l’exercice par la Cour de sa fonction consultative, car ces objections sont presque toutes considérées - par la Cour - comme des moyens inopérants.
+**
+B – Les conditions et les modalités de l’exercice de la fonction consultative
+ Les conditions et les modalités de l’exercice, par la Cour, de sa fonction consultative sont fixées par la Charte des Nations Unies et par le Statut de la Cour.
+Article 96 de la Charte :
+ « 1. L'Assemblée générale ou le Conseil de sécurité peut demander à la Cour internationale de Justice un avis consultatif sur toute question juridique.
+   2. Tous autres organes de l'Organisation et institutions spécialisées qui peuvent, à un moment quelconque, recevoir de l'Assemblée générale une autorisation à cet effet ont également le droit de demander à la Cour des avis consultatifs sur des questions juridiques qui se poseraient dans le cadre de leur activité. »
+Article 65 du Statut de la Cour :
+« La Cour peut donner un avis consultatif sur toute question juridique, à la demande de tout organe ou institution qui aura été autorisé par la Charte des Nations Unies ou conformément à ses dispositions, à demander cet avis. »
+ Ainsi donc, dans l’exercice de sa fonction consultative, la Cour est appelée à répondre, au moyen d’avis consultatifs (non obligatoires sauf exceptions), à des questions juridiques posées par des organes ou institutions de l’ONU.
+ Pour que la Cour accepte de répondre à une question posée dans une demande d’avis consultatif, les deux conditions suivantes doivent être cumulativement réunies :
+La Cour doit être compétente pour répondre à la demande d’avis consultatif (a) ;
+La Cour doit juger qu’il est opportun d’exercer cette compétence, donc de répondre à la demande d’avis consultatif (b). 
+En effet, la Cour estime que, lorsqu’elle est en présence d’une demande d’avis consultatif, elle doit commencer par se poser, dans l'ordre, deux questions :
+A-t-elle compétence pour donner l’avis consultatif demandé ?  (a)
+Dans l’affirmative, existe-t-il une « raison décisive » pour elle de refuser d’exercer une telle compétence ?  (b)
+Autrement dit, la Cour peut refuser de donner un avis consultatif  
+- soit parce qu’elle juge que, dans le cas considéré, elle n’a pas compétence,
+- soit parce que, tout en se jugeant compétente, elle estime discrétionnairement qu’il serait inopportun de répondre à la question posée dans la requête pour avis consultatif.
+ À l’instar de la Cour, nous porterons notre attention d’abord sur la compétence (1), puis sur le pouvoir discrétionnaire (1).
+**
+1 – Les conditions relatives à la compétence de la Cour
+ Pour que la Cour soit compétente à l’effet de répondre à une demande d’avis consultatif, les conditions suivantes doivent être réunies :
+- La demande d’avis consultatif doit émaner d’une institution ou d’un organe des Nations Unies dûment habilité (autorisé) à présenter une telle demande (i) ;
+- La question posée dans la demande d’avis consultatif doit être une question juridique (ii) ;
+- Sauf, en principe, dans le cas de l'Assemblée générale et du Conseil de sécurité, cette question juridique doit se poser dans le cadre de l'activité de l’organe qui a demandé l’avis (iii).
+a – L’habilitation de l’organe requérant
+ Par « organe requérant », il faut comprendre l’organe qui demande à la Cour un avis consultatif sur une question juridique qu’il lui pose.
+Saisie d’une telle demande, la Cour commence par s’assurer cet organe requérant est bien habilité à la cet effet.
+ Deux catégories d’organes ou institutions des Nations Unies ont le droit de demander des avis consultatifs à la Cour sur des questions juridiques :
+Les deux organes autorisés directement par la Charte en son article 96, paragraphe 1, à demander des avis consultatifs à la Cour :
+- l’Assemblée générale
+- et le Conseil de sécurité.
+Les 19 organes ou institutions spécialisées autorisés par l’Assemblée générale à demander à la Cour des avis consultatifs :
+- Conseil économique et social (ECOSOC), Conseil de Tutelle,
+- OMS, UNESCO, OIT, FMI, BIRD, etc.
+**
+b – Le caractère juridique de la question posée à la Cour
+ Après s’être assurée que le requérant était un organe des Nations Unies dûment habilité à lui demander un avis consultatif, la Cour ne se déclarera compétente que si elle estime que l'avis consultatif sollicité porte bien sur une « question juridique » au sens de son Statut (Article 65) et de la Charte des Nations Unies (Article 96).
+ Il s’agit là d’un principe sur lequel la Cour n’est guère disposée à transiger : 
+« La Cour, étant une Cour de justice, ne peut pas se départir des règles essentielles qui dirigent son activité de tribunal, même lorsqu'elle donne des avis consultatifs. 
+En conséquence, et conformément à l'article 65 du Statut, la Cour ne peut donner un avis consultatif que sur une question juridique. 
+Si une question n'est pas juridique, la Cour n'a pas de pouvoir discrétionnaire en la matière : elle doit refuser de donner l'avis qui lui est demandé. » –  Certaines dépenses des Nations Unies (article 17, paragraphe 2, de la Charte), Avis consultatif du 20 juillet 1962. C.I.J. Recueil 1962, p.151.
+Qu’est-ce qu’une question juridique ?  
+
+Définition : Une question juridique est une question qui est libellée en termes juridiques, qui soulève des problèmes de droit international et qui, par sa nature même, est susceptible de recevoir une réponse fondée en droit international public – Sahara occidental, Avis consultatif du 16 octobre 1975. C.I.J. Recueil 1975, p.12.
+
+Exemple : Dans son avis consultatif du 23 juillet 2025, Obligations des États en matière de changement climatique, la Cour a considéré comme juridiques les deux questions que lui avait posées l’Assemblée générale des Nations Unies :
+a) Quelles sont, en droit international, les obligations qui incombent aux États en ce qui concerne la protection du système climatique et d’autres composantes de l’environnement contre les émissions anthropiques de gaz à effet de serre pour les États et pour les générations présentes et futures ? 
+b) Quelles sont, au regard de ces obligations, les conséquences juridiques pour les États qui, par leurs actions ou omissions, ont causé des dommages significatifs au système climatique et à d’autres composantes de l’environnement… ? 
+ Dès lors qu’elle a admis que la question posée dans la demande d’avis consultatif était une question juridique, la Cour rejette systématiquement les objections avancées par les États pour l’empêcher de se déclarer compétente.
+ Autrement dit, si la Cour estime qu’une question est juridique, les éventuels autres caractères de cette question (politique, obscur, etc.) ne l’empêcheront pas d’y répondre
+**
+c – La connexité entre la question posée à la Cour et les activités de l’organe requérant
+ La double vérification qui précède (habilitation de l’organe requérant et caractère juridique de la question) n'épuise pas la question de la compétence de la Cour. 
+En effet, sauf (du moins, en principe) dans le cas où la demande d’avis consultatif émane de l’Assemblée générale ou du Conseil de sécurité, la Cour ne se reconnaîtra compétente que si la question qui lui est soumise se pose dans le cadre des activités de l’organe requérant.
+ En d’autres termes, la question juridique posée à la Cour dans la demande d’avis consultatif doit avoir un lien avec les activités de l’organe requérant, si celui-ci n’est ni l’Assemblée générale, ni le Conseil de sécurité. 
+**
+2 – Les règles relatives au pouvoir discrétionnaire de la Cour
+L’interprétation que la Cour fait de son pouvoir discrétionnaire se laisse analyser de la manière suivante.
+La Cour ne peut donner un avis consultatif que si elle a compétence pour ce faire : 
+a. habilitation de l’organe requérant ;
+b. caractère juridique de la question posée à la Cour
+c. et, sauf dans le cas de l’Assemblée générale ou du Conseil de sécurité, connexité entre la question juridique posée à la Cour et les activités de l’organe requérant.
+ Si sa compétence n’est pas établie, la Cour doit refuser de donner l'avis consultatif qui lui est demandé : « La Cour ne saurait toutefois exercer ce pouvoir discrétionnaire que si elle a établi au préalable qu'elle a compétence dans l'espèce considérée ; si la Cour n'est pas compétente, la question de l'exercice de son pouvoir discrétionnaire ne se pose pas. » – Licéité de l’utilisation des armes nucléaires par un Etat dans un conflit armé, Avis consultatif du 8 juillet 1996. C.I.J. Recueil 1996, p.66.  
+ Une fois sa compétence établie, la Cour peut discrétionnairement refuser de donner l’avis consultatif qui lui est demandé.
+ Concrètement, la Cour exerce son pouvoir discrétionnaire de donner ou de ne pas donner l’avis sollicité en se fondant sur deux principes :
+En principe, la Cour ne devrait pas refuser de répondre à la question posée dans la demande d’avis consultatif, car sa réponse « constitue une participation de la Cour, elle-même "organe des Nations Unies", à l'action de l'Organisation » – Interprétation des traités de paix conclus avec la Bulgarie, la Hongrie et la Roumanie, Avis consultatif du 30 mars 1950. C.I.J. Recueil 1950, p.65 ; Conséquences juridiques de l’édification d’un mur dans le Territoire palestinien occupé, Avis consultatif du 9 juillet 2004. C.I.J. Recueil 2004, p.136.  
+En principe, et c’est là une dérogation au principe précédent, des « raisons décisives » et uniquement des « raisons décisives » pourraient inciter la Cour à refuser discrétionnairement de répondre à la question posée dans la demande d’avis consultatif – L’expression « raisons décisives » a été employée pour la première fois dans l’avis relatif aux Jugements du Tribunal administratif de l’O. I. T. sur requêtes contre l’U. N. E. S. C. O., Avis consultatif du 23 octobre 1956. C.I.J. Recueil 1956, p. 77.
+ Quelles pourraient être ces « raisons décisives » ? 
+Selon la Cour, deux facteurs pourraient constituer des « raisons décisives » de refuser discrétionnairement de répondre à la question posée dans une demande d’avis consultatif.
+Premier facteur : Le risque de voir le rôle judiciaire de la Cour discrédité ou compromis.
+Deuxième facteur : Le défaut de consentement d’un État intéressé à la demande d’avis, et ce, dans deux cas :
+1er cas :  La Cour estime que répondre à la question reviendrait à trancher un différend sans le consentement de l’intéressé, ce qui serait contraire au principe de souveraineté des États.
+2e cas :  L’absence de renseignements pertinents pour répondre à la question posée à la Cour.
+ À ce jour, l’actuelle Cour n’a encore jamais exercé son pouvoir discrétionnaire pour refuser de répondre à une demande d’avis consultatif.
+ Faute d’application, le contenu réel des « raisons décisives » reste donc relativement vague.
+**
+3 – Les règles relatives à la procédure
+C’est par voie de requête écrite que la Cour est saisie de la question juridique sur laquelle son avis consultatif est demandé. 
+ Le Secrétaire général de l'Organisation des Nations Unies ou, le cas échéant, le plus haut fonctionnaire de l'organe ou institution requérant sert d'intermédiaire. 
+La requête formule en termes précis la question juridique posée à la Cour. Son auteur y joint tous documents pouvant servir à élucider la question.
+ Toutefois, le caractère imprécis de la question n’est pas un facteur dirimant (n’est pas un obstacle) :
+ « La Cour fera observer qu’un manque de clarté dans le libellé d’une question ne saurait priver la Cour de sa compétence.  Tout au plus, du fait de ces incertitudes, la Cour Devra-t-elle préciser l’interprétation à donner à la question, ce qu’elle a souvent fait […] » – Conséquences juridiques de l’édification d’un mur dans le Territoire palestinien occupé, Avis consultatif du 9 juillet 2004. C.I.J. Recueil 2004, p.136.
+ La requête une fois enregistrée, la Cour traite aussitôt de la question de sa composition. 
+Il s’agit là d’une priorité absolue qui doit être examinée avant toute autre décision relative à la procédure. 
+En effet, il résulte des dispositions combinées de l’article 31, paragraphes 2, 3 et 5, du Statut et de l’article 102, paragraphe 3, du Règlement que si l’avis consultatif est demandé au sujet d’une question juridique actuellement pendante entre deux ou plusieurs États, chacun de ces États pourrait désigner une personne pour siéger en qualité de juge ad hoc. 
+ Le droit pour un État X de procéder à la désignation d’une personne pour siéger au sein de la Cour en qualité de juge ad hoc à l’occasion d’une demande d’avis consultatif est subordonné aux conditions suivantes :
+1. la question juridique sur laquelle l’avis consultatif de la Cour est demandé correspond également à un différend opposant l’État X à un ou plusieurs autres États,
+2. la Cour ne compte pas sur le siège un juge de la nationalité de l’État X ; autrement dit, aucun ressortissant de l’État X ne siège déjà à la Cour comme juge permanent.
+*
+ Si la Cour décide d’y donner suite, la requête pour avis consultatif est immédiatement notifiée à tout État admis à ester devant la Cour. 
+ En outre, la Cour peut solliciter les exposés écrits exposés ou oraux de tout État admis à ester devant la Cour et de toute organisation internationale qu'elle juge susceptibles de fournir des renseignements sur la question. 
+Ces États ou organisations sont admis à discuter les exposés faits par d'autres États et organisations. Le cas échéant, la procédure est accélérée - article 103 du Règlement.
+ Dans son avis consultatif, Cour répondra discrétionnairement aux exposés écrits ou oraux. 
+ Au total, la procédure consultative s'inspire donc des dispositions prévues en matière contentieuse - comme du reste le prescrit l'article 68 du Statut.
+4 – Le prononcé et la portée de l’avis consultatif
+ L'avis consultatif est motivé, et il mentionne les noms des juges qui ont pris part à son élaboration. Ces derniers ont la possibilité d’y joindre une déclaration ou l’expression de leur opinion dissidente ou individuelle1 - article 107 du Règlement.  
+ En principe, il n'est pas doté de l'autorité de la chose jugée - tout au plus de l’autorité de « la chose conseillée ». Il s'analyse comme une simple opinion de la Cour destinée à éclairer l'organe qui l'a saisie. 
+Dans son avis consultatif du 30 mars 1950 relatif à l'Interprétation des traités de paix conclus avec la Bulgarie, la Hongrie et la Roumanie, la Cour observe justement : 
+« La réponse de la Cour n’a qu'un caractère consultatif ; comme telle, elle ne saurait avoir d'effet obligatoire ».
+ Cependant, à titre exceptionnel, les avis consultatifs peuvent avoir un effet obligatoire sur le fondement de certains instruments internationaux.
+ Par exemple, l'article XII du Statut du Tribunal administratif de l’OIT et la section 30 de la convention la convention sur les privilèges et immunités des Nations Unies prévoient-ils respectivement
+* que l'avis consultatif rendu par la Cour aura force obligatoire lorsqu’elle est saisie d’une demande de réformation d’un jugement du tribunal de l’OIT (Voir, par exemple, Jugement n° 2867 du Tribunal administratif de l’Organisation internationale du Travail sur requête contre le Fonds international de développement agricole, Avis consultatif du 1er février 2012. C.I.J. Recueil 2012, p.10 ; 
+* que l'avis consultatif de la Cour sera accepté par les parties comme décisif lorsque lui est soumis par la voie consultative un différend entre l'Organisation des Nations Unies, d'une part, et un Membre, d'autre part, sur tout point de droit relatif à la convention sur les privilèges et immunités des Nations Unies.
+ Indépendamment de ces cas exceptionnels, la pratique montre que le prestige de la Cour confère à ses avis consultatifs une autorité morale certaine. 
+**
+
+Une opinion dissidente émane d'un juge qui souhaite exposer les raisons pour lesquelles il s'est trouvé en désaccord, sur un ou plusieurs points, avec le dispositif de l'avis et avec les motifs qui en constituent le soutien nécessaire.  
+Une opinion individuelle est le fait d'un juge qui expose son accord avec le dispositif de l'avis et son désaccord avec tout ou partie des motifs qui en constituent le soutien nécessaire.  
+Une déclaration est normalement un bref exposé par lequel un juge fait connaître dans quel sens il a voté.
+Il arrive 
+- qu'un même texte relève partiellement de chacune de ces trois catégories
+- ou qu'un même texte soit signé par plusieurs juges : opinion dissidente ou individuelle commune, déclaration commune.
+Formellement, voici l'ordre de présentation :
+- l'avis de la Cour,
+- les déclarations,
+- les opinions individuelles
+- et les opinions dissidentes.
+Toutes ces remarques valent, mutatis mutandis, pour les arrêts rendus par la Cour.
+
 --- DOCUMENT 3: CHAPITRE II ---
 
 `;
