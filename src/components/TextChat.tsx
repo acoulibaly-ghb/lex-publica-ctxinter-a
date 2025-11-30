@@ -115,10 +115,9 @@ const TextChat: React.FC = () => {
   const API_KEY = import.meta.env.VITE_API_KEY;
 
   const suggestions = [
-    "Qu'est-ce qu'un service public ?",
-    "L'arrêt Benjamin et la police administrative",
-    "Différence entre SPA et SPIC",
-    "Définition d'un acte réglementaire"
+    "Qu’est-ce qu’un différend ?",
+    "Définition et conditions de licéité des contre-mesures ?",
+    "Qu’est-ce que la protection diplomatique ?"
   ];
 
   const scrollToBottom = () => {
