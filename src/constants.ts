@@ -689,6 +689,646 @@ Formellement, voici l'ordre de présentation :
 Toutes ces remarques valent, mutatis mutandis, pour les arrêts rendus par la Cour.
 
 --- DOCUMENT 3: CHAPITRE II ---
+CHAPITRE II
+L’ACTION JUDICIAIRE DES ÉTATS DEVANT LA COUR INTERNATIONALE DE JUSTICE
+
+ 
+**
+SECTION I – L’introduction de l’instance
+Définition : L’instance, c’est la procédure qui s’ouvre devant une juridiction par sa saisine et se clôt par sa décision.
+Définition : Un compromis est un accord par lequel deux ou plusieurs États conviennent de soumettre à la Cour un différend survenu entre eux.
+Définition : Le forum prorogatum correspond à un consentement donné unilatéralement par un État à la compétence de la Cour après la saisine de la Cour par son adversaire qui, quant à lui, a déjà accepté la compétence de la Cour.
+Définition : Une clause compromissoire est une disposition (une clause) figurant dans un traité et par laquelle deux ou plusieurs États acceptent la compétence de la Cour pour des différends futurs.
+Définition : Une déclaration facultative de juridiction obligatoire est une déclaration par laquelle un État accepte unilatéralement, conformément à l’article 36, paragraphe 2, du Statut, la compétence de la Cour pour des différends futurs.
+Définition : Une réserve est une déclaration unilatérale par laquelle un Etat exclut de son acceptation de la compétence d’une juridiction soit un ou plusieurs différends, soit une ou plusieurs catégories de différends.
+Définition : Une réserve ratione materiae est une réserve qui a pour objet d’exclure de la compétence de la Cour les différends concernant certains domaines, certaines matières.
+Définition : Une réserve ratione temporis est une réserve qui a pour objet d’exclure de la compétence de la Cour les différends survenus avant ou après une certaine date.
+Définition : Une réserve ratione personae est une réserve qui a pour objet d’exclure de la compétence de la Cour les différends que l’Etat auteur de cette réserve aurait avec certains États plus ou moins clairement identifiés.
+Définition : Les mesures conservatoires sont des mesures prises par la Cour en vertu de l’article 41 de son Statut et qui ont pour but de sauvegarder, dans l’attente de sa décision sur le fond de l’affaire, les droits revendiqués par chacune des parties.
+Définition : Une exception préliminaire est un moyen (un argument) de droit ou de fait susceptible de mettre fin à l’instance sans que la juridiction saisie statue sur le fond du différend.
+Définition : Une exception préliminaire d’incompétence est un moyen avancé par une partie afin que la Cour ne statue pas sur le fond du différend, au motif que ne sont pas réunies toutes les conditions dont dépend sa compétence.
+Définition : Une exception préliminaire d’irrecevabilité est un moyen avancé par une partie afin que la Cour ne statue pas sur le fond du différend, au motif que n’a pas été respectée une formalité qui était un préalable obligatoire à sa saisine.
+Définition : Les conclusions d’une partie, c’est la demande motivée d’une partie (donc, demande et arguments).
+Définition :  Les conclusions finales d’une partie, c’est la demande d’une partie sans les arguments.
+Définition : L’intervention, c’est le fait pour un État de se joindre à une procédure pendante devant la Cour sans y être initialement demandeur ou défendeur.
+Définition : Le désistement, c’est le fait pour un État de renoncer à poursuivre la procédure engagée devant la Cour.
+
+I – Préalable : les conditions sine qua non de la compétence contentieuse de la Cour
+ Nota bene : C’est par le biais d’une exception préliminaire d’incompétence qu’un État peut contester que soient réunies les conditions requises pour que la Cour soit compétente.
+ Résumé des cinq conditions requises pour que la Cour soit compétente aux fins de statuer sur une affaire contentieuse.
+Ces cinq conditions doivent être réunies à la date de la saisine de la Cour. En effet, la compétence de la Cour doit s’apprécier au moment du dépôt de l’acte introductif d’instance, donc à la date de la saisine de la Cour.
+ Voici le résumé des cinq conditions requises pour que la Cour soit compétente :
+1. L’appartenance de toutes les parties à l’un quelconque des trois groupes d’États ayant juridiquement accès à la Cour ;
+2. La survenance, entre les parties, d’un différend au sens de la jurisprudence « Mavrommatis » ; 
+3. Le caractère juridique du différend survenu entre les parties ;
+4. La persistance, à la date de saisine de la Cour, du différend d’ordre juridique survenu entre les parties ;
+5. Le consentement donné par toutes les parties à la compétence de la Cour.
+À présent, dans l’ordre du plan, le détail des cinq conditions.
+A – L’appartenance de toutes les parties à l’un quelconque des trois groupes d’États ayant juridiquement accès à la Cour
+ Pour que la Cour soit compétente, toutes les parties doivent être des États. En effet l’article 34 du Statut de la Cour dispose :
+« Seuls les États ont qualité pour se présenter devant la Cour. »
+ Cette disposition doit être comprise comme suit : En matière contentieuses, seuls des États peuvent être demandeurs ou défendeurs devant la Cour.
+ Ou explication encore plus concrète :
+o On ne peut assigner que des États devant la Cour ;
+o On ne peut assigner des États devant la Cour que si soi-même on est un État.
+ Toutefois, si la Cour n’est ouverte, en matière contentieuse, qu’aux États, elle n’est pas ouverte à tous les États.
+La Cour est ouverte à trois catégories d’États auxquelles les parties doivent donc appartenir :
+1. Les États membres des Nations Unies (193) 
+L’article 93, paragraphe 1, de la Charte dispose :
+« Tous les Membres des Nations Unies sont ipso facto parties au Statut de la Cour. » 
+D’un strict point de vue juridique, cette disposition est totalement superflue puisque, le Statut de la Cour étant annexé à la Charte, tous les Membres des Nations Unies ont nécessairement ratifié et la Charte et le Statut, et ce, par le même acte. 
+Cela dit, l’article 93, paragraphe 1, de la Charte a sans doute une portée symbolique voulue politiquement forte ;
+2. Les États non membres des Nations Unies mais parties au Statut de la Cour
+L’article 93, paragraphe 2, de la Charte : 
+« Les conditions dans lesquelles les États qui ne sont pas Membres de l'Organisation peuvent devenir parties au Statut de la Cour internationale de Justice sont déterminées, dans chaque cas, par l'Assemblée générale sur recommandation du Conseil de sécurité. »
+3. Les États non parties au Statut de la Cour mais auxquels la Cour peut être ouverte 
+En vertu de l’article 35 du Statut de la Cour, ces États doivent respecter les conditions fixées par le Conseil de sécurité. 
+**
+B – La survenance d’un différend entre les parties
+ L’affaire contentieuse soumise à la Cour doit être un différend au sens de la jurisprudence Mavrommatis.
+Autrement dit, il est impératif qu’il réponde à la définition suivante :  
+
+« Un différend est un désaccord sur un point de droit ou de fait, une contradiction, une opposition de thèses juridiques ou d'intérêts entre deux personnes. »  – Affaire des concessions Mavrommatis en Palestine, Exception d’incompétence, Arrêt du 30 août 1924. CPJI, série A n°2. 
+
+ Deux conditions doivent être réunies : 
+1. Une réclamation formulée par un État X contre un État Y, puis portée à la connaissance de ce dernier ;
+2. Le rejet explicite ou implicite de cette réclamation par l’État Y.
+ En cas de désaccord entre les parties sur la qualification de différend, il appartient à la Cour de décider, en dernier ressort, si un différend est survenu ou non entre les parties.
+**
+C – Le caractère juridique du différend survenu entre les parties
+ Le différend survenu entre les parties doit d’être d’ordre juridique au sens de la jurisprudence de la Cour.
+
+Définition : « Un différend d’ordre juridique est un différend « susceptible d'être résolu par application des principes et des règles du droit international »   – Actions armées frontalières et transfrontalières (Nicaragua c. Honduras), compétence et recevabilité, Arrêt du 20 décembre 1988. C.I.J. Recueil 1988, p. 69.
+
+Si un différend est à la fois juridique et politique, la Cour le considère comme un différend juridique.
+ En désaccord entre les parties sur le caractère juridique de leur différend, il appartient à la Cour de qualifier le différend.
+**
+D – La persistance, à la date de saisine de la Cour, du différend d’ordre juridique survenu entre les parties
+ Question liminaire : À quelle date un différend survient-il entre deux parties ? 
+ Réponse : Nous savons que deux conditions doivent être réunies pour que la Cour conclut à l’existence d’un différend :
+1. Une réclamation adressée et notifiée par un État X à un État Y, puis portée à la connaissance de ce dernier ;
+2. Le rejet explicite ou implicite de cette réclamation par l’État Y.
+En conséquence, la date de la naissance (juridique) du différend est la suivante : la date à laquelle la réclamation a été rejetée par l’État Y, destinataire de la réclamation.
+ Voici enfin le principe : Le différend né à cette date ne doit pas avoir disparu avant la date de la saisine de la Cour à la suite, par exemple, d’un règlement amiable.
+**
+E – Le consentement donné par toutes les parties à la compétence de la Cour
+ La souveraineté des États implique un principe fondamental, à savoir qu’une juridiction internationale ne peut valablement trancher un différend opposant des États qu’avec le consentement de ces derniers :
+« Le consentement des États parties à un différend est le fondement de la juridiction de la Cour en matière contentieuse. » – Interprétation des traités de paix conclus avec la Bulgarie, la Hongrie et la Roumanie, Avis consultatif du 30 mars 1950. C.I.J. Recueil 1950, p.65.
+ Tous les États parties au différend doivent avoir donné leur consentement à la compétence de la Cour.
+Plus concrètement, le différend soumis à la Cour doit être compris dans le consentement que tous les États parties au différend ont donné leur à la compétence de la Cour.
+Le différend ne doit pas être exclu du consentement par une réserve que l’une des parties a décidé d’invoquer (Voir infra)
+ En pratique, lorsqu’un État X assigne une État Y devant la Cour, il s’emploie d’abord à indiquer les bases sur lesquelles il entend fonder la compétence de la Cour.
+ En d’autres termes, l’État X dit en substance à la Cour :
+« Je sais fort bien que la Cour n’est compétente que si toutes les parties à notre différend ont consenti à la compétence de la Cour, notamment pour notre différend.
+Voici la preuve que j’ai donné mon consentement à la compétence de la Cour, notamment pour notre différend ;
+Et voici la preuve que mon adversaire, l’État Y, a également donné son consentement à la compétence de la Cour, notamment pour notre différend. »
+Il ne reste plus qu’à exposer les différents modes d’expression du consentement des États à la compétence de la Cour. 
+1 – Les différents modes d’expression du consentement
+Les États parties au différend doivent peuvent donner leur consentement à la compétence de la Cour  
+- de manière conventionnelle ou unilatérale, 
+- avant ou après la naissance du différend. 
+*
+
+
+a – Le compromis
+ Particularités de ce mode d’expression du consentement :
+- L’acceptation de la compétence de la Cour par les États parties intervient après la naissance de leur différend
+- Cette acceptation prend une forme conventionnelle, c’est-à-dire la forme d’un accord dénommé justement « compromis ».
+
+Définition : Un compromis est un accord par lequel deux ou plusieurs États conviennent de soumettre à la Cour un différend survenu entre eux.
+
+Comme le révèle cette définition, dans le cas d’un compromis, le consentement donné à la compétence de la Cour par les États parties au différend revêt bien deux particularités : 
+  1. C’est un consentement donné par les États parties après la naissance de leur différend ;
+  2. C’est un consentement conventionnel car il résulte d’une convention, d’un accord (d’un compromis) intervenu entre les États parties au différend.
+**
+
+b – Le forum prorogatum
+ Particularités de ce mode d’expression du consentement :
+- L’acceptation par l’une des parties au différend de la compétence de la Cour intervient après la naissance du différend, voire après la saisine de la Cour par l’autre partie qui, quant à lui, a déjà accepté la compétence de la Cour ;
+- Cette acceptation prend une forme unilatérale, c’est-à-dire la forme d’un acte unilatéral et non d’un accord comme dans le cas du compromis.
+
+Définition : Le forum prorogatum correspond à un consentement donné unilatéralement par un État à la compétence de la Cour après la saisine de la Cour par son adversaire qui, quant à lui, a déjà accepté la compétence de la Cour.
+
+ Comme le montre cette définition, dans le cas d’un forum prorogatum, le consentement donné à la compétence de la Cour par l’un des États parties au différend revêt bien deux particularités : 
+  1. C’est un consentement unilatéral car il résulte d’un acte unilatéral émanant de l’un des États parties au différend ;
+  2. Il s’agit d’un consentement donné par l’État partie en question après la naissance du différend, voire après la saisine de la Cour par l’autre État partie qui, quant à lui, a déjà accepté la compétence de la Cour. 
+**
+c – La clause compromissoire
+ Particularités de ce mode d’expression du consentement :
+- L’acceptation de la compétence de la Cour par les États parties intervient avant la naissance de leur différend ;
+- Cette acceptation prend une forme conventionnelle, c’est-à-dire la forme d’une clause, d’une disposition contenue dans une convention, un accord intervenu entre les États parties au différend.
+
+Définition : Une clause compromissoire est une disposition (une clause) figurant dans un traité et par laquelle deux ou plusieurs États acceptent la compétence de la Cour pour des différends futurs.
+
+ Comme le révèle cette définition, dans le cas d’une clause compromissoire, le consentement donné à la compétence de la Cour par les États parties au différend revêt bien deux particularités :  
+  1. C’est un consentement donné par les États parties avant la naissance de leur différend ;
+  2. C’est un consentement conventionnel car il résulte d’une clause, d’une disposition contenue dans une convention, un accord intervenu entre les États parties au différend.
+*
+Exemple de clause compromissoire
+Convention du 9 décembre 1948 pour la prévention et la répression du crime de génocide :
+Article IX
+« Les différends entre les Parties contractantes relatifs à l’interprétation, l’application ou l’exécution de la présente Convention, y compris ceux relatifs à la responsabilité d’un Etat en matière de génocide ou de l’un quelconque des autres actes énumérés à l’article III, seront soumis à la Cour internationale de Justice, à la requête d’une partie au différend. »
+**
+d – La déclaration facultative de juridiction obligatoire
+ Particularités de ce mode d’expression du consentement :
+- L’acceptation de la compétence de la Cour par les États parties intervient avant la naissance de leur différend ;
+- Cette acceptation prend une forme unilatérale, c’est-à-dire la forme d’une déclaration, donc d’un acte unilatéral.
+
+Définition : Une déclaration facultative de juridiction obligatoire est une déclaration par laquelle un État accepte unilatéralement, conformément à l’article 36, paragraphe 2, du Statut, la compétence de la Cour pour des différends futurs.
+
+Comme le révèle cette définition, dans le cas d’une déclaration facultative de juridiction obligatoire, le consentement donné à la compétence de la Cour par un des États parties au différend revêt bien deux particularités : 
+  1. C’est un consentement donné par cet État partie avant la naissance du différend ;
+  2. C’est un consentement unilatéral car il résulte d’une déclaration, donc d’un acte unilatéral.
+ Une telle déclaration, dite « déclaration facultative de juridiction obligatoire » est prévue par l’article 36, paragraphe 2, du Statut de la Cour qui dispose : 
+ « Les États parties au présent Statut pourront, à n'importe quel moment, déclarer reconnaître comme obligatoire de plein droit et sans convention spéciale, à l'égard de tout autre État acceptant la même obligation, la juridiction de la Cour sur tous les différends d'ordre juridique ayant pour objet :
+a. l'interprétation d'un traité ;
+b. tout point de droit international ;
+c. la réalité de tout fait qui, s'il était établi, constituerait la violation d'un engagement international ;
+d. la nature ou l'étendue de la réparation due pour la rupture d'un engagement international. » 
+ Une fois qu’un État a fait une telle déclaration, il la remet au Secrétaire général des Nations Unies qui en transmettra copie aux États parties au Statut ainsi qu'au Greffier de la Cour.
+Cette déclaration est facultative en ce sens que nul État n’est tenu d’y procéder. 
+Mais le prononcé d’une telle déclaration a pour conséquence de rendre obligatoire la juridiction de la Cour. 
+Il permet ainsi une saisine par voie de requête unilatérale en dehors de tout compromis. Seul un tiers des États parties au Statut de la Cour ont souscrit à cette clause facultative - 63 États.
+Nombre de déclarants ont restreint la portée de leur déclaration par des réserves.
+ Nota bene : Si un État X fait une déclaration prévue par l’article 36, paragraphe 2, du Statut de la Cour, seul un État ayant fait une déclaration analogue peut assigner l’État X devant la Cour en se fondant sur la déclaration faite par l’État X. Motif : la réciprocité.
+**
+2 – Les réserves à l’expression du consentement
+
+ Réserve – signification générique :
+Une réserve est une déclaration unilatérale par laquelle un sujet de droit limite ou précise la portée de l’engagement auquel il consent. 
+*
+
+Réserve — Signification propre au contentieux international :
+Une réserve est une déclaration unilatérale par laquelle un Etat exclut de son acceptation de la compétence d’une juridiction soit un ou plusieurs différends, soit une ou plusieurs catégories de différends.
+
+Naturellement, c’est la signification propre au contentieux international qui sera retenue dans ce cours.
+ La compétence d’une juridiction internationale, qui, rappelons-le, s’apprécie au moment de la saisine de celle-ci, n’existe que dans les termes et les limites où elle a été acceptée par les parties au différend. 
+ Le droit de formuler et d’invoquer des réserves est inhérent à l’essence même de la juridiction internationale :
+« Il est vrai que la juridiction de la Cour est toujours une juridiction limitée, n'existant que dans la mesure où les États l'ont admise […] » – Affaire relative à l’Usine de Chorzów (Demande en indemnité) (Compétence), Arrêt n°8 du 26 juillet 1927. CPJI, série A n°9-série C n°13-I.
+ Nota bene : C’est par le biais d’une exception préliminaire d’incompétence qu’un État invoque une réserve devant la Cour (Voir infra, page 25).
+a – La réserve ratione materiae
+
+
+Définition : Une réserve ratione materiae est une réserve qui a pour objet d’exclure de la compétence de la Cour les différends concernant certains domaines, certaines matières.
+
+
+Par exemple, formule une réserve ratione materiae un État X qui déclare :
+« J’accepte la compétence de la Cour pour tous les différends d’ordre juridique, sauf pour les différends relatifs à la délimitation de mon plateau continental. »
+Deux conséquences :
+Première conséquence. L’État X a le droit d’invoquer sa réserve ratione materiae devant la Cour pour se protéger. 
+La Cour se déclarera incompétente pour défaut de consentement si cet État X est assigné devant la Cour par un État Y au sujet d’un différend exclu par la réserve ratione materiae de l’État X. À condition toutefois que l’État X invoque sa réserve ratione materiae, ce qu’il n’est pas obligé de faire.
+En effet, 
+« Un État peut renoncer à une exception d'ordre juridictionnel qu'il aurait été en droit de soulever. » – Demande en révision et en interprétation de l’arrêt du 24 février 1982 en l’affaire du Plateau continental (Tunisie/Jamahiriya arabe libyenne) (Tunisie c. Jamahiriya arabe libyenne), Arrêt du 10 décembre 1985. C.I.J. Recueil 1985, p. 192.
+Deuxième conséquence. Réciprocité oblige, les parties opposées à l’État X ont également le droit d’invoquer, devant la Cour, la réserve ratione materiae de l’État X contre ce dernier.
+La Cour se déclarera incompétente pour défaut de consentement si cet État X assigne devant la Cour un État Y au sujet d’un différend exclu par la réserve ratione materiae de l’État X. À condition toutefois que l’État Y invoque ladite réserve ratione materiae, ce qu’il n’est pas obligé de faire, car, répétons-le, 
+« Un État peut renoncer à une exception d'ordre juridictionnel qu'il aurait été en droit de soulever. » – Demande en révision et en interprétation de l'arrêt du 24 février 1982, Arrêt précité du 10 décembre 1985.
+**
+b – La réserve ratione temporis
+
+Définition : Une réserve ratione temporis est une réserve qui a pour objet d’exclure de la compétence de la Cour les différends survenus avant ou après une certaine date.
+
+Par exemple, formule une réserve ratione temporis un État qui déclare :
+« J’accepte la compétence de la Cour pour tous les différends d’ordre juridique, sauf pour les différends survenus avant le 12 décembre 2019. »
+Deux conséquences :
+Première conséquence. L’État X a le droit d’invoquer sa réserve ratione temporis devant la Cour pour se protéger. 
+La Cour se déclarera incompétente pour défaut de consentement si cet État X est assigné devant la Cour par un État Y au sujet d’un différend exclu par la réserve ratione temporis de l’État X. À condition toutefois que l’État X invoque sa réserve ratione temporis, ce qu’il n’est pas obligé de faire, car 
+« Un État peut renoncer à une exception d'ordre juridictionnel qu'il aurait été en droit de soulever. » – Demande en révision et en interprétation de l'arrêt du 24 février 1982, Arrêt précité du 10 décembre 1985.
+Deuxième conséquence. Réciprocité oblige, les parties opposées à l’État X ont également le droit d’invoquer, devant la Cour, la réserve ratione temporis de l’État X contre ce dernier.
+La Cour se déclarera incompétente pour défaut de consentement si cet État X assigne devant la Cour un État Y au sujet d’un différend exclu par la réserve ratione temporis de l’État X. À condition toutefois que l’État Y invoque ladite réserve ratione temporis, ce qu’il n’est pas obligé de faire, car 
+« Un État peut renoncer à une exception d'ordre juridictionnel qu'il aurait été en droit de soulever. » – Demande en révision et en interprétation de l'arrêt du 24 février 1982, Arrêt précité du 10 décembre 1985.
+**
+c – La réserve ratione personae
+
+Définition : Une réserve ratione personae est une réserve qui a pour objet d’exclure de la compétence de la Cour les différends que l’Etat auteur de cette réserve aurait avec certains États plus ou moins clairement identifiés.
+
+Par exemple, formule une réserve ratione personae un État qui déclare :
+« J’accepte la compétence de la Cour pour tous les différends d’ordre juridique, sauf pour les différends qui nous opposeraient avec des États qui ont été membres du Commonwealth. »
+Deux conséquences :
+Première conséquence. L’État X a le droit d’invoquer sa réserve ratione temporis devant la Cour pour se protéger. 
+La Cour se déclarera incompétente pour défaut de consentement si cet État X est assigné devant la Cour par un État Y au sujet d’un différend exclu par la réserve ratione personae de l’État X. À condition toutefois que l’État X invoque sa réserve ratione personae, ce qu’il n’est pas obligé de faire, car, antépénultième répétition, 
+« Un État peut renoncer à une exception d'ordre juridictionnel qu'il aurait été en droit de soulever. » – Demande en révision et en interprétation de l'arrêt du 24 février 1982, Arrêt précité du 10 décembre 1985.
+Deuxième conséquence. Réciprocité oblige, les parties opposées à l’État X ont également le droit d’invoquer, devant la Cour, la réserve ratione personae de l’État X contre ce dernier.
+La Cour se déclarera incompétente pour défaut de consentement si cet État X assigne devant la Cour un État Y au sujet d’un différend exclu par la réserve ratione personae de l’État X. À condition toutefois que l’État Y invoque ladite réserve ratione personae, ce qu’il n’est pas obligé de faire, car, pénultième répétition, 
+« Un État peut renoncer à une exception d'ordre juridictionnel qu'il aurait été en droit de soulever. » – Demande en révision et en interprétation de l'arrêt du 24 février 1982, Arrêt précité du 10 décembre 1985.
+**
+d – Les réserves sui generis
+Il s’agit de deux réserves célèbres dont chacune porte le nom du sénateur américain qui l’a inventée.
+Réserve Connally  (du nom du sénateur américain qui l’a inventée) : 
+Elle exclut de la compétence de la Cour les différends qui relèvent de la compétence nationale de l’Etat X telle que cette compétence nationale est entendue par l’Etat X (C’est une réserve ratione materiae).
+La licéité de la réserve Connally est controversée car elle donne à l’État qui la formule la maîtrise de la compétence de la Cour. Cet État ne peut en aucun cas être assigné devant la Cour, le contenu de la réserve étant variable et tributaire de la signification que l’État entend lui prêter.
+Mais réciprocité oblige (voir ci-dessous), Cet État ne peut non plus en aucun cas assigner un autre État devant la Cour.
+Réserve Vandenberg  (du nom du sénateur américain qui l’a inventée) :
+Elle exclut de la compétence de la Cour les différends concernant l’interprétation d’un traité si tous les États parties à ce traité ne consentent pas à se présenter devant la Cour (C’est une réserve ratione personae).
+**
+e – Réserves et réciprocité : les principes
+Les réserves sont des armes à double tranchant :
+Certes, elles protègent l’Etat X qui les formule, en ce sens que cet État X ne peut être attaqué devant la Cour au sujet des différends exclus par les réserves de cet État X, à condition qu’il invoque lesdites réserves ; 
+Mais cet État X ne peut pas non plus attaquer d’autres États au sujet de ces mêmes différends exclus par les réserves de cet État X. 
+En effet, tout État Y peut se prévaloir des réserves de ses adversaires même si lui-même, État Y, n’a pas formulé de telles réserves.
+C’est une application du principe de réciprocité.
+La Cour ne retient pas d’office une réserve. Elle attend qu’un État invoque la réserve par le biais d’une exception préliminaire d’incompétence (Voir infra, page 25).
+Toutefois, l’invocation d’une réserve est simplement un droit pour un État, mais pas une obligation, comme la Cour elle-même l’a souligné, ultime répétition :
+« Un État peut renoncer à une exception d'ordre juridictionnel qu'il aurait été en droit de soulever. » – Demande en révision et en interprétation de l'arrêt du 24 février 1982, Arrêt précité du 10 décembre 1985.
+**
+F – Le caractère irrévocable de la reconnaissance par la Cour de sa compétence
+ Il y a lieu de faire état ici de ce qu’il est convenu d’appeler la jurisprudence « Nottebohm » que, dans l’affaire du « Mandat d'arrêt du 11 avril 2000 », la Cour expose de la manière suivante :
+« 26. La Cour rappelle que, selon une jurisprudence constante, sa compétence doit s’apprécier au moment du dépôt de l’acte introductif d’instance. 
+Ainsi, si elle est compétente à la date à laquelle une affaire lui est soumise, elle le demeure quels que soient les événements survenus ultérieurement. 
+De tels événements peuvent éventuellement conduire à constater qu’une requête a été par la suite privée d’objet et à prononcer un non-lieu à statuer ; ils ne sauraient en revanche priver la Cour de sa compétence. […] » – Mandat d’arrêt du 11 avril 2000 (République démocratique du Congo c. Belgique), Arrêt du 14 février 2002. C.I.J. Recueil 2002, p. 3.
+Explication :
+ Une fois que la Cour s’est déclarée compétente, elle le demeure, et ce, même si viennent à disparaître les conditions requises pour qu’elles soient compétente : par exemple, disparition du différend à la suite de son règlement amiable.
+ La Cour reste compétente, mais elle prononcera sans délai, par voie d’ordonnance, un non-lieu à statuer.  
+**
+
+II – Le préalable des procédures incidentes
+ Question : Que signifient les expressions « procédure principale » et « procédure incidente » ? 
+ Réponse : Afin La procédure principale, c’est l’instance 
+* qui commence avec la soumission du différend à la Cour
+* et qui a pour finalité normale (espérée par le demandeur) une décision de la Cour sur le fond du différend.
+ La procédure principale peut être interrompue par des demandes annexes dont le traitement est appelé « procédure incidente ».
+ Elle peut être interrompue 
+* temporairement, par la présentation d’une demande en indication de mesures conservatoires,
+* temporairement ou définitivement, par la présentation d’une exception préliminaire.   
+A – Les mesures conservatoires
+ Question : La procédure étant souvent longue, comment les États peuvent-ils assurer la sauvegarde de leurs droits en attendant la décision de la Cour sur le fond ? 
+ Réponse : Afin d’assurer la sauvegarde de leurs droits en attendant la décision de la Cour sur le fond du différend, les États peuvent demander à la Cour d’indiquer des mesures conservatoires.
+ L’article 41, paragraphe 1, du Statut de la Cour dispose : 
+« La Cour a le pouvoir d’indiquer, si elle estime que les circonstances l’exigent, quelles mesures conservatoires du droit de chacun doivent être prises à titre provisoire. »  
+
+
+Définition : Les mesures conservatoires sont des mesures prises par la Cour en vertu de l’article 41 de son Statut et qui ont pour but de sauvegarder, dans l’attente de sa décision sur le fond de l’affaire, les droits revendiqués par chacune des parties.
+
+ Les mesures conservatoires permettent d’éviter une atteinte irréparable aux droits en litige.
+1 – La recevabilité de la demande en indication de mesures conservatoires
+Une demande en indication de mesures conservatoires n’est recevable que moyennant le respect
+* d’une condition de procédure
+* d’une condition de forme
+* et de conditions fond tenant au contenu de la demande. 
+a. La condition de procédure : L’Introduction préalable d’une instance principale sur le fond.
+ Un État ne peut pas demander directement et uniquement des mesures conservatoires (procédure incidente).
+Il faut d’abord que soit soumis à la Cour un différend qu’elle est appelée à trancher au fond (instance ou procédure principale).
+Autrement dit, la Cour ne peut envisager d’exercer le pouvoir qu’elle a d’indiquer des mesures conservatoires que si elle a été saisie du fond de l’affaire.
+ Une fois cette condition satisfaite, la demande en indication de mesures conservatoires peut intervenir en tout état de cause, c’est-à-dire à n’importe quel stade de la procédure précédant le délibéré.
+ Elle peut émaner aussi bien du demandeur que du défendeur.
+ De surcroît, la Cour elle-même peut indiquer d’office des mesures conservatoires. « D’office », c’est-à-dire en l’absence de toute demande émanant d’une partie.
+b. La condition de forme. La demande en indication de mesures conservatoires doit être écrite.
+Les conditions tenant au contenu de la demande en indication de mesures conservatoires. 
+L’État doit indiquer dans sa demande 
+* les mesures sollicitées, 
+* les motifs sur lesquels se fonde la demande 
+* et les conséquences de son éventuel rejet
+**
+2 – Le bien-fondé de la demande en indication de mesures conservatoires
+Si la Cour juge recevable la demande, elle n’indiquera de mesures conservatoires que si sont réunies les conditions suivantes, au nombre de six (6) :
+1. La conviction de la Cour qu'elle a, prima facie, compétence pour se prononcer sur le fond du différend.
+Explication de la Cour : « 15. La Cour ne peut indiquer des mesures conservatoires que si les dispositions invoquées par le demandeur semblent prima facie constituer une base sur laquelle sa compétence pourrait être fondée, mais elle n’a pas besoin de s’assurer de manière définitive qu’elle a compétence quant au fond de l’affaire. » — Application de la convention pour la prévention et la répression du crime de génocide dans la bande de Gaza (Afrique du Sud c. Israël), mesures conservatoires, Ordonnance du 26 janvier 2024. C.I.J. Recueil 2024. 
+2. Le caractère plausible des droits dont la protection est recherchée.
+Explication de la Cour : « 36. À ce stade de la procédure, cependant, la Cour n’est pas appelée à se prononcer définitivement sur le point de savoir si les droits que l’Afrique du Sud souhaite voir protégés existent. Il lui faut seulement déterminer si les droits que l’Afrique du Sud revendique et dont elle sollicite la protection sont plausibles. » — Application de la convention pour la prévention et la répression du crime de génocide dans la bande de Gaza (Afrique du Sud c. Israël), mesures conservatoires, Ordonnance du 26 janvier 2024. C.I.J. Recueil 2024.
+3. L’existence d’un lien entre les droits dont la protection est recherchée et les mesures conservatoires demandées ;
+4. L’existence d’un lien entre les droits qui font l’objet de l’instance principale pendante devant la Cour sur le fond de l’affaire et les mesures conservatoires sollicitées ;
+5. Le risque qu’un préjudice irréparable soit causé aux droits en litige ou le risque que s’aggrave ou s’étende le conflit ;
+6. L’urgence, c’est-à-dire « un risque réel et imminent qu’un préjudice irréparable soit causé aux droits revendiqués avant que la Cour ne rende sa décision définitive. ». Selon la Cour, « la condition d’urgence est remplie dès lors que les actes susceptibles de causer un préjudice irréparable peuvent "intervenir à tout moment" avant que la Cour ne se prononce de manière définitive en l’affaire ». — Application de la convention pour la prévention et la répression du crime de génocide dans la bande de Gaza (Afrique du Sud c. Israël), mesures conservatoires, Ordonnance du 26 janvier 2024. C.I.J. Recueil 2024.
+*
+Le Règlement de la Cour contient quelques précisions d’importance :
+ Lorsqu’une demande en indication de mesures conservatoires lui est présentée, la Cour peut indiquer des mesures totalement ou partiellement différentes de celles qui sont sollicitées, ou des mesures à prendre ou à exécuter par la partie même dont émane la demande (Article 75, paragraphe 2, du Règlement).
+ Le rejet d’une demande en indication de mesures conservatoires n’empêche pas la partie qui l’avait introduite de présenter en la même affaire une nouvelle demande fondée sur des faits nouveaux (Article 75, paragraphe 3, du Règlement).
+ À la demande d’une partie, la Cour peut, à tout moment avant l’arrêt définitif en l’affaire, rapporter ou modifier toute décision concernant des mesures conservatoires si un changement dans la situation lui paraît justifier que cette décision soit rapportée ou modifiée (Article 76, paragraphe 1, du Règlement).
+*
+Dernière ordonnance indiquant des mesures conservatoires : 
+Demande concernant la restitution de biens confisqués dans le cadre de procédures pénales (Guinée équatoriale c. France), Mesures conservatoires, Ordonnance du 12 septembre 2025. C.I.J. Recueil 2025.  
+**
+3 – L’autorité de l’ordonnance indiquant des mesures conservatoires
+ Les mesures conservatoires sont prises sous forme d'ordonnances. 
+ Leur force obligatoire a souvent été contestée par une partie de la doctrine. Celle-ci se fondait sur une interprétation littérale de l'article 41 du Statut. 
+Dans cet article, il est question du « pouvoir d'indiquer » les mesures qui doivent être prises. Au cours des travaux préparatoires du Statut, « indiquer » a du reste, été préféré à « suggérer » et à « ordonner ».
+ Finalement, c’est l’Affaire LaGrand qui va obliger la Cour à prendre position en faveur du caractère obligatoire des ordonnances indiquant des mesures conservatoires – LaGrand (Allemagne c. Etats-Unis d’Amérique), Arrêt du 27 juin 2001. C.I.J. Recueil 2001, p. 466.
+ La Cour affirme alors, pour la première fois de son histoire, que les ordonnances indiquant des mesures conservatoires ont force obligatoire : LaGrand (Allemagne c. Etats-Unis d’Amérique), Arrêt du 27 juin 2001. C.I.J. Recueil 2001, p. 466.
+**
+B – Les exceptions préliminaires
+ Question : Comment un État X peut-il tenter d’empêcher juridiquement la Cour de statuer sur le fond du différend qui l’oppose à un État Y qui a saisi la Cour ? 
+ Réponse : Afin de d’empêcher juridiquement la Cour de statuer sur le fond du différend qui l’oppose à un État Y qui a saisi la Cour, un État X peut soulever une exception préliminaire.
+
+Définition : Une exception préliminaire est un moyen (un argument) de droit ou de fait susceptible de mettre fin à l’instance sans que la juridiction saisie statue sur le fond du différend.
+
+En raison de son objet et de son but tels qu’ils ressortent de la définition donnée ci-dessus, une exception préliminaire est en principe soulevée par le défendeur. 
+Sauf circonstances hautement improbables, le demandeur n’y a aucun intérêt1, car il tient à ce que la procédure aille jusqu’à son terme.
+Exception notable : Affaire de l’or monétaire pris à Rome en 1943 (Italie c. France, Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et Etats-Unis d’Amérique), (question préliminaire), Arrêt du 15 juin 1954. C.I.J. Recueil 1954, p. 19.
+1 – La présentation des exceptions préliminaires
+Exemple :
+ Le Nicaragua assigne le Honduras devant la Cour.
+ Sachant que ses chances de gagner sont infimes, le Honduras va s’efforcer d’empêcher la Cour de se prononcer sur le fond du litige.
+ On appelle « exceptions préliminaires » les arguments juridiques que le Honduras va avancer pour tenter d’empêcher la Cour de se prononcer sur le fond du litige.
+   * Exceptions = obstacles, arguments juridiques ;
+   * Préliminaires = que l’on présente dès le début de la procédure, donc avant de faire quoi que ce soit d’autre. Aux termes de l’article 79 du Règlement de la Cour, toute exception préliminaire doit être présentée par écrit dès que possible, et au plus tard trois mois après que le demandeur a déposé son mémoire.
+ Le Honduras peut dire
+* soit que la Cour n’est pas compétente (exception préliminaire d’incompétence),
+* soit que la requête du Nicaragua n’est pas recevable (exception préliminaire d’irrecevabilité).
+*
+Définition : Une exception préliminaire d’incompétence est un moyen avancé par une partie afin que la Cour ne statue pas sur le fond du différend, au motif que ne sont pas réunies toutes les conditions dont dépend sa compétence.
+
+ Exemples d’arguments que peut invoquer un État qui soulève une l’exception préliminaire d’incompétence :
+* Il n’y a pas (ou plus) de différend ; 
+* L’État n’a pas du tout donné son consentement ou a exclu le différend par une réserve.
+*
+
+Définition : Une exception préliminaire d’irrecevabilité est un moyen avancé par une partie afin que la Cour ne statue pas sur le fond du différend, au motif que n’a pas été respectée une formalité qui était un préalable obligatoire à sa saisine.
+
+
+
+ Exemple d’argument que peut invoquer un État qui soulève une l’exception préliminaire d’irrecevabilité : 
+« En vertu d’un accord intervenu entre nos deux États, nous devions négocier avant de saisir la Cour, une formalité qui, en l’espèce, n’a pas été respectée par notre adversaire. »
+*
+ Bien évidemment, la Cour reconnaît l’existence de ces types d’exception préliminaire (d’incompétence et d’irrecevabilité) ainsi que leur finalité commune :
+« La distinction entre ces deux catégories d’exceptions est bien établie dans la pratique de la Cour. 
+Dans un cas comme dans l’autre, une exception préliminaire, lorsqu’elle est retenue, a pour effet de mettre fin à la procédure en ce qui concerne la demande visée, la Cour ne procédant dès lors pas à son examen au fond. » – Application de la convention pour la prévention et la répression du crime de génocide (Croatie c. Serbie), Exceptions préliminaires, Arrêt du 18 novembre 2008. C.I.J. Recueil 2008, p. 412.
+**
+2 – Le règlement des exceptions préliminaires
+ Rappel : La procédure principale, c’est l’instance 
+ - qui commence avec la soumission du différend à la Cour
+ - et qui a pour finalité normale (espérée par le demandeur) une décision de la Cour sur le fond du différend.
+ La présentation d’exception préliminaire par une partie a un effet immédiat : la suspension la procédure principale.
+ La Cour organise un débat contradictoire (en principe, oral) entre les parties autour du bien-fondé de l’exception préliminaire.
+ À la fin des audiences consacrées à ce débat, la Cour prend l’une des trois décisions suivantes :
+La Cour retient l’exception préliminaire, ce qui veut dire qu’elle juge qu’elle est fondée. 
+ Une décision que l’on pourrait résumer comme suit.
+« L’État qui a soulevé l’exception préliminaire a raison : 
+* La Cour n’est pas compétente (cas où l’exception soulevée est une exception préliminaire d’incompétence) 
+* ou la requête est irrecevable (cas où l’exception soulevée est une exception préliminaire d’irrecevabilité).
+Puis, la Cour rend un arrêt de rejet de la requête par laquelle le différend lui avait été soumis ; La procédure principale qui avait été suspendue prend alors fin.  
+Affaire terminée et rayée de ce que l’on appelle le rôle de la Cour.
+La Cour rejette l’exception préliminaire, ce qui veut dire qu’elle juge qu’elle n’est pas fondée. 
+Une décision que l’on pourrait résumer comme suit : 
+« L’État qui a soulevé l’exception préliminaire a tort : 
+* La Cour est bien compétente (cas où l’exception soulevée est une exception préliminaire d’incompétence) 
+* ou la requête est bien recevable (cas où l’exception est une exception préliminaire d’irrecevabilité). »
+Puis, la Cour rend un arrêt de rejet de l’exception préliminaire.
+La procédure principale qui avait été suspendue reprend alors son cours, jusqu’à l’arrêt sur le fond. 
+La cour ne retient ni ne rejette immédiatement l’exception préliminaire. 
+ Elle diffère sa décision sur l’exception préliminaire. 
+ Elle déclare que cette exception n’a pas dans les circonstances de l’espèce un caractère exclusivement préliminaire. 
+ Autrement dit, le règlement de l'exception préliminaire exige l'examen du fond ou risque de préjuger du fond ; l’exception sera donc tranchée au stade de l’examen du fond.
+ La procédure principale qui avait été suspendue reprend alors son cours, jusqu’à l’arrêt sur le fond et sur l’exception préliminaire.
+**
+**
+SECTION II – Le déroulement de l’instance
+
+I – Les phases de la procédure
+La procédure comporte deux phases : l'une écrite (1), l'autre orale (2). 
+A – La phase écrite
+ L’article 43 du Statut de la Cour dispose :
+« La procédure écrite comprend la communication à juge et à partie des mémoires, des contre-mémoires et, éventuellement, des répliques, ainsi que de toute pièce et document à l'appui. »
+La communication se fait par l'entremise du Greffier dans l'ordre et les délais déterminés par la Cour.
+ Principe du contradictoire oblige, toute pièce produite par l'une des parties doit être communiquée à l'autre en copie certifiée conforme.
+ Quelles pièces ?  
+ Quel en est l’ordre de présentation ? 
+ Deux éventualités, donc deux séries de réponses possibles.
+Dans une affaire introduite par une requête, les pièces de procédure comprennent dans l’ordre, un mémoire du demandeur et un contre-mémoire du défendeur.
+La Cour peut autoriser ou prescrire la présentation d’une réplique du demandeur et d’une duplique du défendeur si les parties sont d’accord à cet égard ou si la Cour décide, d’office ou à la demande d’une partie, que ces pièces sont nécessaires.
+Précision : La réplique émane du défendeur et répond au contre-mémoire du défendeur ; la duplique émane du défendeur et répond à la réplique du demandeur.
+
+
+Dans une affaire introduite par la notification d’un compromis, le nombre et l’ordre de présentation des pièces de procédure sont ceux que fixe le compromis lui-même, à moins que la Cour, après s’être renseignée auprès des parties, n’en décide autrement.
+**
+B – La phase orale
+La procédure orale consiste dans l'audition par la Cour des témoins, experts, agents, conseils et avocats.
+ L'audience est publique, à moins qu'il n'en soit autrement décidé par la Cour ou que les deux parties ne demandent que le public ne soit pas admis.
+À l’issue du dernier exposé présenté par une partie au cours de la procédure orale, l’agent donne lecture des conclusions finales de cette partie sans récapituler l’argumentation.
+Définitions :
+ - Conclusions d’une partie : demande motivée d’une partie (donc, demande et arguments)
+ - Conclusions finales d’une partie : demande d’une partie sans les arguments.
+ Dans l’Affaire des Minquiers et des Ecréhous (France/Royaume-Uni), Arrêt du 17 novembre 1953. C.I.J. Recueil 1953, p. 47, la Cour a opéré les distinctions suivantes entre conclusions et conclusions finales :
+« Les conclusions du gouvernement français se composent de 10 paragraphes, les 9 premiers étant les motifs qui conduisent à la dixième proposition qui doit être considérée comme la conclusion finale de ce gouvernement.  […] 
+Les conclusions du gouvernement du Royaume-Uni consistent en trois paragraphes, les deux derniers étant les motifs à l’appui de la première proposition qui doit être considérée comme la conclusion finale de ce gouvernement. »
+
+  
+ La Cour est liée par les conclusions finales des parties, comme elle l’a souligné dans l’Affaire du droit d’asile : 
+« Il y a lieu de rappeler le principe que la Cour a le devoir de répondre aux demandes des parties telles qu’elles s’expriment dans leurs conclusions finales, mais aussi celui de s’abstenir de statuer sur des points non compris dans lesdites demandes ainsi exprimées. » – Demande d’interprétation de l’arrêt du 20 novembre 1950 en l’affaire du droit d’asile (Colombie c. Pérou), Arrêt du 27 novembre 1950. C.I.J. Recueil 1950, p. 395.
+**
+II – L’intervention et le désistement
+A – L’intervention
+
+Définition : L’intervention, c’est le fait pour un État de se joindre à une procédure pendante devant la Cour sans y être initialement demandeur ou défendeur.
+
+En principe, l’intervention a pour objectif de défendre un intérêt juridique propre de l’État intervenant. 
+Elle peut conduire ce dernier à appuyer la position du demandeur ou celle du défendeur. 
+* L’intervention se fonde soit sur l’article 62, soit sur l’article 63 du Statut de la Cour :
+« Article 62
+1. Lorsqu'un État estime que, dans un différend, un intérêt d'ordre juridique est pour lui en cause, il peut adresser à la Cour une requête à fin d'intervention.
+2. La Cour décide. »
+« Article 63
+1. Lorsqu'il s'agit de l'interprétation d'une convention à laquelle ont participé d'autres États que les parties en litige, le Greffier les avertit sans délai.
+2. Chacun d'eux a le droit d'intervenir au procès et, s'il exerce cette faculté, l'interprétation contenue dans la sentence est également obligatoire à son égard. » 
+**
+B – Le désistement
+
+Définition : Le désistement, c’est le fait pour un État de renoncer à poursuivre la procédure engagée devant la Cour.
+     Conformément aux articles 88 et 89 du Règlement de la Cour, deux cas de figure peuvent se présenter :
+     1.1 Le demandeur et le défendeur s’accordent pour se désister tous les deux. 
+     La procédure et la décision de la Cour sont les suivantes : 
+     * Le demandeur et le défendeur notifient, conjointement ou séparément, à la Cour par écrit qu’ils sont convenus de se désister de l’instance.
+     * La Cour rend alors une ordonnance prenant acte du désistement et prescrivant que l’affaire soit rayée du rôle [liste des affaires pendantes devant la Cour].
+     Si le motif de ce désistement conjoint est que le demandeur et le défendeur sont parvenus à un arrangement amiable, la Cour peut, si les parties le désirent, soit faire mention de ce fait dans l’ordonnance prescrivant la radiation de l’affaire sur le rôle, soit indiquer les termes de l’arrangement dans l’ordonnance ou dans une annexe à celle-ci.
+*
+     1.2 Le demandeur seul décide de se désister. 
+     Dans ce cas de figure, la procédure et la décision de la Cour sont fonction de la réponse à la question suivante : 
+     * À la date de la réception par le Greffe de ce désistement unilatéral, le défendeur a-t-il déjà fait acte de procédure devant la Cour ?  Par exemple, a-t-il déjà déposé un contre-mémoire ou soulevé une exception préliminaire ? 
+       Deux réponses possibles, donc deux hypothèses.
+         1.2.1 À la date de la réception par le Greffe du désistement unilatéral du demandeur, le défendeur n’a pas encore fait acte de procédure devant la Cour.
+         Dans cette hypothèse, la Cour rend une ordonnance prenant acte du désistement et prescrivant la radiation de l’affaire sur le rôle. 
+         1.2.2 À la date de la réception par le Greffe du désistement unilatéral du demandeur, le défendeur a déjà fait acte de procédure devant la Cour.
+         Cette seconde hypothèse donne lieu à une procédure un peu plus complexe que celle de la précédente.
+           * La Cour fixe un délai dans lequel le défendeur peut déclarer s’il s’oppose au désistement unilatéral du demandeur.  
+            * Si, dans le délai fixé, le défendeur ne fait pas objection au désistement, celui-ci est réputé acquis et la Cour rend une ordonnance en prenant acte et prescrivant la radiation de l’affaire sur le rôle.  
+            * Si, en revanche, le défendeur fait objection au désistement unilatéral du demandeur dans le délai fixé, l’instance se poursuit.
+**
+III – L’administration de la preuve
+A – La charge de la preuve : Qui doit prouver ? 
+ Question : Qui doit prouver ?  Autrement dit, à qui la charge de la preuve incombe-t-elle ?  À l’État demandeur ou à l’État défendeur ? 
+ Réponse : Aux deux ! 
+ La charge de la preuve est répartie entre les États plaideurs en fonction de leurs allégations respectives. 
+ Quiconque (État demandeur ou État défendeur) allègue des faits doit prouver ces faits. C’est le principe Onus probandi incumbit actori, que la Cour expose comme suit dans l’affaire des Usines de pâte à papier sur le fleuve Uruguay : 
+« [L]a Cour considère que, selon le principe bien établi onus probandi incumbit actori, c'est à la partie qui avance certains faits d'en démontrer l'existence. Ce principe, confirmé par la Cour à maintes reprises s'applique aux faits avancés aussi bien par le demandeur que par le défendeur. » – Affaire relative à des usines de pâte à papier sur le fleuve Uruguay (Argentine c. Uruguay), Arrêt du 20 avril 2010. C.I.J. Recueil 2010, p. 14.
+**
+B – L’objet de la preuve : Qu’est-ce qui doit être prouvé ? 
+ En principe, la preuve porte sur les faits.  
+Ni le Statut, ni le Règlement ne prévoient la preuve du droit. Ce principe est illustré 
+* par l’adage Jura novit curia (La Cour sait le droit) 
+* et par l’adage Da mihi factum dabo tibi jus (Donne-moi les faits, je te donnerai le droit). 
+ Il appartient à la Cour de dégager l’existence des règles de droit international coutumières ou conventionnelles. 
+La Cour l'a rappelé dans les affaires de la Compétence en matière de pêcheries (République fédérale d’Allemagne c. Islande, d’une part, et Royaume-Uni de Grande-Bretagne et d’Irlande du Nord c. Islande, d’autre part) :
+« La Cour, en tant qu'organe judiciaire international, [...] est [...] censée constater le droit international et, dans une affaire relevant de l'article 53 du Statut comme dans toute autre, est donc tenue de prendre en considération de sa propre initiative toutes les règles de droit international qui seraient pertinentes pour le règlement du différend. 
+La Cour ayant pour fonction de déterminer et d'appliquer le droit dans les circonstances de chaque espèce. 
+La charge d'établir ou de prouver les règles de droit international ne saurait être imposée à l'une ou l'autre Partie, car le droit ressortit au domaine de la connaissance judiciaire de la Cour. » – Compétence en matière de pêcheries (République fédérale d’Allemagne c. Islande), fond, Arrêt du 25 juillet 1974. C.I.J. Recueil 1974, p. 175.
+ Cependant, la preuve de l’existence d’une coutume régionale ou locale doit être apportée par la partie qui l’avance. 
+* Exemple : Dans l’affaire du droit d’asile, le gouvernement colombien allègue l’existence d’une coutume propre aux États d’Amérique latine. 
+La Cour observe : « La partie qui invoque une coutume de cette nature doit prouver qu’elle s’est constituée de manière telle qu’elle est devenue obligatoire pour l’autre partie. » 
+Et la Cour constate que la Colombie n’a pas prouvé l’existence d’une telle coutume – Affaire colombo-péruvienne relative au droit d’asile, Arrêt du 20 novembre 1950. C.I.J. Recueil 1950, p. 266. 
+ Quant aux règles de droit interne, elles sont traitées comme de « simples faits » :
+« Au regard du droit international et de la Cour qui en est l'organe, les lois nationales sont de simples faits, manifestations de la volonté et de l'activité des États, au même titre que les décisions judiciaires ou les mesures administratives. » – Affaire relative à certains intérêts allemands en Haute-Silésie polonaise (fond), Arrêt du 25 mai 1926. CPJI, série A n°7. 
+ La jurisprudence internationale admet l’estoppel. 
+ L’estoppel est une objection péremptoire qui s’oppose à ce qu’une partie à un procès prenne une position qui contredit ce qu’elle a antérieurement admis de manière expresse ou tacite. 
+ L’admissibilité de l’estoppel est subordonnée à deux conditions :
+* un État a adopté une conduite qui a incité un autre État à prendre une certaine position ;
+* le second État risque de subir un préjudice en raison du revirement du premier.
+**
+C – Les moyens de preuve : Quelles preuves sont admissibles 
+ Le principe admis est de celui de la liberté de la preuve, donc de l’intime conviction de la Cour.
+ Les preuves directes comme les preuves indirectes sont admises devant la cour. Les unes et les autres confirment le caractère à la fois accusatoire et inquisitoire de la procédure.
+Les preuves littérales ou écrites. 
+ Elles doivent être présentées à la Cour avant la fin de la procédure écrite. 
+Au-delà de cette phase, le dépôt d’un document nouveau est subordonné à l’assentiment de la partie adverse ou de la Cour. 
+ La Cour prend acte du refus de produire un document - article 49 du Statut.  
+Les preuves testimoniales ou témoignages. 
+ Un témoignage est une déclaration tendant de la part de son auteur à communiquer à autrui la connaissance personnelle qu’il a d’un événement passé dont il affirme la véracité. 
+ Avant l’ouverture de la procédure orale, chaque partie communique à la Cour la liste des témoins et experts qu’elle désire faire entendre. Elle indique en termes généraux les points sur lesquels doivent porter les dépositions. 
+ De son côté, la Cour peut, s’il y a lieu, faire déposer un témoin ou un expert pendant la procédure - article 62 du Règlement. 
+ L’interrogatoire est unilatéral ou contradictoire.
+Les preuves indiciaires ou présomptions (preuves indirectes). 
+Une présomption, c’est la conséquence que la règle de droit ou le juge tire d’un fait connu à un fait inconnu dont l’existence est rendue vraisemblable par le premier. 
+ Il s’agit moins d’une dispense de preuve que d’un déplacement de l’objet de la preuve. La partie qui en bénéficie n’est pas à même de prouver directement l’existence du fait pertinent, mais elle doit établir le fait l’impliquant.
+ Il est arrivé que l’on se demande, en doctrine, si le système des présomptions admis en droit interne a cours en droit international. 
+Dans l’affaire du détroit de Corfou (9 avril 1949), la Cour internationale de Justice s’est déclarée favorable à l’admission des présomptions de fait à deux conditions : 
+* que celles-ci ne laissent place à aucun doute raisonnable, 
+* et que l’État victime d’une violation du droit international se trouve dans l’impossibilité de faire la preuve directe des faits d’où déroulerait la responsabilité.  
+ Dans l’espèce susmentionnée (Détroit de Corfou), la Cour constate : 
+« Le fait que l’acte illicite ait été commis sur le territoire albanais n’implique pas nécessairement la responsabilité ou le déplacement du fardeau de la preuve. Mais la Grande-Bretagne n’est pas à même, de ce fait, d’apporter une preuve directe ; il suffira au demandeur d’administrer une preuve indirecte. » – Affaire du détroit de Corfou, (Fond), Arrêt du 9 avril 1949. C.I.J. Recueil 1949, p. 4.
+*
+ L’appréciation des preuves est librement faite par le juge. C’est, rappelons-le, le principe de l’intime conviction. Les parties peuvent présenter toutes les preuves qu’elles jugent utiles, la Cour évalue discrétionnairement leur pertinence et leur force.  
+**
+
+**
+SECTION III – L’arrêt de la Cour
+
+I – Prononcé et forme
+Lorsque la Cour a achevé son délibéré, elle notifie aux parties la date à laquelle il sera donné lecture de l’arrêt. L’arrêt est lu en audience publique.
+A – L’arrêt proprement dit de la Cour
+ Outre l’indication qu’il émane de la Cour, l’arrêt de la Cour contient les éléments suivants :  
+* l’indication de la date à laquelle il en est donné lecture  
+* les noms des juges qui y ont pris part  
+* le sens du vote de chacun des juges (pour ou contre la décision de la Cour)  
+* les noms des parties  
+* les noms des agents, conseils et avocats des parties  
+* l’exposé de la procédure  
+* les conclusions des parties  
+* les circonstances de fait  
+* les motifs de droit  
+* le dispositif  
+* la décision relative aux frais, s’il y a lieu  
+* l’indication du texte faisant foi.  
+ Le cas échéant, les déclarations et opinions individuelles ou dissidentes sont jointes au texte de l’arrêt.
+ Enfin, une copie de l’arrêt est adressée au Secrétaire général de l’ONU et à chacun des États admis à ester devant la Cour.
+**
+B – Les déclarations et les opinions des juges
+ Les juges qui le souhaitent peuvent joindre à l’arrêt de la Cour une déclaration, une opinion individuelle ou une opinion dissidente.  
+ Formellement, voici l'ordre de présentation :
+* l’arrêt de la Cour,
+* les déclarations,
+* les opinions individuelles
+* et les opinions dissidentes.
+Une opinion dissidente émane d'un juge qui souhaite exposer les raisons pour lesquelles il s'est trouvé en désaccord, sur un ou plusieurs points, avec le dispositif de l’arrêt et avec les motifs qui en constituent le soutien nécessaire.  
+Une opinion individuelle est le fait d'un juge qui expose son accord avec le dispositif de l’arrêt de la Cour et son désaccord avec tout ou partie des motifs qui en constituent le soutien nécessaire.  
+Une déclaration est, selon l’article 95, paragraphe 2, du Règlement, le fait d’un juge qui désire faire constater son accord ou son dissentiment sans en donner les motifs.
+Il arrive 
+* qu'un même texte relève partiellement de chacune de ces trois catégories,
+* ou qu'un même texte soit signé par plusieurs juges : opinion individuelle ou dissidente commune, déclaration commune.
+**
+II – Portée juridique et pratique
+A – La force obligatoire de l’arrêt de la Cour
+ L’article 94, paragraphe 2, du Règlement dispose :
+« [L’arrêt de la Cour] est considéré comme ayant force obligatoire pour les parties du jour de son prononcé. »
+Les internationalistes, qui tiennent le latin pour leur esperanto, illustrent cette force obligatoire, cette autorité de la chose jugée par la formule Res judicata pro veritate habetur [Traduction : la chose jugée doit être tenue pour la vérité elle-même.].
+ Toujours est-il que la Cour respecte scrupuleusement le principe selon lequel que ses arrêts sont revêtus de l’autorité de la chose jugée.
+C’est ainsi qu’elle considère, par exemple, qu’il est contraire à son Statut de rendre une décision qui n’aurait aucun caractère obligatoire pour les parties. 
+* Exemple : Affaire de l’or monétaire pris à Rome en 1943 (Italie c. France, Royaume-Uni de Grande-Bretagne et d’Irlande du Nord et Etats-Unis d’Amérique), (question préliminaire), Arrêt du 15 juin 1954. C.I.J. Recueil 1954, p. 19. 
+La Cour s’est vu soumettre une affaire par l’Italie, en l’absence d’un État tiers (l’Albanie) et nonobstant la volonté contraire de celui-ci. 
+Or, la question essentielle à trancher a trait à la responsabilité internationale de cet État tiers. 
+Dans ces conditions, la Cour estime « qu’elle ne peut, sans le consentement de ce dernier, rendre une décision qui ne serait obligatoire pour aucun État, ni pour l’État tiers, ni pour aucune des parties qui sont devant elle. »
+*
+ Question : L’autorité de chose jugée (ou force obligatoire) est-elle attachée à la totalité de l’arrêt ? 
+ Réponse : L’autorité de chose jugée (ou force obligatoire) concerne deux éléments de l’arrêt : 
+1. le dispositif (c’est-à-dire la partie décisionnelle de l’arrêt, la partie où la Cour affirme qu’elle décide ceci ou cela)
+2. et les motifs qui sont le soutien nécessaire du dispositif. Ce sont les motifs sans lesquels la Cour n’aurait pas pris la décision qui figure dans le dispositif de son arrêt. Du reste, ces motifs sont dénommés ratio decidendi (raisons de décider).
+ En revanche, l’autorité de la chose jugée ne s’étend pas aux motifs que l’on appelle obiter dicta. Il s’agit de motifs inutiles ou surabondants. La Cour aurait pris la même décision sans ces motifs-là.
+ Ainsi analysée, l’autorité de chose jugée dont est revêtu l’arrêt de la Cour a un caractère relatif, ainsi que le souligne l’article 52 du Statut : 
+« La décision de la Cour n'est obligatoire que pour les parties en litige et dans le cas qui a été décidé. »
+**
+B – Les voies de recours
+En dépit de son caractère définitif, l’arrêt de la Cour se prête aux voies de recours suivantes : 
+* Le recours en rectification d’erreur matérielle ;
+* Le recours en interprétation ;
+* Le recours en révision.
+*
+
+
+*
+Naturellement, tous ces recours ressortissent à la compétence de la Cour. 
+1 – Le recours en rectification d’erreur matérielle
+ Comme l’indique son nom, un tel recours est présenté par une partie aux fins d’obtenir la correction par la Cour, non pas d’une méprise juridique, mais d’une défectuosité de fait telle qu’un lapsus calimi, une erreur de calcul ou de localisation géographique, etc.
+ La Cour a admis la recevabilité du recours en rectification d’erreur matérielle, tout en reconnaissant « qu'aucune disposition du Statut ni du Règlement ne vise une demande tendant à réaliser cette rectification, ni la procédure qui lui serait applicable » – Demande en révision et en interprétation de l’arrêt du 24 février 1982 en l’affaire du Plateau continental (Tunisie/Jamahiriya arabe libyenne) (Tunisie c. Jamahiriya arabe libyenne), Arrêt du 10 décembre 1985. C.I.J. Recueil 1985, p. 192. 
+ La Cour a précisé les contours du pouvoir qu’elle s’est ainsi attribué de rectifier ses propres erreurs matérielles :
+« Ce pouvoir ne s'exercerait pas normalement par voie d'arrêt, la nature même de la rectification d'une telle erreur excluant tout élément contentieux ; rien cependant n'interdit, dans un arrêt portant sur un autre objet, de prendre en considération une demande liée à cet objet et tendant à une telle rectification. » – Demande en révision et en interprétation de l’arrêt du 24 février 1982 en l’affaire du Plateau continental (Tunisie/Jamahiriya arabe libyenne) (Tunisie c. Jamahiriya arabe libyenne), Arrêt du 10 décembre 1985. C.I.J. Recueil 1985, p. 192. 
+**
+2 – Le recours en interprétation
+ La compétence de la Cour pour interpréter l'un de ses arrêts est une « compétence spéciale » qui résulte directement de l'article 60 du Statut qui dispose : 
+« L'arrêt est définitif et sans recours. En cas de contestation sur le sens ou la portée d’un arrêt, il appartient à la Cour de l’interpréter à la demande de toute partie. »
+ La Cour a commenté cet article 60 dans les termes suivants :
+« La question de la recevabilité des demandes en interprétation des arrêts de la Cour appelle une attention particulière en raison de la nécessité de ne pas porter atteinte au caractère définitif de ces arrêts et de ne pas en retarder l'exécution. 
+Ce n'est pas sans raison que l'article 60 du Statut énonce en premier lieu que les arrêts sont "définitif[s] et sans recours." 
+L'article dispose ensuite que, dans le cas d'une "contestation sur le sens et la portée de l'arrêt", celui-ci est interprété par la Cour à la demande de toute partie. 
+Le libellé et la structure de l'article 60 traduisent la primauté du principe de l'autorité de la chose jugée. Ce principe doit être préservé. » – Demande en interprétation de l’arrêt du 11 juin 1998 en l’affaire de la frontière terrestre et maritime entre le Cameroun et le Nigéria, (Cameroun c. Nigéria), Exceptions préliminaires, (Nigéria c. Cameroun), Arrêt du 25 mars 1999. C.I.J. Recueil 1999, p. 31.
+ Le commentaire ci-dessus de la Cour aide à comprendre les conditions auxquelles est subordonnée la recevabilité d’une demande en interprétation présentée par une partie :
+L’objet et le but véritables de la demande doivent être 
+* d’obtenir une interprétation, c’est-à-dire un éclaircissement du sens et de la portée de « ce qui a été décidé avec force obligatoire par l'arrêt », 
+* et non d’obtenir « la solution de points qui n'ont pas été ainsi décidés ». 
+Selon la Cour, « toute autre façon d'interpréter l'article 60 du Statut aurait pour conséquence d'annuler la disposition de ce même article selon laquelle l'arrêt est définitif et sans recours. » – Demande d’interprétation de l’arrêt du 20 novembre 1950 en l’affaire du droit d’asile (Colombie c. Pérou), Arrêt du 27 novembre 1950. C.I.J. Recueil 1950, p. 395.
+La demande en interprétation « doit porter sur le dispositif de l'arrêt et ne peut concerner les motifs que dans la mesure où ceux-ci sont inséparables du dispositif. »  – Demande en interprétation de l’arrêt du 11 juin 1998 en l’affaire de la frontière terrestre et maritime entre le Cameroun et le Nigéria, (Cameroun c. Nigéria), Exceptions préliminaires, (Nigéria c. Cameroun), Arrêt du 25 mars 1999. C.I.J. Recueil 1999, p. 31. 
+Par motifs inséparables du dispositif, il faut entendre la ratio decidendi par opposition aux obiter dicta ; (Sur ces deux notions, voir)
+Il doit y avoir entre les parties une contestation sur des points précis du dispositif et, le cas échéant, des motifs qui en sont inséparables. Ici, contestation n’est pas exactement synonyme de différend, comme l’a précisé la Cour. À son avis, pour qu’il y ait contestation, il suffit que « les parties aient en fait manifesté des opinions opposées quant au sens et à la portée d'un arrêt de la Cour » – Interprétation des arrêts n° 7 et 8 (Usine de Chorzów), Arrêt n°11 du 16 décembre 1927. CPJI, série A n°13.
+**
+3 – Le recours en révision
+ L’article 61 du Statut de la Cour dispose :
+« 1. La révision de l'arrêt ne peut être éventuellement demandée à la Cour qu'en raison de la découverte d'un fait de nature à exercer une influence décisive et qui, avant le prononcé de l'arrêt, était inconnu de la Cour et de la partie qui demande la révision, sans qu'il y ait, de sa part, faute à l'ignorer. 
+2. La procédure de révision s'ouvre par un arrêt de la Cour constatant expressément l'existence du fait nouveau, lui reconnaissant les caractères qui donnent ouverture à la révision, et déclarant de ce chef la demande recevable.
+3. La Cour peut subordonner l'ouverture de la procédure en révision à l'exécution préalable de l'arrêt. »
+ Il résulte du Statut (article 61 précité) et du Règlement (article 99) de la Cour que la procédure de révision se déroule en deux temps :
+1er temps : Par un premier arrêt, la Cour statue sur la recevabilité de la demande en révision ; si la Cour estime que la demande en révision est irrecevable, la procédure prend fin (pas de 2e temps) ; si, au contraire la Cour juge recevable la demande, la procédure se poursuit (2e temps) ;
+2e temps : La Cour ayant estimé dans son premier arrêt (1er temps) que la demande en révision était recevable, elle rejuge l’affaire par un second arrêt.
+Ainsi donc, au premier stade de la procédure (1er temps), la décision de la Cour doit se limiter à la question de savoir si la demande en révision est recevable, c’est-à-dire si elle satisfait aux conditions prévues par le Statut.
+*
+ Selon l’article 61 du Statut, ces conditions sont les suivantes : 
+La demande en révision doit être fondée sur la « découverte » d’un « fait nouveau ». 
+L’expression « fait nouveau » est trompeuse. 
+Ce qui est nouveau, ce n’est pas le fait, mais plutôt sa connaissance, d’où le mot « découverte ». Il s’agit donc d’un fait qui, bien qu’existant à la date du prononcé de l’arrêt, était à ce moment-là ignoré tant de la partie qui demande la révision que de la Cour. 
+Autrement dit, « c’est un fait préexistant au prononcé de l’arrêt et découvert ultérieurement ». 
+Un fait qui se produit après le prononcé d’un arrêt « n’est pas un fait nouveau au sens de l’article 61 » – Demande en révision de l’arrêt du 11 juillet 1996 en l’affaire relative à l’application de la convention pour la prévention et la répression du crime de génocide (Bosnie-Herzégovine c. Yougoslavie), exceptions préliminaires (Yougoslavie c. Bosnie-Herzégovine), Arrêt du 3 février 2003. C.I.J. Recueil 2003, p. 7 ;
+Le fait dont la découverte est invoquée doit être « de nature à exercer une influence décisive » ;
+Ce fait doit, avant le prononcé de l’arrêt, avoir été inconnu de la Cour et de la partie qui demande la révision ;
+Il ne doit pas y avoir eu « faute » de la part du demandeur à ignorer le fait en question,
+La demande en révision doit avoir été « formée au plus tard dans le délai de six mois après la découverte du fait nouveau » et avant l’expiration d’un « délai de dix ans à dater de l’arrêt ». 
+Il faut comprendre ces deux délais de la manière suivante. 
+* Exemple : Supposons que la Cour rende un arrêt en 2019. Toute partie a le droit de présenter une demande en révision de cet arrêt jusqu’à l’expiration d’un délai de 10 ans, donc, en l’espèce, jusqu’en 2029. Toutefois, l’exercice de ce droit est subordonné à la découverte, dans ce délai de 10 ans, d’un fait nouveau (au sens indiqué plus haut). Lorsqu’une partie découvre effectivement un fait nouveau dans ce délai de 10 ans, elle dispose d’un délai de 6 mois à compter de la découverte de ce fait nouveau pour demander la révision de l’arrêt. On peut présenter successivement plusieurs demandes en révision à condition que le délai de 10 ans ne soit pas arrivé à expiration et à condition également de respecter le délai de procédure de 6 mois.
+*
+ Les cinq conditions de recevabilité qui viennent d’être énumérées (1-5) sont cumulatives : 
+« La Cour observe qu’une requête en révision ne peut être admise que si chacune des conditions prévues à l’article 61 est remplie. Si l’une d’elles fait défaut, la requête doit être écartée. » – Demande en révision de l’arrêt du 11 juillet 1996 en l’affaire relative à l’application de la convention pour la prévention et la répression du crime de génocide (Bosnie-Herzégovine c. Yougoslavie), exceptions préliminaires (Yougoslavie c. Bosnie-Herzégovine), Arrêt du 3 février 2003. C.I.J. Recueil 2003, p. 7.
+ En la matière, la Cour applique le principe dit du rasoir d’Occam ou de l’économie du raisonnement : 
+« À strictement parler, dès lors qu'il est établi que la demande en révision ne remplit pas l'une des conditions de recevabilité prévues, la Cour n'a pas à aller plus loin et à se demander si les autres sont satisfaites. » -– Demande en révision et en interprétation de l’arrêt du 24 février 1982 en l’affaire du Plateau continental (Tunisie/Jamahiriya arabe libyenne) (Tunisie c. Jamahiriya arabe libyenne), Arrêt du 10 décembre 1985. C.I.J. Recueil 1985, p. 192.
+**
+C – L'exécution forcée de l’arrêt
+ La Charte des Nations Unies stipule, en son article 94, paragraphe 1 : 
+« Chaque membre des Nations Unies s'engage à se conformer à la décision de la Cour internationale de Justice dans tout litige auquel il est partie. » 
+Les autres États qui reconnaissent la juridiction de la Cour assument la même obligation. 
+ L'application des arrêts de la Cour internationale de Justice dans l'ordre juridique interne exclut toute procédure d'exequatur. L’exequatur s’entend d’un ordre d’exécution, donné par le tribunal judiciaire, d’une sentence arbitrale française ou étrangère. 
+ Les parties peuvent s’engager à conclure un accord (engagement dénommé pactum de contrahendo) pour assurer l’exécution de la décision de la Cour -– Demande en révision et en interprétation de l’arrêt du 24 février 1982 en l’affaire du Plateau continental (Tunisie/Jamahiriya arabe libyenne) (Tunisie c. Jamahiriya arabe libyenne), Arrêt du 10 décembre 1985. C.I.J. Recueil 1985, p. 192. 
+ À défaut d'exécution volontaire et de bonne foi des décisions de la Cour, plusieurs procédés de contrainte peuvent être employés.  
+ Par exemple, la Cour internationale de Justice, dûment saisie, pourrait retenir la responsabilité internationale de l'État récalcitrant. 
+ Quant aux États bénéficiaires de la décision, on admet généralement qu'ils puissent utiliser les moyens suivants :  
+* Contre-mesures,
+* Mesures de rétorsion : rupture des relations diplomatiques, économiques, culturelles, augmentation des tarifs douaniers, interdiction d'importations ou d'exportations,  
+* Mesures de compensation.  
+ L'ONU est également appelée à intervenir. 
+ En effet, selon l'article 94, paragraphe 2, de la Charte, 
+« Si une partie à un litige ne satisfait pas aux obligations qui lui incombent en vertu de l'arrêt rendu par la Cour, l'autre partie peut recourir au Conseil de sécurité et celui-ci, s'il le juge nécessaire, peut faire des recommandations ou décider des mesures à prendre pour faire exécuter l'arrêt. »
+***/***
 
 `;
 
