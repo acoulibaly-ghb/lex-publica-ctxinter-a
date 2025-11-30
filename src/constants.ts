@@ -1257,10 +1257,7 @@ En dépit de son caractère définitif, l’arrêt de la Cour se prête aux voie
 * Le recours en rectification d’erreur matérielle ;
 * Le recours en interprétation ;
 * Le recours en révision.
-*
 
-
-*
 Naturellement, tous ces recours ressortissent à la compétence de la Cour. 
 1 – Le recours en rectification d’erreur matérielle
  Comme l’indique son nom, un tel recours est présenté par une partie aux fins d’obtenir la correction par la Cour, non pas d’une méprise juridique, mais d’une défectuosité de fait telle qu’un lapsus calimi, une erreur de calcul ou de localisation géographique, etc.
@@ -1329,6 +1326,7 @@ Les autres États qui reconnaissent la juridiction de la Cour assument la même 
  En effet, selon l'article 94, paragraphe 2, de la Charte, 
 « Si une partie à un litige ne satisfait pas aux obligations qui lui incombent en vertu de l'arrêt rendu par la Cour, l'autre partie peut recourir au Conseil de sécurité et celui-ci, s'il le juge nécessaire, peut faire des recommandations ou décider des mesures à prendre pour faire exécuter l'arrêt. »
 ***/***
+--- DOCUMENT 4: CHAPITRE III ---
 
 `;
 
