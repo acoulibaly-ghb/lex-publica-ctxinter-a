@@ -866,6 +866,11 @@ Naturellement, c’est la signification propre au contentieux international qui 
  Le droit de formuler et d’invoquer des réserves est inhérent à l’essence même de la juridiction internationale :
 « Il est vrai que la juridiction de la Cour est toujours une juridiction limitée, n'existant que dans la mesure où les États l'ont admise […] » – Affaire relative à l’Usine de Chorzów (Demande en indemnité) (Compétence), Arrêt n°8 du 26 juillet 1927. CPJI, série A n°9-série C n°13-I.
  Nota bene : C’est par le biais d’une exception préliminaire d’incompétence qu’un État invoque une réserve devant la Cour (Voir infra, page 25).
+
+Important : Lorsque, dans un cas pratique, on vous demande « Pour quels motifs de fait et de droit la Cour s’est-elle déclarée compétente en dépit de l’exception préliminaire d’incompétence soulevée par un État X ? », vous devez répondre en démontrant
+- que la réserve n’est pas applicable à l’espèce
+- et que sont réunies toutes les cinq conditions dont dépend la compétence de la Cour. Vous devez détailler ces cinq conditions.
+
 a – La réserve ratione materiae
 
 
