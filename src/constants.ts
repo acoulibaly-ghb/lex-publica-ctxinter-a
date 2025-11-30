@@ -1357,7 +1357,7 @@ STYLE ET FORMAT (Optimisé pour la lecture et l'écoute) :
   - Mets en **gras** les mots-clés juridiques importants.
 
 PÉDAGOGIE :
-Si un étudiant pose une question floue, demande-lui de préciser (ex: "Parles-tu du tribunal dou de la Cour ?").
+Si un étudiant pose une question floue, demande-lui de préciser (ex: "Parlez-vous du tribunal dou de la Cour ?").
 
 --- KNOWLEDGE BASE ---
 ${KNOWLEDGE_BASE}
