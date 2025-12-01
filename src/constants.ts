@@ -1333,6 +1333,481 @@ Les autres États qui reconnaissent la juridiction de la Cour assument la même 
 ***/***
 --- DOCUMENT 4: CHAPITRE III ---
 
+
+CHAPITRE III - LE CONTENTIEUX DE LA RESPONSABILITÉ
+
+Définition : Au sens générique, la responsabilité désigne l’obligation de répondre d’un comportement et, donc, d’en assumer les conséquences juridiques.
+Définition : Les causes exonératoires sont des événements ou des agissements qui ont pour effet de décharger, totalement ou partiellement selon le cas, l’État de sa responsabilité internationale, et ce, en empêchant l’illicéité d’être caractérisée ou imputée à l’État.
+Définition : Les intérêts moratoires sont une somme d’argent destinée à réparer le préjudice subi par l’État victime, en raison de l’exécution tardive par l’État défendeur de son obligation de réparer le préjudice qu’il a causé par son fait illicite.
+Définition : Les intérêts compensatoires sont une somme d’argent destinée à réparer le préjudice subi par l’État victime, en raison de l’inexécution par l’État défendeur de son obligation de réparer le préjudice qu’il a causé par son fait illicite.
+Définition : La satisfaction est un procédé qui convient particulièrement à la réparation des dommages d’ordre moral et politique : offense à l’honneur national, outrage au drapeau, aux agents diplomatiques etc. Ses modalités sont diverses et variées : la présentation d’excuses officielles, qu’il faut distinguer des simples regrets qui sont actes de pure courtoisie dépourvus d’effet juridique ; Le prononcé de sanctions pénales ou disciplinaires contre les agents publics auteurs des actes illicites ; enfin, la simple déclaration par le juge ou l’arbitre international de l’illicéité de l’acte litigieux.
+
+*
+
+        
+SECTION I
+LA NAISSANCE ET L’INVOCATION DE LA RESPONSABILITÉ INTERNATIONALE DE L’ÉTAT
+ 	*
+      I – Les conditions d’engagement de la responsabilité internationale de l’État
+ Pour que puisse être invoquée à bon droit la responsabilité internationale d’un État, trois conditions doivent être réunies : 
+1. un fait internationalement illicite qui soit attribuable (imputable) à cet État en vertu du droit international (A)
+2. un préjudice (B)
+3. et un lien de causalité direct et certain entre le fait et le préjudice (C). 
+
+*
+A – L’existence d’un fait internationalement illicite attribuable à l’État 
+ La dénomination de cette première condition de l’engagement de la responsabilité internationale de l’État recouvre deux éléments : 
+- un fait qui, en vertu du droit international, a pour auteur l’État (a) 
+- le caractère illicite, au regard du droit international, de ce fait qui a pour auteur l’État
+ Deux éléments qui seront analysés ci-après : (a) et (b). 
+1 – L’attribution (ou l’imputation) d’un fait à l’État
+a – Signification du mot « fait »
+ Le mot « fait » est retenu de préférence au terme « acte », parce que, 
+* contrairement à ce dernier, il désigne aussi bien une action qu’une omission (ou qu’une abstention), 
+* et que la responsabilité de l’État peut être engagée tant par ses actions que par ses omissions ou abstentions. 
+Au demeurant, dans certains cas, c’est le cumul d’une action et d’une omission qui fonde la responsabilité.
+De ce point de vue, il est indifférent d’employer « fait » ou « comportement ».
+ En outre, pour reprendre des distinctions bien connues en droit pénal, le fait litigieux peut être
+* un fait achevé (tir de missile sur le territoire d’un autre État) ou un fait continu (occupation du territoire d’un autre État)
+* un fait simple ou un fait composite (une série d’actions ou d’omissions considérées comme un unique fait : génocide, par exemple).
+**
+b – Faits considérés comme faits de l’État
+ Ce qui est pertinent au regard du droit international, c’est qu’il y ait un fait ou comportement de l’État, quelle que soit la forme de ce fait ou comportement – Rappelons que ces deux derniers termes sont synonymes.
+ Toutefois, admettre ce principe est une chose, le mettre en œuvre en est une autre, un peu moins aisée.
+ La Cour permanente de Justice internationale a observé avec justesse :
+« Les États ne peuvent agir qu’au moyen et par l’entremise de la personne de leurs agents et représentants. » – Certaines questions touchant les colons d’origine Allemande dans les territoires cédés par l’Allemagne à la Pologne, Avis consultatif du 10 septembre 1923. CPJI, série B n°6, p. 543.
+ L’État étant, comme chacun le sait, une personne morale, le fait considéré dans la sphère du droit international comme un fait de l’État correspond dans le monde réel au fait d’une personne physique. 
+Étant donné que les faits de toutes les personnes physiques ne sont pas tenus pour des faits de l’État, il importe de répondre à la question : Quelles sont les personnes physiques dont les faits sont considérés comme des faits de l’État ? 
+ La réponse est fournie par le droit international et se laisse résumer et retenir comme suit : 
+* Sont considérées comme des faits de l’État les faits qui ont pour auteurs 
+* soit des organes de droit ou de fait de l’État,
+* soit des agents de droit ou de fait de l’État.
+ Trois précisions à retenir : 
+1. Au regard du droit international, l’État est une unité. Par conséquent, sont tenus pour des faits de l’État le comportement de tout organe de l’État, quelles que soient ses fonctions (législative, exécutive, judiciaire ou autres), sa nature ou sa position dans l’organisation de l’État (organe du pouvoir central, organe décentralisé, etc.).
+À noter que c’est seulement si l’organe agit à titre officiel (et non pas privé, sauf exceptions) que son comportement est attribuable ou imputable à l’État.
+Par exemple, le comportement du maire d’une commune française est regardé en vertu du droit international comme un fait de l’État français.
+2. De même, est considéré comme un fait de l’État le comportement d’une personne privée lorsque cette personne agit en fait sur les instructions ou les directives, ou encore sous le contrôle de l’État.
+3. Enfin, est tenu pour un fait de l’État le comportement d’un mouvement insurrectionnel victorieux qui, soit devient le nouveau gouvernement de l’État, soit parvient à créer un nouvel État sur une partie du territoire de l’État ou sur un territoire sous son administration.
+L’imputation à l’État du comportement antérieur du mouvement insurrectionnel lorsque celui-ci triomphe trouve sa justification, en droit international, dans le postulat de la continuité entre le mouvement et le gouvernement qui en émane.
+**
+2 – La reconnaissance du caractère internationalement illicite du fait attribué à l’État
+ Pour que la responsabilité internationale de l’État soit engagée, il ne suffit pas que le fait litigieux soit tenu pour un fait de l’État ; il faut, de surcroît, que ce fait de l’État soit reconnu comme étant internationalement illicite.
+ Et la reconnaissance du caractère internationalement illicite du fait imputé (ou attribué) à l’État s’appuie sur quatre principes simples :
+1. La qualification du fait d’un État comme internationalement illicite relève du droit international. 
+Une telle qualification n’est pas affectée par la qualification du même fait comme licite par le droit interne.
+2. Il y a fait internationalement illicite d’un Etat lorsqu’un fait imputé à cet État viole une obligation internationale à la charge dudit État.
+3. Il y a violation d’une obligation internationale par le fait imputé à un État lorsque le fait en question n’est pas conforme à ce qui est requis de l’État en vertu de cette obligation internationale. 
+4. Le fait de l’État ne constitue la violation d’une obligation internationale que si l’État est lié par ladite obligation au moment où le fait se produit – principe de non-rétroactivité.
+Autrement dit, pour que la responsabilité d’un État soit engagée, il faut que la violation ait eu lieu au moment où l’État était lié par l’obligation. 
+Il s’agit là de l’application dans le domaine de la responsabilité des États du principe général du droit intertemporel (ou principe de l’intertemporalité) tel qu’il a été énoncé, le 4 avril 1928, par l’arbitre Max Huber dans un autre contexte, dans l’affaire de l’île de Palmas :
+« Un fait juridique doit être apprécié à la lumière du droit de l’époque et non pas à celle du droit en vigueur au moment où surgit ou doit être réglé un différend relatif à ce fait » - Recueil des sentences arbitrales, vol. II (1949), p. 845.    
+**
+3 – Les circonstances excluant l’illicéité (Les causes exonératoires) 
+
+Définition : Les causes exonératoires sont des événements ou des agissements qui ont pour effet de décharger, totalement ou partiellement selon le cas, l’État de sa responsabilité internationale, et ce, en empêchant l’illicéité d’être caractérisée ou imputée à l’État.
+
+Question : Quelle précision faut-il garder constamment à l’esprit ? 
+ Réponse : Celle-ci :  
+Aucune des six causes exonératoires dont il est question ici ne sera retenue par le juge si l’obligation méconnue par l’État résulte d’une norme impérative du droit international général.
+ Question : Qu’est-ce qu’une norme impérative du droit international général ? 
+ Réponse : Une norme impérative du droit international général (appelée aussi « norme du jus cogens ») est définie par l’article 53 de la convention de Vienne sur le droit des traités du 23 mai 1969 de la manière suivante :
+ « [U]ne norme impérative du droit international général est 
+* une norme acceptée et reconnue par la communauté internationale des États dans son ensemble 
+* en tant que norme à laquelle aucune dérogation n’est permise 
+* et qui ne peut être modifiée que par une nouvelle norme du droit international général ayant le même caractère. »
+*
+ Par exemple, la Cour internationale de Justice a reconnu comme normes impératives du droit international général : 
+* « la mise hors la loi des actes d’agression » ;
+* « la mise hors la loi du génocide » ; 
+* « les principes et les règles concernant les droits fondamentaux de la personne humaine, y compris la protection contre la pratique de l’esclavage et la discrimination raciale » – Barcelona Traction, Light and Power Company, Limited, (Nouvelle requête : 1962) (Belgique c. Espagne), Deuxième phase, Arrêt du 5 février 1970. C.I.J. Recueil 1970, p. 3 ;
+* le principe du droit des peuples à disposer d’eux-mêmes – Timor oriental (Portugal c. Australie), Arrêt du 30 juin 1995. C.I.J. Recueil 1995, p. 99. 
+ *
+ Il y a six causes exonératoires que peut invoquer un État dont la responsabilité internationale est mise en jeu :
+1. Le consentement de la victime ;
+2. La légitime défense ;
+3. Les contre-mesures ;
+4. La force majeure ;
+5. La détresse ; 
+6. L’état de nécessité.   
+**
+a – Le consentement de la victime
+ Par consentement de la victime, il faut nécessairement entendre 
+* consentement d’un sujet du droit international,
+* et plus précisément, consentement de l’État victime du fait internationalement illicite.
+ Le consentement de l’État victime exclut l’illicéité du fait litigieux si les conditions suivantes sont remplies :  
+1. Le consentement doit être valable en droit international, c’est-à-dire 
+* clairement établi, 
+* réellement exprimé (ce qui exclut le consentement tacite) 
+* attribuable à l’État sur le plan international 
+* et antérieur à la commission du fait auquel il se rapporte.
+2. Le fait litigieux doit rester dans les limites du consentement de la victime.
+ Nous pourrions certes ajouter que l’obligation méconnue par l’État ne doit pas résulter d’une norme impérative du droit international général. 
+ Mais ce serait une redite puisque cette condition est sous-entendue dans toutes les six causes exonératoires invocables, ce que nous avons souligné en commençant cette sous-partie du cours – Cf. page 14.
+* Exemples d’objet du consentement : 
+* le survol de l’espace aérien ou le passage par les eaux intérieures d’un État ;
+* l’établissement d’installations sur son territoire 
+* ou la conduite de recherches ou d’enquêtes officielles sur ce territoire.
+**
+b – La légitime défense
+ L’illicéité du fait de l’État est en principe exclue si ce fait constitue une mesure de légitime défense prise en conformité avec l’article 51 de la Charte des Nations Unies. 
+Autrement dit, une réponse nécessaire et proportionnée à un acte d’agression armée. 
+Le principe a été clairement admis par la Cour internationale de Justice dans l’affaire des Activités militaires et paramilitaires au Nicaragua et contre celui-ci (Nicaragua c. États-Unis d’Amérique), Fond, Arrêt du 27 juin 1986. C.I.J. Recueil 1986, p. 14. 
+ Néanmoins, la légitime défense n’exclut pas l’illicéité d’un comportement dans toutes les circonstances ni à l’égard de toutes les obligations. 
+ Parmi les limites à l’exercice du droit de légitime défense, on peut citer avec la Cour internationale de Justice :
+* les dispositions du droit international humanitaire que la Cour internationale de Justice qualifie de « principes intransgressibles » – Licéité de la menace ou de l’emploi d’armes nucléaires, Avis consultatif du 8 juillet 1996. C.I.J. Recueil 1996, p. 226 ; 
+* les dispositions relatives aux droits de l'homme non susceptibles de dérogation et
+* certaines obligations contractées en matière d’environnement – C.I.J., avis précité du 8 juillet 1996 ; cf. aussi Trail Smelter case (United States, Canada), sentences des 16 avril 1938 et 11 mars 1941 (Fonderie de Trail – premières grandes décisions dans le domaine de la responsabilité en matière d’environnement).
+**
+c – Les contre-mesures
+ L’illicéité du fait d’un État non conforme à l’une de ses obligations internationales à l’égard d’un autre État est exclue si, et dans la mesure où, ce fait constitue une contre-mesure prise à l’encontre de cet autre État. 
+
+Définition : Une contre-mesure est un acte exclusif de tout recours aux armes, pris par un État, en violation d'une de ses obligations internationales, pour riposter à un fait internationalement illicite commis à son encontre par un autre État.
+
+ Question : À quelles conditions, le recours par un État à des contre-mesures est-il justifié en droit international ? 
+ Réponse : Selon la Cour (C’est-à-dire CIJ ou Cour internationale de Justice), pour qu’une contre-mesure soit justifiée (ou licite), cinq conditions doivent être cumulativement réunies : 
+1. La contre-mesure doit être prise pour riposter à un fait internationalement illicite d'un autre État et doit être dirigée contre cet État ;
+2. L’État lésé doit avoir invité l'État auteur du fait illicite à mettre fin à son comportement illicite ou à en fournir réparation ;
+3. Les effets de la contre-mesure doivent être proportionnés aux dommages subis, compte tenu des droits en cause ;
+4. La contre-mesure doit avoir pour but d'inciter l'État auteur du fait illicite à exécuter les obligations qui lui incombent en vertu du droit international ; 
+5. Enfin la mesure prise doit être réversible – Affaire relative au projet Gabíkovo-Nagymaros, (Hongrie/Slovaquie), Arrêt du 25 septembre 1997. C.I.J. Recueil 1997, p. 7. 
+Tel n’est évidemment pas le cas d’une contre-mesure qui détruit une vie ou un bien matériel irremplaçable.
+ Une fois réunies, ces cinq conditions légitiment un acte (la contre-mesure) qui, autrement, serait illicite. 
+**
+d – La force majeure
+ L’illicéité du fait d’un État non conforme à une obligation internationale de cet État est exclue si ce fait est dû à la force majeure.
+ Le bien-fondé de l’invocation de la force majeure par l’État mis en cause est subordonné aux conditions suivantes :
+1. l'événement dit de force majeure doit être indépendant de la volonté de l’État mis en cause, et ne pas avoir été causé, même non intentionnellement, par lui ; 
+2. l'événement doit être imprévu, ou prévu mais inévitable ou insurmontable ; 
+3. l'événement doit être tel qu'il met l’Etat dans l'impossibilité de s'acquitter de son obligation ;
+4. il doit exister un lien de causalité entre l'événement et la non-exécution de l'obligation.
+**
+e – La détresse
+ En principe, l’illicéité est exclue si l’agent (de droit ou de fait) de l’État mis en cause n’avait pas d’autre moyen, dans une situation d’extrême détresse, pour sauver sa vie ou celle de personnes placées sous sa garde.
+* Exemple : aéronef en perdition survolant sans autorisation l’espace aérien d’un autre État. 
+ Toutefois, l’illicéité est retenue :
+* si l’État mis en cause a contribué à la naissance de la situation d’extrême détresse
+* ou si le fait litigieux a causé à l’État victime un dommage comparable ou supérieur à celui que l’État mis en cause voulait éviter. 
+**
+f – L’état de nécessité
+En principe, l’illicéité est exclue si l’agent (de droit ou de fait) de l’État mis en cause n’avait pas d’autre moyen, dans une situation extrême, pour sauvegarder un intérêt essentiel de l’Etat.
+ Toutefois, l’illicéité est retenue :
+* si l’État mis en cause a contribué à la survenance de l’état de nécessité
+* ou si le fait litigieux a causé à l’État victime un dommage comparable ou supérieur à celui que l’État mis en cause voulait éviter. 
+**
+B – L’existence d’un préjudice
+ Le préjudice est considéré ici comme synonyme de dommage nonobstant certaines dissertations doctrinales de droit civil. Distinguer les deux termes n’a aucune pertinence devant le juge.
+ Que le préjudice soit une condition sine qua non de l’engagement de la responsabilité, cela dépend de l’obligation violée.  
+ Toutefois, même si la règle n’est pas absolue, le contenu de la plupart des normes primaires est tel qu’en fait la nécessité d’un préjudice est souvent admise comme condition d’engagement de la responsabilité.
+ D’une manière générale, un dommage (ou préjudice) peut avoir été causé
+* directement à un État
+* ou à la personne privée dont l’État défend les droits et intérêt par le mécanisme de la protection diplomatique.
+Il revêt soit un caractère matériel, soit un caractère immatériel (ou moral). Dans ces deux hypothèses, qui ne s’excluent pas, il peut affecter l’environnement. 
+1 – Préjudice matériel et préjudice immatériel ou moral
+ Un préjudice matériel (damnum emergens), quelles qu’en soient la nature et l’étendue, suffit à engager la responsabilité de son auteur. La jurisprudence internationale a même admis l’indemnisation du gain manqué ou lucrum cessans.  
+ En revanche, traditionnellement, la jurisprudence se refusait à indemniser les préjudices moraux. L’arbitre Ralston (31 juillet 1950, France/Venezuela) rappelle le fondement de cette attitude : 
+« Les sentiments ne sont pas mesurables en bolívars ou en livres sterling ».  
+ Le revirement de jurisprudence s’est produit dans les affaires du Lusitania – Navire torpillé par un sous-marin allemand, sentences arbitrales du 1er novembre 1923. 
+Anzilotti salue ce changement de cap des juges : « L’honneur et la dignité des États l’emportent de beaucoup sur les intérêts matériels ».
+ De nos jours, plus aucun doute ne subsiste : un préjudice immatériel (ou moral) est bel et bien susceptible de réparation.
+ Dans l’affaire Ahmadou Sadio Diallo, la Cour internationale de Justice a énoncé deux précisions au sujet des préjudices immatériels (ou moraux) :
+1. « Un préjudice immatériel peut être établi même en l’absence d’éléments de preuve précis. » 
+2. « La détermination du montant de l’indemnité due à raison d’un préjudice immatériel repose nécessairement sur des considérations d’équité. » – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), Indemnisation due par la République Démocratique du Congo à la République de Guinée, Arrêt du 19 juin 2012. C.I.J. Recueil 2012, p. 324.  
+**
+2 – Le cas particulier des dommages « environnementaux »
+ La Cour internationale de Justice a statué pour la première fois sur une demande d’indemnisation pour « dommages environnementaux » dans l’arrêt du 2 février 2018 rendu en l’affaire relative à certaines activités menées par le Nicaragua dans la région frontalière (Costa Rica c. Nicaragua), Indemnisation due par la République du Nicaragua à la République du Costa Rica.
+Elle y énonce le principe que de tels dommages sont susceptibles d’indemnisation :
+« Il est […] conforme aux principes du droit international régissant les conséquences de faits internationalement illicites, et notamment au principe de la réparation intégrale, de conclure que les dommages environnementaux ouvrent en eux-mêmes droit à indemnisation […] »
+ Cette position de la Cour rejoint 
+* d’abord, les célèbres premières sentences arbitrales rendues en matière de dommages environnementaux le 16 avril 1938 et le 11 mars 1941, entre les États-Unis et le Canada, dans l’affaire de la Fonderie de Trail (Trail Smelter Case) ;
+* ensuite, les décisions d’autres organes internationaux de règlement des différends, notamment celles de la Commission d’indemnisation des Nations Unies, qui a accordé à plusieurs États des indemnités à raison des dommages environnementaux qu’ils avaient subis du fait de l’invasion et de l’occupation illicites du Koweït par l’Iraq en 1990 et 1991.  
+ Le droit à réparation pour dommages environnementaux est largement entendu :
+« La Cour est […] d’avis que les dommages causés à l’environnement, ainsi que la dégradation ou la perte consécutive de la capacité de celui-ci de fournir des biens et services, sont susceptibles d’indemnisation en droit international. Cette indemnisation peut comprendre une indemnité pour la dégradation ou la perte de biens et services environnementaux subie pendant la période précédant la reconstitution, et une indemnité pour la restauration de l’environnement endommagé. » – Certaines activités menées par le Nicaragua dans la région frontalière (Costa Rica c. Nicaragua), Indemnisation due par la République du Nicaragua à la République du Costa Rica, Arrêt du 2 février 2018. C.I.J. Recueil 2018, p. 15.
+**
+C – L'existence d'un lien de causalité direct et certain entre le fait et le préjudice
+ Une fois établie l’existence même du préjudice, le juge s’assure qu’il existe un lien de causalité suffisamment direct et certain entre le préjudice et le fait illicite.  
+« Direct » et « certain » doivent être respectivement compris somme suit :
+* La réparation des préjudices indirects est en principe exclue ;
+* L’examen du lien de causalité ne doit faire apparaître aucun doute raisonnable en ce qui concerne sa réalité.
+En matière de causalité, il existe trois théories : 
+1. La théorie de l’équivalence des conditions. On considère que tout fait sans lequel le dommage ne serait pas produit peut être retenu comme la cause de ce dommage ;
+2. La théorie de la proxima causa (proximité de la cause). On estime que seul le dernier des faits qui ont rendu possible un dommage peut être retenu comme cause de ce dommage ;
+3. La théorie de la causalité adéquate. Parmi les faits qui ont concouru à la réalisation d’un dommage, on ne retient comme cause que celui qui était particulièrement et raisonnablement propre à entraîner ce dommage.
+ En générale, la jurisprudence s’inspire des deuxième et troisième théories. 
+ Quant à la Cour internationale de Justice, elle a eu l’occasion de préciser sa démarche : 
+« Elle doit rechercher si et dans quelle mesure le dommage invoqué par le demandeur est la conséquence du comportement illicite du défendeur, en examinant s’il existe un lien de causalité suffisamment direct et certain entre le fait illicite … et le préjudice subi par le demandeur" » – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), Indemnisation due par la République Démocratique du Congo à la République de Guinée, Arrêt du 19 juin 2012. C.I.J. Recueil 2012, p. 324 ; Application de la convention pour la prévention et la répression du crime de génocide (Bosnie-Herzégovine c. Serbie-et-Monténégro), Arrêt du 26 février 2007. C.I.J. Recueil 2007, p. 43.
+ L’appréciation de la causalité n’est donc pas dénuée d’une certaine subjectivité. Au demeurant, toute option causale apparaît, en dernière analyse, comme une rupture plus ou moins arbitraire de la chaîne de causalité.
+**
+*
+ II – L’invocation de la responsabilité internationale de l’État
+ Une fois admis que les conditions que sont réunies les conditions de l’engagement de la responsabilité internationale de l’État, il y a lieu de répondre à deux questions : 
+* Qui dispose du droit d’invoquer la responsabilité internationale de l’État ?  (A)
+* Quelle procédure suivre pour invoquer la responsabilité internationale de l’État ?  (B)   
+
+A – Les titulaires du droit d’invoquer la responsabilité internationale de l’État
+ L’une des nombreuses contributions de Hans Kelsen aux progrès de la science juridique réside dans la démonstration qu’à tout droit correspond une obligation, et inversement. 
+Si l’on admet cette analyse, il n’est pas difficile de reconnaître que la violation d’une obligation internationale par un État correspond à la violation d’un droit conféré à un autre État. Il peut s’agir
+* d’un droit conféré à titre individuel à un État
+* ou d’un droit reconnu à titre collectif à un groupe d’États.
+ Il s’ensuit que le fait internationalement illicite d’un État est susceptible de léser un État à titre individuel ou un groupe d’États à titre collectif.
+Ces deux catégories de victimes de faits internationalement illicites ont le droit d’invoquer la responsabilité internationale de l’État qui en est l’auteur.
+1 – L’État lésé à titre individuel
+ Dans son acception la plus simple, l’expression « État lésé à titre individuel » désigne l’État dont un droit propre a été méconnu ou compromis par le fait internationalement illicite.
+Plus précisément, un État X reçoit la qualification d’État lésé à titre individuel si l’obligation violée par le fait d’un autre État était due (ou bénéficiait) à cet État X considéré individuellement.
+* Exemple : Si un État Y viole par son fait illicite la souveraineté d’un État X, ce dernier reçoit la qualification d’État lésé à titre individuel, ce qui l’habilite à engager (à invoquer) la responsabilité internationale de l’État Y. 
+**
+2 – Les États lésés à titre collectif
+Des États reçoivent la qualification d’États lésés à titre collectif dans les deux cas suivants :
+L’obligation violée par le fait d’un État  
+* existait (et existe sans doute encore) à l’égard d’un groupe limité d’États dont ces États lésés font partie, 
+* et, plus précisément, a été établie aux fins de la protection d’un intérêt collectif dudit groupe d’États.
+L’obligation violée par le fait d’un État existait (et existe sans doute encore) à l’égard de la communauté internationale dans son ensemble aux fins de la protection de ses intérêts.
+* Exemples du premier cas : les obligations stipulées soit dans un traité régional établissant une zone dénucléarisée, soit dans un traité régional de protection des droits de l’homme. 
+* Exemples du second cas : les obligations découlant du jus cogens, c’est-à-dire des normes impératives du droit international général.
+Dans son arrêt rendu en l’affaire de la Barcelona Traction Light and Power Company, la Cour internationale de Justice a clairement reconnu et exposé l’existence de cette seconde catégorie d’obligations :
+« Une distinction essentielle doit en particulier être établie entre les obligations des États envers la communauté internationale dans son ensemble et celles qui naissent vis à vis d'un autre État dans le cadre de la protection diplomatique. Par leur nature même, les premières concernent tous les États. 
+Vu l'importance des droits en cause, tous les États peuvent être considérés comme ayant un intérêt juridique à ce que ces droits soient protégés ; les obligations dont il s'agit sont des obligations erga omnes. » – Barcelona Traction, Light and Power Company, Limited, (Nouvelle requête: 1962) (Belgique c. Espagne), Deuxième phase, Arrêt du 5 février 1970. C.I.J. Recueil 1970, p. 3.
+**
+B – L’exercice du droit d’invoquer la responsabilité internationale de l’État
+ L’invocation de la responsabilité d’un État emprunte soit les canaux diplomatiques traditionnels (Cf. Introduction général) soit les voies semées d’embûches des juridictions internationales qui sont au cœur de notre cours.
+Quel que soit le choix retenu, il est souvent précédé d’actions à vocation préparatoire. 
+1 – Les actions préalables de droit et les actions préalables de fait
+a – Notification et rejet de demandes : naissance d’un différend
+ Le seul fait pour un État X d’avoir accompli à l’égard d’un État Y une action ou une omission internationalement illicite ne suffit pas pour caractériser un différend entre les deux États.
+Ce constat se fonde sur la définition même de la notion de différend telle qu’elle a été formulée par la CPJI (Cour permanente de Justice international) et reprise par la quasi-totalité des juridictions internationales :
+
+Définition : « Un différend est un désaccord sur un point de droit ou de fait, une contradiction, une opposition de thèses juridiques ou d'intérêts entre deux personnes. » —  Affaire des concessions Mavrommatis en Palestine, Exception d’incompétence, Arrêt du 30 août 1924. CPJI, série A n°2.
+
+
+Pour démontrer qu’une affaire mettant aux prises un État X et un État Y peut être qualifiée de différend, on doit rechercher si les attitudes des deux États sont opposées, si, concrètement, « la réclamation de l’un des deux États se heurte à l’opposition manifeste de l’autre » – Affaires du Sud-Ouest africain (Éthiopie c. Afrique du Sud; Libéria c. Afrique du Sud), Exceptions préliminaires, Arrêt du 21 décembre 1962. C.I.J. Recueil 1962, p. 319. 
+ L’accomplissement par un État X d’un fait internationalement illicite à l’égard d’un État Y n’est que la première étape du processus susceptible de déboucher sur un différend.
+ En voici les étapes suivantes : 
+ L’État Y, lésé à titre individuel ou collectif par le fait internationalement illicite, notifie à l’État X, auteur dudit fait, des demandes précises : cessation du comportement illicite, réparation, etc. ;
+ L’État X auteur du fait internationalement illicite rejette, explicitement ou implicitement, les demandes formulées par l’État Y.
+ L’État Y est alors en droit de conclure, conformément à la jurisprudence bien établie de la CIJ, que « du fait de ce rejet, il existe un différend d’ordre juridique » entre les deux États – Timor oriental (Portugal c. Australie), Arrêt du 30 juin 1995. C.I.J. Recueil 1995, p. 99.
+ Bien évidemment, l’acceptation, par l’État auteur du fait internationalement illicite, des demandes de l’État victime empêche le différend de survenir. Ajoutons, clin d’œil à l’appui, qu’elle mettrait également un terme à ce cours dont la suite repose sur le postulat qu’il est survenu un différend entre les deux États.
+**
+b – Contre-mesures et cristallisation du différend
+
+Définition : Une contre-mesure est un acte exclusif de tout recours aux armes, pris par un État, en violation d'une de ses obligations internationales, pour riposter à un fait internationalement illicite commis à son encontre par un autre État.
+La jurisprudence internationale reconnaît à l’État lésé par un fait internationalement illicite le droit de prendre des contre-mesures à l’encontre de l’État auteur du fait.
+Dans sa sentence rendue le 9 décembre 1978 en l’affaire concernant l'accord relatif aux services aériens du 27 mars 1946 entre les États-Unis d'Amérique et la France, le tribunal arbitral justifie le droit de l’État lésé de prendre des contre-mesures par les considérations suivantes :
+« Dans l'état actuel du droit international général, chaque État apprécie pour lui-même sa situation juridique au regard des autres États. 
+En présence d'une situation qui comporte à son avis la violation d'une obligation internationale par un autre État, il a le droit, sous la réserve des règles générales du droit international relatives aux contraintes armées, de faire respecter son droit par des "contre-mesures". » 
+ Quant à la Cour internationale de Justice, elle a estimé le 25 septembre 1997, à l’occasion de l’affaire relative au Projet Gabcíkovo-Nagymaros, que pour être licite, une contre-mesure devait satisfaire à certaines conditions – Cf. ci-dessus, page 16, b – Les circonstances excluant l’illicéité (Les causes exonératoires), iii – Les contre-mesures.
+**
+2 – Le recours éventuel à une juridiction internationale
+Si les parties au différend relatif au fait internationalement illicite décident de s’en remettre à la décision d’une juridiction internationale, il se posera nécessairement devant cette dernière 
+* des questions de fond (i) 
+* et des questions de procédure (ii).
+**
+a – Les questions de fond : persistance ou abandon du droit invoqué
+ Question : Si un État lésé tarde à exercer son droit d’invoquer la responsabilité de l’État auteur du fait illicite, son attitude équivaut-elle à une renonciation à ce droit ? 
+ Réponse : L’invocation de la responsabilité internationale de l’État auteur du fait internationalement illicite ne constitue pas une obligation pour l’État lésé. Il est même loisible à ce dernier de renoncer à ce droit.
+Même si l’on admet que l’effectivité de la renonciation est subordonnée à sa validité, la question de la réalité même de la renonciation a souvent été posée dans des affaires contentieuses.
+ Ainsi s’est-on demandé si la renonciation à invoquer la responsabilité de l’État auteur du fait illicite pouvait se déduire du comportement de l’État lésé, en particulier du retard qu’il a pris pour présenter ses demandes.
+ Dans son arrêt rendu le 26 juin 1992 en l’affaire dite Certaines terres à phosphates à Nauru, la Cour internationale de Justice a donné des éléments de réponse :  
+« La Cour reconnaît que, même en l’absence de disposition conventionnelle applicable, le retard d’un État demandeur peut rendre une requête irrecevable. 
+Elle note cependant que le droit international n’impose pas à cet égard une limite de temps déterminée. 
+La Cour doit par suite se demander à la lumière des circonstances de chaque espèce si l’écoulement du temps rend une requête irrecevable. » –  Certaines terres à phosphates à Nauru (Nauru c. Australie), Exceptions préliminaires, Arrêt du 26 juin 1992. C.I.J. Recueil 1992, p. 240.
+ En termes simples, la jurisprudence internationale impose à l’État lésé d’agir dans un délai raisonnable, sans pour autant indiquer la durée correspondant à ce délai.
+ Une certitude cependant : s’il est établi qu’un État lésé X a renoncé à son droit d’invoquer la responsabilité d’un État Y auteur du fait internationalement illicite, l’État X ne pourra plus exercer ce droit. 
+L’obstacle juridique auquel il se heurtera aura simplement pour nom « estoppel » – Cf. Chapitre I du cours, l’administration de la preuve devant la CIJ.
+**
+b – Les questions de procédure : protection diplomatique et recevabilité du recours
+Au contraire des questions de fond examinées ci-dessus, les questions de procédure soulevées devant le juge international portent, non sur l’existence du droit d’invoquer la responsabilité d’un État, mais sur la rectitude de l’exercice de ce droit.
+Ces questions de procédure revêtent souvent une grande importance, dans la mesure où, dans bien des cas, l’invocation de la responsabilité d’un État correspond à l’exercice de la protection diplomatique. 
+
+Définition : La protection diplomatique, c’est « l’invocation par un État, par une action diplomatique ou d’autres moyens de règlement pacifique, de la responsabilité d’un autre État, pour un préjudice causé par un fait internationalement illicite dudit État à une personne physique ou morale ayant la nationalité du premier État, en vue de la mise en œuvre de cette responsabilité. » – Commission du droit international, Projet d’articles sur la protection diplomatique et commentaires y relatifs, 2006.
+
+ Selon la CIJ, cette définition reflète le droit international coutumier – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), Exceptions préliminaires, Arrêt du 24 mai 2007. C.I.J. Recueil 2007, p. 582.
+*
+ La plupart des faits internationalement illicites ont pour victimes les ressortissants d’autres États : déni de justice, arrestations arbitraires, manquements au devoir de prévention et de répression des actes de violence, etc.
+ Par l’effet de la protection diplomatique, ces faits sont considérés comme ayant été accomplis à l’égard de l’État de nationalité des victimes, comme l’a affirmé la CPJI dans un célèbre dictum :
+« En prenant fait et cause pour l’un des siens, en mettant en mouvement en sa faveur l’action diplomatique ou l’action judiciaire internationale, cet État fait, à vrai dire, valoir son propre droit, le droit qu’il a de faire respecter, en la personne de ses ressortissants, le droit international. » – Affaire des concessions Mavrommatis en Palestine, Exception d’incompétence, Arrêt du 30 août 1924. CPJI, série A n°2. 
+ Selon une jurisprudence constante depuis le milieu du XXe siècle, les conditions de recevabilité de l’action en protection diplomatique sont au nombre de deux :
+1. Un lien de nationalité entre la personne privée et l’État exerçant la protection diplomatique ;
+2. L’épuisement préalable des voies de recours internes disponibles au sein de l’État mis en cause.
+ Deux autres conditions de recevabilité ont été définitivement abandonnées :
+o la conduite correcte du réclamant (de la personne privée) : théorie dite des « clean hands » (« mains propres »). Cette conduite ne concerne plus la recevabilité, mais le fond, en ce sens qu’elle est un facteur de minoration de la réparation demandée ;
+o et l’absence de clause Calvo, c’est-à-dire l’absence de renonciation anticipée de la personne privée à se prévaloir de la protection diplomatique de son État national. L’abandon de cette condition de recevabilité s’explique par le fait que, comme nous l’avons déjà souligné, la protection diplomatique est un droit de l’État même s’il est exact qu’elle bénéficie à une personne privée. 
+ Le lien de nationalité et l’épuisement préalable des voies de recours internes sont les seules conditions dont dépend la recevabilité de l’action en protection diplomatique  
+* aussi bien selon la Commission du droit international des Nations Unies
+* que d’après la Cour internationale de Justice.
+ À preuve, ce passage de l’arrêt rendu par la Cour en l’affaire Ahmadou Sadio Diallo :
+« 40. En l’espèce, la Guinée prétend exercer sa protection diplomatique en faveur de M. Diallo en raison de la violation des droits de celui-ci que la RDC aurait commise du fait de son arrestation, de sa détention et de son expulsion, violation qui aurait constitué un acte internationalement illicite de cet Etat mettant en cause sa responsabilité. 
+Il appartient donc à la Cour d’examiner si le demandeur satisfait aux conditions de l’exercice de la protection diplomatique, à savoir si M. Diallo a la nationalité de la Guinée et s’il a épuisé les voies de recours internes disponibles en RDC. » – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), Exceptions préliminaires, Arrêt du 24 mai 2007. C.I.J. Recueil 2007, p. 582.
+*
+Ces deux conditions ont fait l’objet d’un exposé détaillé dans la partie finale de l’introduction générale à ce cours (II-B-2-b – Les conditions de recevabilité de l’action en protection diplomatique) ; nous nous bornons donc à y renvoyer le lecteur. 
+*
+
+Ultime rappel :
+ Le lien de nationalité et l’épuisement préalable des voies de recours internes sont les seules conditions dont dépend la recevabilité de l’action en protection diplomatique  
+* aussi bien selon la Commission du droit international des Nations Unies1
+* que d’après la Cour internationale de Justice.
+ À preuve, le passage précité de l’arrêt rendu par la Cour en l’affaire Ahmadou Sadio Diallo :
+« 40. En l’espèce, la Guinée prétend exercer sa protection diplomatique en faveur de M. Diallo en raison de la violation des droits de celui-ci que la RDC aurait commise du fait de son arrestation, de sa détention et de son expulsion, violation qui aurait constitué un acte internationalement illicite de cet Etat mettant en cause sa responsabilité. 
+Il appartient donc à la Cour d’examiner si le demandeur satisfait aux conditions de l’exercice de la protection diplomatique, à savoir si M. Diallo a la nationalité de la Guinée et s’il a épuisé les voies de recours internes disponibles en RDC. » – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), Exceptions préliminaires, Arrêt du 24 mai 2007. C.I.J. Recueil 2007, p. 582.
+**
+*
+
+
+
+
+
+
+SECTION II
+LES OBLIGATIONS DÉCOULANT DE L’ADMISSION DE LA RESPONSABILITÉ INTERNATIONALE DE L’ÉTAT
+
+
+*
+    I – Les obligations à caractère conservatoire ou préventif 
+Sommaire de cette sous-partie SECTION II – I
+A – La cessation du comportement illicite
+ Rappelons que le fait d’un État n’est qualifié d’internationalement illicite que s’il constitue la violation d’une obligation internationale à la charge de cet État.
+ Le principe est que la violation d’une obligation internationale ne fait pas disparaître cette obligation, ne la rend pas caduque. 
+ Ce principe du maintien en vigueur de l’obligation internationale met à la charge de l’État en cause une obligation précise : l’obligation d’exécuter l’obligation qu’il a violée et donc de cesser son comportement illicite.
+ L’obligation de cesser le comportement jugé illicite concerne 
+* non seulement les faits illicites ayant un caractère continu (Détention d’étrangers, occupation d’un territoire, etc.),
+* mais aussi les faits illicites qui, bien que ne présentant pas un caractère continu, ont été réitérés.
+ Première conséquence juridique de l’admission de la responsabilité, l’obligation de cesser le comportement illicite a pour fonction de mettre fin à une violation du droit international et de préserver la validité et l’efficacité de la règle de droit.
+**
+B – La présentation d’assurances et de garanties de non-répétition appropriées 
+ Question : À quoi correspond la présentation d’assurances et de garanties de non-répétition ? 
+ Réponse : À l’engagement pris par un État de ne pas commettre à nouveau la fait à cause duquel il a été jugé responsable. Vous l’aurez compris : Ici, « répétition » a le sens de « recommencement » et non celui de « restitution » qu’on lui donne en droit civil dans l’expression « répétition de l’indu », par exemple. 
+ Juridiquement, les assurances et les garanties de non-répétition impliquent la reconnaissance par un État du caractère internationalement illicite de son comportement.
+ Du point de vue politique, elles visent à rétablir la confiance dans des relations bilatérales ou multilatérales.
+ Assurances et garanties se distinguent par leur forme et par leur contenu.
+ Les assurances sont normalement données oralement et ont un contenu purement rhétorique.
+ En revanche, les garanties prennent la forme de mesures concrètes adoptées par l’État responsable aux fins d’éviter que ne se reproduise la violation de l’obligation internationale en cause.
+ Question : Les juges condamnent-ils toujours l’État reconnu responsable à présenter des assurances et des garanties de non-répétition ? 
+ Réponse : Non, pas toujours, voire rarement.
+Les juges apprécient au cas par cas l’opportunité de condamner un État à offrir des assurances et des garanties de non-répétition. 
+Telle est la position exprimée par la Cour internationale de Justice dans son arrêt du 13 juillet 2009, rendu en l’affaire du Différend relatif à des droits de navigation et des droits connexes :
+« Enfin, si la Cour peut, comme il lui est arrivé de le faire, ordonner à l’État responsable d’un comportement internationalement illicite d’offrir à l’État lésé des assurances et des garanties de non-répétition, c’est seulement si les circonstances le justifient, ce qu’il lui appartient d’apprécier.
+En règle générale, il n’y a pas lieu de supposer que l’État dont un acte ou un comportement a été déclaré illicite par la Cour répétera à l’avenir cet acte ou ce comportement, puisque sa bonne foi doit être présumée […] Il n’y a donc pas lieu, sauf circonstances spéciales que la Cour n’aperçoit pas en la présente espèce, d’ordonner une mesure telle que celle que réclame le Costa Rica. » – Différend relatif à des droits de navigation et des droits connexes (Costa Rica c. Nicaragua), Arrêt du 13 juillet 2009. C.I.J. Recueil 2009, p. 213. 
+ L’État auteur d’un fait internationalement illicite sera donc rarement tenu de présenter des assurances et des garanties de non-répétition.
+**
+
+*
+      II – Les obligations à portée réparatrice
+ L’existence, à la charge de l’État jugé responsable, d’obligations à portée réparatrice ne fait aucun doute depuis le fameux dictum de l’arrêt rendu le 26 juillet 1927 par la CPJI, sur la question de compétence, dans l’affaire relative à l’usine de Chorzów : 
+« C’est un principe de droit international que la violation d’un engagement entraîne l’obligation de réparer dans une forme adéquate. La réparation est donc le complément indispensable d’un manquement à l’application d’une convention, sans qu’il soit nécessaire que cela soit inscrit dans la convention même. » – Affaire relative à l’Usine de Chorzów (Demande en indemnité) (Compétence), Arrêt n°8 du 26 juillet 1927. CPJI, série A n°9-série. 
+La CIJ confirme :
+« II est une règle bien établie du droit international, qu'un Etat lésé est en droit d'être indemnisé, par l’État auteur d'un fait internationalement illicite, des dommages résultant de celui-ci. » – Affaire relative au projet Gabíkovo-Nagymaros, (Hongrie/Slovaquie), Arrêt du 25 septembre 1997. C.I.J. Recueil 1997, p. 7.
+
+A – Le principe de la réparation intégrale ou adéquate du préjudice
+ Comme cela a été souligné ci-dessus, le principe général applicable aux conséquences juridiques d'un fait internationalement illicite est l’obligation de « réparer dans une forme adéquate ». 
+ Question : Que faut-il entendre par « réparer dans une forme adéquate » ?  
+ Réponse : Position de la Cour internationale de Justice dans l’affaire Avena et autres ressortissants mexicains :
+« Quant à savoir ce qui constitue une "réparation dans une forme adéquate", cela dépend, manifestement, des circonstances concrètes de chaque affaire ainsi que de la nature exacte et de l'importance du préjudice, puisqu'il s'agit de déterminer quelle est la "réparation dans une forme adéquate" qui correspond à ce préjudice. » – Avena et autres ressortissants mexicains (Mexique c. Etats-Unis d’Amérique), Arrêt du 31 mars 2004. C.I.J. Recueil 2004, p. 12. 
+ Dans une autre phase de l’affaire de l’Usine de Chorzów, la Cour permanente de Justice internationale avait précisé la teneur d’une réparation adéquate ou intégrale du préjudice : 
+« Le principe essentiel, qui découle de la notion même d’acte illicite et qui semble se dégager de la pratique internationale, notamment de la jurisprudence des tribunaux arbitraux, est que la réparation doit, autant que possible, effacer toutes les conséquences de l’acte illicite et rétablir l’état qui aurait vraisemblablement existé si ledit acte n'avait pas été commis. » – Affaire relative à l’Usine de Chorzów (Demande en indemnité) (Fond), Arrêt n°13 du 13 septembre 1928. CPJI, série A n°13. 
+ Question : Est-il nécessaire de savoir avec certitude l’étendue d’un préjudice pour en assurer une réparation adéquate ?  
+ À cette question l’actuelle Cour répond négativement pour les dommages matériels, immatériels et plus spécifiquement pour les dommages environnementaux :
+* De l’avis de la Cour, un préjudice immatériel peut être établi même en l’absence d’éléments de preuve précis2.
+* S’agissant de l’évaluation des dommages, la Cour rappelle que l’absence d’éléments de preuve suffisants quant à l’étendue des dommages matériels (y compris les dommages environnementaux) n’exclut pas dans tous les cas l’octroi d’une indemnisation pour ces derniers.
+ Une approche similaire avait été retenue dans le cadre de l’arbitrage relatif à la Fonderie de Trail, dans lequel le tribunal, citant la décision de la Cour suprême des Etats-Unis d’Amérique en l’affaire Story Parchment Company v. Paterson Parchment Paper Company (1931, United States Reports, vol. 282, p. 555), avait déclaré ce qui suit :  
+ « Ce serait pervertir les principes fondamentaux de la justice que de refuser tout  secours à la victime et par là même libérer l’auteur du préjudice de l’obligation de  réparation sous prétexte que l’acte illicite est de nature à empêcher que le montant  de l’indemnité puisse être déterminé avec certitude : en pareil cas, si le montant de  l’indemnité ne doit pas être établi par simple spéculation ou conjecture, il suffit  néanmoins que l’ampleur des dommages soit démontrée par une déduction juste et  raisonnable, quand bien même le résultat n’en serait qu’approximatif.» (Trail Smelter case (United States, Canada), sentences des 16 avril 1938 et 11 mars 1941. Recueil des sentences arbitrales, Vol. III, p. 1920). 
+ Question : L’obligation de réparation intégrale ou adéquate s’étend-elle à tous les préjudices ? 
+ Réponse : L’obligation de réparer intégralement le préjudice ne vaut que pour les préjudices directs, c’est-à-dire ceux qui ont pour cause directe le fait internationalement illicite de l’État. 
+Elle n’équivaut aucunement à l’obligation de réparer les préjudices « trop indirects », « trop éloignés »3 du fait internationalement illicite.
+ Enfin, l’obligation de réparer intégralement le préjudice peut être atténuée par le comportement de l’État demandeur au moment de l’accomplissement ou après l’accomplissement du fait internationalement illicite. 
+ Selon la CIJ, qui en l’espèce se montre prudente, « il découlerait d’un tel principe qu’un État lésé qui n’a pas pris les mesures nécessaires à l’effet de limiter les dommages subis ne serait pas en droit de réclamer l’indemnisation de ceux qui auraient pu être évités. » – Affaire relative au projet Gabíkovo-Nagymaros, (Hongrie/Slovaquie), Arrêt du 25 septembre 1997. C.I.J. Recueil 1997, p. 7.
+ Notez bien que le comportement de l’État victime ou de la personne privée (en cas de protection diplomatique) conditionne
+* non pas la recevabilité de l’action de l’État victime
+* mais le fond, c’est-à-dire l’étendue de la réparation. C’est en effet au stade du fond que les juges peuvent apprécier les causes de minoration de la réparation demandée : dans la citation ci-dessus exposée de la CIJ, « en droit de réclamer » signifie « fondé à réclamer ».
+**
+B – Les formes de réparation 
+ C’est encore et toujours dans l’affaire relative à l’Usine de Chorzów que la CPJI a présenté deux des trois fourmes que peut prendre la réparation :
+« La réparation doit, autant que possible, effacer toutes les conséquences de l’acte illicite et rétablir l’état qui aurait vraisemblablement existé si ledit acte n’avait pas été commis. 
+Restitution en nature, ou, si elle n’est pas possible, paiement d’une somme correspondant à la valeur qu’aurait la restitution en nature ; allocation, s’il y a lieu, de dommages-intérêts pour les pertes subies et qui ne seraient pas couvertes par la restitution en nature ou le paiement qui en prend la place ; tels sont les principes desquels doit s’inspirer la détermination du montant de l’indemnité due à cause d’un fait contraire au droit international. » – Affaire relative à l’Usine de Chorzów (Demande en indemnité) (Fond), Arrêt n°13 du 13 septembre 1928. CPJI, série A n°13. 
+ La réparation intégrale du préjudice causé par le fait internationalement illicite prend, par ordre de priorité, les formes suivantes :
+* la restitution, 
+* l’indemnisation 
+* ou la satisfaction, séparément ou conjointement. 
+Le choix entre ces différentes formes de réparation dépend pour une large part de la nature de l’obligation violée par le fait internationalement illicite de l’État.
+1 – La restitutio in integrum
+ Inspirée de la « réparation en nature » bien connue des civilistes, l’expression restitutio in integrum (ou, plus simplement, restitution intégrale ou restitution) reçoit dans la jurisprudence internationale deux définitions.
+Selon une première définition, la restitutio in integrum consiste à rétablir le statu quo ante, c’est-à-dire la situation qui existait à l’époque, avant la survenance du fait illicite.
+Aux termes d’une autre définition, La restitutio in integrum consiste à établir ou rétablir la situation qui existerait maintenant sans la commission du fait illicite. 
+ De ces deux définitions, la première est plus contraignante pour le défendeur.
+ * C’est celle qui a été retenue par la Cour internationale de Justice : 
+« La Cour rappelle que, selon le droit international coutumier, la restitution est l’une des formes de réparation du préjudice ; elle consiste dans le rétablissement de la situation qui existait avant la survenance du fait illicite. » – Affaire relative à des usines de pâte à papier sur le fleuve Uruguay (Argentine c. Uruguay), Arrêt du 20 avril 2010. C.I.J. Recueil 2010, p. 14.  
+ La restitution, qui a la primauté sur les autres types de réparation, peut revêtir deux formes :
+1. La restitution matérielle. Elle intervient lorsque le préjudice est causé par un acte matériel. 
+Exemples de restitution matérielle : restitution d’une propriété confisquée, libération d’étrangers détenus en violation d’obligations internationales, etc. 
+Toutefois, les victimes préfèrent parfois l’indemnisation à une restitution tardive (détérioration du bien, dépréciation) ;  
+2. La restitution juridique. Elle a lieu lorsque la violation par l’État d’une obligation internationale provient de l’accomplissement ou du non-accomplissement d’un acte juridique (loi, acte administratif, jugement). 
+La restitution juridique consistera alors à retirer, abroger, annuler l’acte juridique dommageable ou au contraire à adopter l’acte juridique exigé par le droit international.  
+ Toutefois, la restitution, matérielle ou juridique, est impossible, notamment, si l’acte juridique a entièrement produit ses effets ou si le dommage causé est définitif. 
+ Il faut alors chercher un autre mode de réparation :
+« La Cour rappelle […] que, dans les cas où la restitution est matériellement impossible ou emporte une charge hors de toute proportion avec l’avantage qui en dériverait, la réparation prend alors la forme de l’indemnisation ou de la satisfaction, voire de l’indemnisation et de la satisfaction. » – Affaire relative à des usines de pâte à papier sur le fleuve Uruguay (Argentine c. Uruguay), Arrêt du 20 avril 2010. C.I.J. Recueil 2010, p. 14.  
+**
+2 – L’indemnisation
+Elle se définit comme le versement d’une somme d’argent en compensation du préjudice causé.
+ Lorsque la restitution, matérielle ou juridique, se révèle impossible, l’État jugé responsable est souvent tenu de verser une indemnité en compensation du préjudice causé par son fait internationalement illicite. 
+Au demeurant, en cas de dommage matériel, les États considèrent souvent que la forme la plus adéquate de la réparation est le versement d’une somme d’argent au demandeur. 
+ La « Cour Permanente d’Arbitrage » va plus loin en affirmant : 
+« Les diverses responsabilités des États ne se distinguent pas les unes des autres par des différences essentielles.
+Toutes se résolvent ou peuvent finir par se résoudre dans le paiement d’une somme d’argent.
+La coutume internationale et les précédents concordent avec ces principes. » – Affaire de l’indemnité turque (Russie, Turquie), Sentence arbitrale du 11 novembre 1912. Recueil des sentences arbitrales, Vol. XI, p. 441.
+ Le principe qui doit présider au calcul du montant de l’indemnité a été indiqué avec précision dans la sentence arbitrale rendue le 1er novembre 1923 dans les affaires du Lusitania : 
+« La conception fondamentale des dommages-intérêts est […] la réparation d’une perte subie, une compensation octroyée par voie judiciaire pour un préjudice. La réparation doit être proportionnelle au préjudice, de façon que la partie lésée retrouve la totalité de ce qu’elle a perdu. » – Affaires du Lusitania, Sentence arbitrale rendue le 1er novembre 1923. Recueil des sentences arbitrales.  
+ L’indemnisation peut être concomitante du versement d’intérêts compensatoires ou d’intérêts moratoires, au sujet desquels la Cour a donné les précisions suivantes :
+« La Cour rappelle que, selon la pratique des juridictions internationales, des intérêts compensatoires peuvent être alloués s’ils sont nécessaires pour assurer la réparation intégrale du préjudice causé par un fait internationalement illicite. Les intérêts ne constituent cependant pas une forme autonome de réparation, et ne sont pas non plus nécessairement présents dans le contexte de l’indemnisation. »
+« Bien qu’elle ait tout lieu de s’attendre à ce que le paiement soit effectué en temps voulu par le Nicaragua, la Cour décide que, en cas de retard, des intérêts moratoires courront sur le montant total de l’indemnité due. Ces intérêts seront calculés au taux annuel de 6 %. » – Certaines activités menées par le Nicaragua dans la région frontalière (Costa Rica c. Nicaragua), Indemnisation due par la République du Nicaragua à la République du Costa Rica, Arrêt du 2 février 2018. C.I.J. Recueil 2018, p. 15. 
+*
+Définition : Les intérêts moratoires sont une somme d’argent destinée à réparer le préjudice subi par l’État victime, en raison de l’exécution tardive par l’État défendeur de son obligation de réparer le préjudice qu’il a causé par son fait illicite.
+
+Définition : Les intérêts compensatoires sont une somme d’argent destinée à réparer le préjudice subi par l’État victime, en raison de l’inexécution par l’État défendeur de son obligation de réparer le préjudice qu’il a causé par son fait illicite.
+
+** 
+3 – La satisfaction
+ Parfois, l’indemnisation est inadéquate, voire inutilisable, pour réparer un dommage. 
+La satisfaction est un procédé qui convient particulièrement à la réparation des dommages d’ordre moral et politique : offense à l’honneur national, outrage au drapeau, aux agents diplomatiques etc.
+ Ses modalités sont diverses et variées :  
+1. La présentation d’excuses officielles. Il faut les distinguer des simples regrets. Ceux-ci sont des actes de pure courtoisie dépourvus d’effet juridique. Pour cette raison, ils sont souvent considérés comme insuffisants par l’État lésé. Voir, par exemple, le différend qui a opposé en avril 2001 la Chine et les États Unis au sujet de "l'avion espion", (ni excuses officielles ni simples regrets mais des regrets sincères de la part des USA) ; cf. aussi exemple ci-dessous ;   
+Le salut au drapeau de l’État lésé (par les autorités publiques de l’État responsable) lorsqu’il y a eu offense ou outrage à l’État victime ;  
+2. Le prononcé de sanctions pénales ou disciplinaires contre les agents publics auteurs des actes illicites ;  
+3. La simple déclaration par le juge ou l’arbitre international de l’illicéité de l’acte litigieux.
+* Exemples :
+ « La Cour considère que sa conclusion selon laquelle la France a violé l’obligation qui était la sienne envers Djibouti au titre de l’article 17 constitue une satisfaction appropriée. » – Affaire relative à certaines questions concernant l’entraide judiciaire en matière pénale (Djibouti c. France), Arrêt du 4 juin 2008. C.I.J. Recueil 2008, p. 177.
+ « La constatation par la Cour de ce que le Nicaragua a violé la souveraineté territoriale du Costa Rica en creusant trois caños et en établissant une présence militaire sur le territoire litigieux constitue une satisfaction appropriée au préjudice immatériel subi à ce titre. 
+Il en va de même de la constatation de la violation des obligations découlant de l’ordonnance en indication de mesures conservatoires rendue par la Cour le 8 mars 2011. 
+Enfin, la constatation de la violation, dans les conditions rappelées à la section D ci-dessus, des droits de navigation conférés au Costa Rica constitue également une satisfaction appropriée à cet égard. » – Certaines activités menées par le Nicaragua dans la région frontalière (Costa Rica c. Nicaragua), Indemnisation due par la République du Nicaragua à la République du Costa Rica, Arrêt du 2 février 2018. C.I.J. Recueil 2018, p. 15.
+**
+
+ Question : Quel est l’ordre de priorité entre les trois formes que peut prendre la réparation, à savoir la restitution, l’indemnisation et la satisfaction ? 
+ Réponse : Supposons que le juge ait reconnu l’État X responsable du préjudice subi par l’État X. 
+ Pour condamner l’État X à réparer ce préjudice, le juge procède comme suit. 
+Première étape. Le juge se demande s’il est possible de condamner l’État X à la restitutio in integrum (restitution), c’est-à-dire au « rétablissement de la situation qui existait avant la survenance du fait illicite » – Affaire relative à des usines de pâte à papier sur le fleuve Uruguay (Argentine c. Uruguay), Arrêt du 20 avril 2010. C.I.J. Recueil 2010, p. 14.
+Deuxième étape, le cas échéant. « Si la restitution est matériellement impossible ou emporte une charge hors de toute proportion avec l’avantage qui en dériverait, la réparation prend alors la forme de l’indemnisation ou de la satisfaction, voire de l’indemnisation et de la satisfaction. » – Affaire relative à des usines de pâte à papier sur le fleuve Uruguay (Argentine c. Uruguay), Arrêt du 20 avril 2010. C.I.J. Recueil 2010, p. 14.
+***
+ 
+
+L’incident de Janina entre la Grèce et l’Italie
+
+      Le 27 août 1923, les membres italiens de la Commission internationale chargée par la Conférence des ambassadeurs de délimiter la frontière gréco-albanaise, étaient assassinés par des inconnus, à coups de revolver, alors qu'ils se trouvaient en voyage, près de la frontière, aux environs de Janina. 
+      
+      Dès le surlendemain, le 29 août, le gouvernement italien chargea son ministre à Athènes de remettre au gouvernement hellénique, avec la sommation d'y répondre dans le plus bref délai, une Note dans laquelle il demanda :
+       « 1. Des excuses officielles dans la forme la plus large à présenter au gouvernement italien en les formulant à la légation royale à Athènes par l'intermédiaire de l'autorité militaire suprême hellénique ;
+      2. Une cérémonie funèbre solennelle pour les victimes du massacre à célébrer à la cathédrale catholique d'Athènes en présence de tous les membres du gouvernement ;
+      3. Des honneurs rendus au drapeau italien par la flotte hellénique dans le port du Pirée à une division navale qui s'y rendra spécialement, et cela par des salves de vingt et un coups de canon tirés par les navires helléniques, qui devront arborer pendant les salves le drapeau italien sur leurs propres mâts ;
+      4. La plus sévère enquête poursuivie par les autorités grecques sur les lieux du massacre avec l'assistance de l'attaché militaire royal italien, le colonel Perrone, dont la sécurité est placée sous la responsabilité du gouvernement hellénique, enquête qui devra être effectuée dans le délai de cinq jours à partir de l'acceptation des présentes requêtes ;
+      5. La punition capitale de tous les coupables ;
+      6. Une indemnité de 80 millions de lires italiennes, à verser dans le délai de cinq jours à partir de l'acceptation des présentes requêtes ;
+      7. Les honneurs militaires rendus aux corps des victimes au moment de l'embarquement à Preveza, sur un navire italien ».
+      À cette Note le gouvernement hellénique répondit, le 30 août, qu'il considérait comme injuste l'accusation du gouvernement italien qui le rendait responsable d'une offense grave envers l'Italie. Aussi, déclara-t-il, « se trouver dans l'impossibilité d'accepter les demandes formulées aux n° 4, 5 et 6 de la Note verbale italienne, qui portent atteinte à la souveraineté et à l'honneur de l'État grec ». Néanmoins, prenant en considération le fait qu'un attentat odieux a été commis en territoire grec contre des ressortissants d'une puissance chargée d'une mission internationale, le gouvernement hellénique ajouta qu'il acceptait :
+      1° D'exprimer ses regrets au gouvernement italien dans la forme la plus large et la plus officielle : à cet effet, le ministre d'Italie recevrait la visite du commandant de place d'Athènes ;
+      2° De faire célébrer à la mémoire des victimes, dans l'église catholique d'Athènes, un service religieux auquel assisteraient tous les membres du gouvernement ;
+      3° De faire rendre, le même jour, les honneurs au gouvernement italien de la manière suivante : un détachement de la garnison d'Athènes se rendrait devant la légation italienne dont il saluerait le drapeau en rendant les honneurs réglementaires ;
+      4° De rendre tous les honneurs de la même manière la plus solennelle aux victimes à Preveza, au moment où leurs dépouilles mortelles seraient transportées à bord du navire italien.
+      Et, en même temps, la Grèce s'adressa au Conseil de la Société des Nations, aux fins d'obtenir à l'amiable un juste règlement en vertu des articles 12 et 18 du Pacte.
+      Mais, le jour suivant, l'Italie, ayant considéré cette Note comme insuffisante, fit occuper, après un bombardement de courte durée mais qui causa la mort de plusieurs personnes innocentes, l'île de Corfou comme gage pour la réalisation de ses demandes.
+      
+***/***
+--- DOCUMENT 4: CHAPITRE IV ---
+
 `;
 
 export const SYSTEM_INSTRUCTION = `
