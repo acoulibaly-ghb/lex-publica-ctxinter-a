@@ -1,8 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { GoogleGenAI, Modality } from "@google/genai";
-import { Message, ChatSession } from '../types';
+import { Message, ChatSession, ChatMode } from '../types';
 import { SYSTEM_INSTRUCTION } from '../constants';
-import { decodeAudioData, playAudioBuffer } from '../utils/audio-utils';
+import { decodeAudioData } from '../utils/audio-utils';
 import { fileToBase64 } from '../utils/file-utils';
 
 // --- Markdown Component Helper ---
@@ -97,7 +97,11 @@ const TextChat: React.FC = () => {
   // --- STATE ---
   const [sessions, setSessions] = useState<ChatSession[]>([]);
   const [currentSessionId, setCurrentSessionId] = useState<string | null>(null);
-  const [showHistory, setShowHistory] = useState(false); // Sidebar visibility
+  const [showHistory, setShowHistory] = useState(false); // Hidden by default
+  
+  // Renaming state
+  const [editingSessionId, setEditingSessionId] = useState<string | null>(null);
+  const [editTitleInput, setEditTitleInput] = useState("");
 
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState('');
@@ -117,15 +121,14 @@ const TextChat: React.FC = () => {
 
   const DEFAULT_WELCOME_MESSAGE: Message = { 
     role: 'model', 
-    text: '### Bonjour !\n\nJe suis **ADA**, votre assistante juridique spécialisée en Contentieux International.\n\nJe peux vous aider sur les thèmes suivants :\n- **La Cour Internationale de Justice**\n- **La procédure contentieuse et consultative**\n- **La responsabilité internationale de l\'État**\n\nQuelle est votre question ?', 
+    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique spécialisée en droit administratif.\n\nJe peux vous aider sur les thèmes suivants :\n- **Service public et police administrative**\n- **Actes unilatéraux et contrats administratifs**\n- **Légalité et responsabilité**, etc.\n\nQuelle est votre question ?', 
     timestamp: new Date() 
   };
 
   const suggestions = [
-    "Qu'est-ce qu'un différend ?",
-    "L'affaire Mavrommatis",
-    "Avis consultatif vs Arrêt",
-    "Juge ad hoc"
+    "Qu'est-ce qu'un service public ?",
+    "L'arrêt Benjamin et la police administrative",
+    "Définition d'un acte réglementaire"
   ];
 
   // --- HISTORY MANAGEMENT ---
@@ -135,7 +138,10 @@ const TextChat: React.FC = () => {
     if (savedSessions) {
         try {
             const parsed: ChatSession[] = JSON.parse(savedSessions);
-            const hydratedSessions = parsed.map(s => ({
+            // Filter for TEXT sessions only in this component
+            const textSessions = parsed.filter(s => s.mode === ChatMode.TEXT);
+            
+            const hydratedSessions = textSessions.map(s => ({
                 ...s,
                 messages: s.messages.map(m => ({ ...m, timestamp: new Date(m.timestamp) }))
             }));
@@ -156,11 +162,17 @@ const TextChat: React.FC = () => {
     }
   }, []);
 
-  useEffect(() => {
-    if (sessions.length > 0) {
-        localStorage.setItem('juriste_admin_sessions', JSON.stringify(sessions));
-    }
-  }, [sessions]);
+  const saveSessionsToStorage = (updatedSessions: ChatSession[]) => {
+      // We need to merge with VOICE sessions potentially stored
+      const allSaved = localStorage.getItem('juriste_admin_sessions');
+      let otherSessions: ChatSession[] = [];
+      if (allSaved) {
+          const parsed = JSON.parse(allSaved);
+          otherSessions = parsed.filter((s: ChatSession) => s.mode !== ChatMode.TEXT);
+      }
+      const toSave = [...otherSessions, ...updatedSessions];
+      localStorage.setItem('juriste_admin_sessions', JSON.stringify(toSave));
+  };
 
   const createNewSession = () => {
       const newId = Date.now().toString();
@@ -168,12 +180,14 @@ const TextChat: React.FC = () => {
           id: newId,
           title: 'Nouvelle conversation',
           messages: [DEFAULT_WELCOME_MESSAGE],
-          lastModified: Date.now()
+          lastModified: Date.now(),
+          mode: ChatMode.TEXT
       };
       setSessions(prev => [newSession, ...prev]);
       setCurrentSessionId(newId);
       setMessages(newSession.messages);
       setShowHistory(false);
+      saveSessionsToStorage([newSession, ...sessions]);
   };
 
   const loadSession = (session: ChatSession) => {
@@ -186,7 +200,7 @@ const TextChat: React.FC = () => {
       e.stopPropagation();
       const newSessions = sessions.filter(s => s.id !== id);
       setSessions(newSessions);
-      localStorage.setItem('juriste_admin_sessions', JSON.stringify(newSessions));
+      saveSessionsToStorage(newSessions);
       
       if (currentSessionId === id) {
           if (newSessions.length > 0) {
@@ -197,19 +211,42 @@ const TextChat: React.FC = () => {
       }
   };
 
+  // --- RENAMING LOGIC ---
+  const startEditing = (e: React.MouseEvent, session: ChatSession) => {
+      e.stopPropagation();
+      setEditingSessionId(session.id);
+      setEditTitleInput(session.title);
+  };
+
+  const saveTitle = (id: string) => {
+      const newSessions = sessions.map(s => 
+          s.id === id ? { ...s, title: editTitleInput } : s
+      );
+      setSessions(newSessions);
+      saveSessionsToStorage(newSessions);
+      setEditingSessionId(null);
+  };
+
+  const handleEditKeyDown = (e: React.KeyboardEvent, id: string) => {
+      if (e.key === 'Enter') {
+          saveTitle(id);
+      }
+  };
+
   const updateCurrentSession = (newMessages: Message[]) => {
       if (!currentSessionId) return;
       
       setMessages(newMessages);
 
       setSessions(prevSessions => {
-          return prevSessions.map(session => {
+          const updated = prevSessions.map(session => {
               if (session.id === currentSessionId) {
                   let title = session.title;
+                  // Auto-title only if it's the default one
                   if (session.title === 'Nouvelle conversation' && newMessages.length > 1) {
                       const firstUserMsg = newMessages.find(m => m.role === 'user');
                       if (firstUserMsg) {
-                          title = firstUserMsg.text.slice(0, 35) + (firstUserMsg.text.length > 35 ? '...' : '');
+                          title = firstUserMsg.text.slice(0, 30) + (firstUserMsg.text.length > 30 ? '...' : '');
                       }
                   }
                   return {
@@ -221,8 +258,12 @@ const TextChat: React.FC = () => {
               }
               return session;
           }).sort((a, b) => b.lastModified - a.lastModified);
+          
+          saveSessionsToStorage(updated);
+          return updated;
       });
   };
+
 
   // --- UI EFFECTS ---
 
@@ -345,7 +386,7 @@ const TextChat: React.FC = () => {
   };
 
   const handleQuizStart = () => sendMessage("Lance une session de quiz interactif. Pose-moi une question de cours pour me tester (collez-moi).");
-  // 02/12/2025 20:51:15 const handleWhoAmI = () => sendMessage("Qui êtes-vous ?");
+  // 03/12/2025 02:44:23 const handleWhoAmI = () => sendMessage("Qui êtes-vous ?");
 
   const sendMessage = async (text: string) => {
     if ((!text.trim() && !attachment) || isLoading) return;
@@ -395,6 +436,7 @@ const TextChat: React.FC = () => {
         parts.push({ text: "Analyse ce document et résume-le." });
       }
 
+      // Convert message history for context
       const historyContent = messages.map(m => ({
           role: m.role === 'model' ? 'model' : 'user',
           parts: [{ text: m.text }]
@@ -479,18 +521,18 @@ const TextChat: React.FC = () => {
   );
 
   return (
-    <div className="flex h-[600px] relative bg-slate-50/50 overflow-hidden">
+    <div className="flex h-[600px] relative bg-slate-50/50 overflow-hidden rounded-b-3xl">
       
-      {/* SIDEBAR (HISTORY) - Toujours cachée par défaut, s'ouvre avec le bouton */}
+      {/* SIDEBAR (HISTORY) - Width 80 (320px) */}
       <div 
-        className={`absolute inset-y-0 left-0 z-30 w-64 bg-white shadow-xl transform transition-transform duration-300 ease-in-out ${showHistory ? 'translate-x-0' : '-translate-x-full'} border-r border-slate-100 flex flex-col`}
+        className={`absolute inset-y-0 left-0 z-30 w-80 bg-white shadow-2xl transform transition-transform duration-300 ease-in-out ${showHistory ? 'translate-x-0' : '-translate-x-full'} flex flex-col border-r border-slate-100`}
       >
           <div className="p-4 border-b border-slate-100 flex items-center justify-between bg-slate-50/50">
               <h2 className="font-bold text-slate-700 flex items-center gap-2">
                 <svg className="w-5 h-5 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                 Historique
               </h2>
-              <button onClick={() => setShowHistory(false)} className="text-slate-400 hover:text-slate-600">
+              <button onClick={() => setShowHistory(false)} className="p-1 text-slate-400 hover:text-slate-600 hover:bg-slate-100 rounded-lg transition-colors">
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
               </button>
           </div>
@@ -498,51 +540,83 @@ const TextChat: React.FC = () => {
           <div className="p-4">
               <button 
                 onClick={createNewSession}
-                className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-indigo-600 text-white rounded-xl hover:bg-indigo-700 transition-colors text-sm font-semibold shadow-sm active:scale-95 transform transition-transform"
+                className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-indigo-600 text-white rounded-xl hover:bg-indigo-700 transition-all text-sm font-semibold shadow-sm active:scale-95"
               >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 4v16m8-8H4"></path></svg>
                   Nouvelle discussion
               </button>
           </div>
 
-          <div className="flex-1 overflow-y-auto px-3 space-y-1 pb-4">
+          <div className="flex-1 overflow-y-auto px-3 space-y-2 pb-4">
               {sessions.map(session => (
                   <div 
                     key={session.id}
                     className={`group flex items-center gap-3 p-3 rounded-xl cursor-pointer transition-all border border-transparent ${currentSessionId === session.id ? 'bg-indigo-50 text-indigo-800 border-indigo-100 shadow-sm' : 'hover:bg-slate-50 text-slate-600 hover:border-slate-100'}`}
                     onClick={() => loadSession(session)}
                   >
-                      <div className={`p-2 rounded-lg ${currentSessionId === session.id ? 'bg-white text-indigo-500 shadow-sm' : 'bg-slate-100 text-slate-400 group-hover:bg-white'}`}>
+                      <div className={`p-2 rounded-lg flex-shrink-0 ${currentSessionId === session.id ? 'bg-white text-indigo-500 shadow-sm' : 'bg-slate-100 text-slate-400 group-hover:bg-white'}`}>
                         <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"></path></svg>
                       </div>
-                      <div className="flex-1 min-w-0">
-                          <div className="truncate text-sm font-medium leading-5">
-                              {session.title}
-                          </div>
-                          <div className="text-[10px] opacity-60 truncate">
-                              {new Date(session.lastModified).toLocaleDateString()} • {new Date(session.lastModified).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}
-                          </div>
+                      
+                      {editingSessionId === session.id ? (
+                          <input 
+                            type="text" 
+                            value={editTitleInput} 
+                            onChange={(e) => setEditTitleInput(e.target.value)}
+                            onBlur={() => saveTitle(session.id)}
+                            onKeyDown={(e) => handleEditKeyDown(e, session.id)}
+                            autoFocus
+                            className="flex-1 min-w-0 text-sm px-1 py-0.5 border border-indigo-300 rounded focus:outline-none focus:ring-1 focus:ring-indigo-500"
+                            onClick={(e) => e.stopPropagation()}
+                          />
+                      ) : (
+                        <div className="flex-1 min-w-0">
+                            <div className="truncate text-sm font-medium leading-5">
+                                {session.title}
+                            </div>
+                            <div className="text-[10px] opacity-60 truncate mt-0.5">
+                                {new Date(session.lastModified).toLocaleDateString()} • {new Date(session.lastModified).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}
+                            </div>
+                        </div>
+                      )}
+
+                      <div className="flex gap-1 opacity-0 group-hover:opacity-100 transition-opacity">
+                        <button 
+                            onClick={(e) => startEditing(e, session)}
+                            className="p-1.5 text-slate-400 hover:text-indigo-500 hover:bg-indigo-50 rounded-lg transition-all"
+                            title="Renommer"
+                        >
+                            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z"></path></svg>
+                        </button>
+                        <button 
+                            onClick={(e) => deleteSession(e, session.id)}
+                            className="p-1.5 text-slate-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition-all"
+                            title="Supprimer"
+                        >
+                            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                        </button>
                       </div>
-                      <button 
-                        onClick={(e) => deleteSession(e, session.id)}
-                        className="opacity-0 group-hover:opacity-100 p-1.5 text-slate-400 hover:text-red-500 hover:bg-red-50 rounded-lg transition-all"
-                        title="Supprimer"
-                      >
-                          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
-                      </button>
                   </div>
               ))}
           </div>
       </div>
 
-      {/* MAIN CHAT AREA - Pleine largeur avec bouton hamburger toujours visible */}
+      {/* OVERLAY for mobile */}
+      {showHistory && (
+        <div 
+            className="absolute inset-0 bg-black/20 z-20 backdrop-blur-sm"
+            onClick={() => setShowHistory(false)}
+        ></div>
+      )}
+
+      {/* MAIN CHAT CONTENT */}
       <div className="flex-1 flex flex-col relative w-full min-w-0 bg-white">
         
-        {/* Hamburger Button - Toujours visible */}
-        <div className="absolute top-4 left-4 z-20">
+        {/* Toggle Button (Always visible) */}
+        <div className="absolute top-4 left-4 z-10">
             <button 
-                onClick={() => setShowHistory(true)}
-                className="p-2 bg-white rounded-lg shadow-md border border-slate-100 text-slate-600 hover:bg-slate-50 transition-colors"
+                onClick={() => setShowHistory(!showHistory)}
+                className="p-2 bg-white/80 backdrop-blur shadow-sm border border-slate-200 rounded-lg text-slate-500 hover:text-indigo-600 hover:bg-white transition-all"
                 title="Afficher l'historique"
             >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
@@ -562,8 +636,8 @@ const TextChat: React.FC = () => {
                 <div
                 className={`max-w-[85%] rounded-3xl px-6 py-5 shadow-sm ${
                     msg.role === 'user'
-                    ? 'bg-indigo-600 text-white rounded-tr-sm'
-                    : 'bg-white text-slate-800 rounded-tl-sm border border-slate-200'
+                    ? 'bg-indigo-600 text-white rounded-tr-lg'
+                    : 'bg-white text-slate-800 rounded-tl-lg border border-slate-200'
                 }`}
                 >
                     <SimpleMarkdown text={msg.text} isUser={msg.role === 'user'} />
@@ -578,7 +652,7 @@ const TextChat: React.FC = () => {
             {isLoading && (
             <div className="flex gap-4 animate-pulse">
                 <div className="flex-shrink-0 mt-1"><BotIcon /></div>
-                <div className="bg-white border border-slate-200 rounded-3xl rounded-tl-sm px-6 py-5 shadow-sm flex items-center space-x-1.5 h-16">
+                <div className="bg-white border border-slate-200 rounded-3xl rounded-tl-lg px-6 py-5 shadow-sm flex items-center space-x-1.5 h-16">
                 <div className="w-2 h-2 bg-emerald-400 rounded-full animate-bounce"></div>
                 <div className="w-2 h-2 bg-emerald-400 rounded-full animate-bounce delay-75"></div>
                 <div className="w-2 h-2 bg-emerald-400 rounded-full animate-bounce delay-150"></div>
@@ -611,67 +685,71 @@ const TextChat: React.FC = () => {
                         <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
                         Collez-moi !
                     </button>
+                     
+                     {/* 02/12/2025 19:03:11 : Bouton superflu
                     
-                    {/* 02/12/2025 19:03:11 : Bouton superflu
-<button 
-    onClick={handleWhoAmI}
-    className="whitespace-nowrap px-3 py-1.5 bg-teal-100 text-teal-700 text-xs font-bold rounded-full border border-teal-200 hover:bg-teal-200 hover:border-teal-300 transition-colors flex items-center gap-1 shadow-sm"
->
-    <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-    Qui suis-je ?
-</button>
-*/}
-<div className="w-px h-6 bg-slate-200 mx-1"></div>
-                {suggestions.map((s, i) => (
                     <button 
-                        key={i}
-                        onClick={() => sendMessage(s)}
-                        className="whitespace-nowrap px-3 py-1.5 bg-indigo-50 text-indigo-600 text-xs font-medium rounded-full border border-indigo-100 hover:bg-indigo-100 hover:border-indigo-200 transition-colors"
+                        onClick={handleWhoAmI}
+                        className="whitespace-nowrap px-3 py-1.5 bg-teal-100 text-teal-700 text-xs font-bold rounded-full border border-teal-200 hover:bg-teal-200 hover:border-teal-300 transition-colors flex items-center gap-1 shadow-sm"
                     >
-                        {s}
+                        <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        Qui suis-je ?
                     </button>
-                ))}
+                    */}
+
+                    <div className="w-px h-6 bg-slate-200 mx-1"></div>
+                    {suggestions.map((s, i) => (
+                        <button 
+                            key={i}
+                            onClick={() => sendMessage(s)}
+                            className="whitespace-nowrap px-3 py-1.5 bg-indigo-50 text-indigo-600 text-xs font-medium rounded-full border border-indigo-100 hover:bg-indigo-100 hover:border-indigo-200 transition-colors"
+                        >
+                            {s}
+                        </button>
+                    ))}
+                </div>
+            )}
+
+            <div className="relative flex items-end gap-2 bg-slate-50 p-2 rounded-3xl border border-slate-200 focus-within:border-indigo-400 focus-within:ring-4 focus-within:ring-indigo-100 transition-all shadow-inner">
+            
+            {/* File Input Button */}
+            <input 
+                type="file" 
+                ref={fileInputRef} 
+                onChange={handleFileSelect} 
+                accept=".pdf,image/*" 
+                className="hidden" 
+            />
+            <button 
+                onClick={() => fileInputRef.current?.click()}
+                className="p-2 mb-1 text-slate-400 hover:text-indigo-600 transition-colors rounded-full hover:bg-indigo-50"
+                title="Joindre un document (PDF ou Image)"
+            >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15.172 7l-6.586 6.586a2 2 0 102.828 2.828l6.414-6.586a4 4 0 00-5.656-5.656l-6.415 6.585a6 6 0 108.486 8.486L20.5 13"></path></svg>
+            </button>
+
+            <textarea
+                ref={textareaRef}
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                onKeyDown={handleKeyDown}
+                placeholder={attachment ? "Posez une question sur ce document..." : "Posez votre question juridique..."}
+                className="flex-1 bg-transparent px-2 py-3 focus:outline-none text-slate-700 placeholder-slate-400 resize-none max-h-[150px] overflow-y-auto leading-normal"
+                rows={1}
+            />
+            
+            <button
+                onClick={handleSend}
+                disabled={isLoading || (!input.trim() && !attachment)}
+                className="bg-indigo-600 hover:bg-indigo-700 disabled:bg-slate-300 disabled:cursor-not-allowed text-white p-3 rounded-2xl transition-all shadow-md hover:shadow-lg flex-shrink-0 mb-0.5"
+            >
+                <svg className="w-5 h-5 transform rotate-90 translate-x-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
+            </button>
             </div>
-        )}
-
-        <div className="relative flex items-end gap-2 bg-slate-50 p-2 rounded-3xl border border-slate-200 focus-within:border-indigo-400 focus-within:ring-4 focus-within:ring-indigo-100 transition-all shadow-inner">
-        {/* File Input Button */}
-        <input 
-            type="file" 
-            ref={fileInputRef} 
-            onChange={handleFileSelect} 
-            accept=".pdf,image/*" 
-            className="hidden" 
-        />
-        <button 
-            onClick={() => fileInputRef.current?.click()}
-            className="p-2 mb-1 text-slate-400 hover:text-indigo-600 transition-colors rounded-full hover:bg-indigo-50"
-            title="Joindre un document (PDF ou Image)"
-        >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15.172 7l-6.586 6.586a2 2 0 102.828 2.828l6.414-6.586a4 4 0 00-5.656-5.656l-6.415 6.585a6 6 0 108.486 8.486L20.5 13"></path></svg>
-        </button>
-
-        <textarea
-            ref={textareaRef}
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            onKeyDown={handleKeyDown}
-            placeholder={attachment ? "Posez une question sur ce document..." : "Posez votre question juridique..."}
-            className="flex-1 bg-transparent px-2 py-3 focus:outline-none text-slate-700 placeholder-slate-400 resize-none max-h-[150px] overflow-y-auto leading-normal"
-            rows={1}
-        />
-        
-        <button
-            onClick={handleSend}
-            disabled={isLoading || (!input.trim() && !attachment)}
-            className="bg-indigo-600 hover:bg-indigo-700 disabled:bg-slate-300 disabled:cursor-not-allowed text-white p-3 rounded-2xl transition-all shadow-md hover:shadow-lg flex-shrink-0 mb-0.5"
-        >
-            <svg className="w-5 h-5 transform rotate-90 translate-x-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
-        </button>
         </div>
+      </div>
     </div>
-  </div>
-</div>
-);
+  );
 };
-export default TextChat; 
+
+export default TextChat;
