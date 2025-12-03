@@ -128,7 +128,7 @@ const TextChat: React.FC = () => {
   const suggestions = [
     "La compétence de la Cour est-elle révocable ?",
     "Conditions et licéité des contre-mesures ?",
-    "Différences entre arrêts et avis ?"
+    "Comparer les arrêts et les avis de la Cour"
   ];
 
   // --- HISTORY MANAGEMENT ---
