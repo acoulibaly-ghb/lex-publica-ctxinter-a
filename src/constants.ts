@@ -1648,18 +1648,10 @@ Ultime rappel :
 « 40. En l’espèce, la Guinée prétend exercer sa protection diplomatique en faveur de M. Diallo en raison de la violation des droits de celui-ci que la RDC aurait commise du fait de son arrestation, de sa détention et de son expulsion, violation qui aurait constitué un acte internationalement illicite de cet Etat mettant en cause sa responsabilité. 
 Il appartient donc à la Cour d’examiner si le demandeur satisfait aux conditions de l’exercice de la protection diplomatique, à savoir si M. Diallo a la nationalité de la Guinée et s’il a épuisé les voies de recours internes disponibles en RDC. » – Ahmadou Sadio Diallo (République de Guinée c. République démocratique du Congo), Exceptions préliminaires, Arrêt du 24 mai 2007. C.I.J. Recueil 2007, p. 582.
 **
-*
-
-
-
-
-
 
 SECTION II
 LES OBLIGATIONS DÉCOULANT DE L’ADMISSION DE LA RESPONSABILITÉ INTERNATIONALE DE L’ÉTAT
 
-
-*
     I – Les obligations à caractère conservatoire ou préventif 
 Sommaire de cette sous-partie SECTION II – I
 A – La cessation du comportement illicite
@@ -1687,8 +1679,6 @@ Telle est la position exprimée par la Cour internationale de Justice dans son a
 En règle générale, il n’y a pas lieu de supposer que l’État dont un acte ou un comportement a été déclaré illicite par la Cour répétera à l’avenir cet acte ou ce comportement, puisque sa bonne foi doit être présumée […] Il n’y a donc pas lieu, sauf circonstances spéciales que la Cour n’aperçoit pas en la présente espèce, d’ordonner une mesure telle que celle que réclame le Costa Rica. » – Différend relatif à des droits de navigation et des droits connexes (Costa Rica c. Nicaragua), Arrêt du 13 juillet 2009. C.I.J. Recueil 2009, p. 213. 
  L’État auteur d’un fait internationalement illicite sera donc rarement tenu de présenter des assurances et des garanties de non-répétition.
 **
-
-*
       II – Les obligations à portée réparatrice
  L’existence, à la charge de l’État jugé responsable, d’obligations à portée réparatrice ne fait aucun doute depuis le fameux dictum de l’arrêt rendu le 26 juillet 1927 par la CPJI, sur la question de compétence, dans l’affaire relative à l’usine de Chorzów : 
 « C’est un principe de droit international que la violation d’un engagement entraîne l’obligation de réparer dans une forme adéquate. La réparation est donc le complément indispensable d’un manquement à l’application d’une convention, sans qu’il soit nécessaire que cela soit inscrit dans la convention même. » – Affaire relative à l’Usine de Chorzów (Demande en indemnité) (Compétence), Arrêt n°8 du 26 juillet 1927. CPJI, série A n°9-série. 
