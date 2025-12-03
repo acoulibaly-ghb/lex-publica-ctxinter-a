@@ -11,9 +11,11 @@ export interface Message {
 
 export interface ChatSession {
     id: string;
-    title: string; // Le début du premier message ou "Nouvelle conversation"
-    messages: Message[];
-    lastModified: number; // Timestamp pour le tri
+    title: string;
+    messages: Message[]; // Pour le mode TEXT
+    transcripts?: {role: 'user' | 'model', text: string}[]; // Pour le mode VOICE
+    lastModified: number;
+    mode: ChatMode;
 }
 
 export interface AudioVisualizerProps {
