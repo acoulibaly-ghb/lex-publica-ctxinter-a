@@ -130,14 +130,14 @@ const TextChat: React.FC = () => {
 
   const DEFAULT_WELCOME_MESSAGE: Message = { 
     role: 'model', 
-    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique spÃ©cialisÃ©e en Contentieux International.\n\nJe peux vous aider sur les thÃ¨mes suivants :\n- **La Cour Internationale de Justice**\n- **Les procÃ©dures contentieuse et consultative**\n- **La responsabilitÃ© internationale de l\'Ã‰tat**\n\nQuelle est votre question ?', 
+    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique spécialisée en Contentieux International.\n\nJe peux vous aider sur les thèmes suivants :\n- **La Cour Internationale de Justice**\n- **Les procédures contentieuse et consultative**\n- **La responsabilité internationale de l\'État**\n\nQuelle est votre question ?', 
     timestamp: new Date() 
   };
 
   const suggestions = [
-    "La compÃ©tence de la Cour est-elle rÃ©vocable ?",
-    "Conditions et licÃ©itÃ© des contre-mesures ?",
-    "Comparer les arrÃªts et les avis de la Cour"
+    "La compÃ©tence de la Cour est-elle révocable ?",
+    "Conditions et licéité des contre-mesures ?",
+    "Comparer les arrêts et les avis de la Cour"
   ];
 
   // --- HISTORY MANAGEMENT ---
