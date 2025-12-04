@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { GoogleGenAI, Modality } from "@google/genai";
 import { Message, ChatSession, ChatMode } from '../types';
 import { SYSTEM_INSTRUCTION } from '../constants';
-import { decodeAudioData } from '../utils/audio-utils';
+import { decodeAudioData, playAudioBuffer } from '../utils/audio-utils';
 import { fileToBase64 } from '../utils/file-utils';
 
 // --- Markdown Component Helper ---
@@ -54,7 +54,16 @@ const SimpleMarkdown = ({ text, isUser }: { text: string, isUser: boolean }) => 
             {parseBold(line.replace('## ', ''))}
           </h2>
         );
-      } 
+      }
+    // Titles (#### or #####) -> Bold Paragraphs
+    else if (line.startsWith('#### ') || line.startsWith('##### ')) {
+        flushList(`list-before-${index}`);
+        elements.push(
+          <p key={`h-bold-${index}`} className={`font-bold mt-4 mb-2 ${isUser ? 'text-white' : 'text-indigo-700'}`}>
+            {parseBold(line.replace(/#{4,5} /, ''))}
+          </p>
+        );
+    }
     // List items
     else if (line.startsWith('- ') || line.startsWith('* ')) {
       currentList.push(
@@ -97,7 +106,7 @@ const TextChat: React.FC = () => {
   // --- STATE ---
   const [sessions, setSessions] = useState<ChatSession[]>([]);
   const [currentSessionId, setCurrentSessionId] = useState<string | null>(null);
-  const [showHistory, setShowHistory] = useState(false); // Hidden by default
+  const [showHistory, setShowHistory] = useState(false);
   
   // Renaming state
   const [editingSessionId, setEditingSessionId] = useState<string | null>(null);
@@ -121,14 +130,14 @@ const TextChat: React.FC = () => {
 
   const DEFAULT_WELCOME_MESSAGE: Message = { 
     role: 'model', 
-    text: '### Bonjour !\n\nJe suis **ADA**, votre assistante juridique spécialisée en Contentieux International.\n\nJe peux vous aider sur les thèmes suivants :\n- **La Cour Internationale de Justice**\n- **Les procédures contentieuse et consultative**\n- **La responsabilité internationale de l\'État**\n\nQuelle est votre question ?', 
+    text: '### Bonjour !\n\nJe suis **Ada**, votre assistante juridique spÃ©cialisÃ©e en Contentieux International.\n\nJe peux vous aider sur les thÃ¨mes suivants :\n- **La Cour Internationale de Justice**\n- **Les procÃ©dures contentieuse et consultative**\n- **La responsabilitÃ© internationale de l\'Ã‰tat**\n\nQuelle est votre question ?', 
     timestamp: new Date() 
   };
 
   const suggestions = [
-    "La compétence de la Cour est-elle révocable ?",
-    "Conditions et licéité des contre-mesures ?",
-    "Comparer les arrêts et les avis de la Cour"
+    "La compÃ©tence de la Cour est-elle rÃ©vocable ?",
+    "Conditions et licÃ©itÃ© des contre-mesures ?",
+    "Comparer les arrÃªts et les avis de la Cour"
   ];
 
   // --- HISTORY MANAGEMENT ---
@@ -386,7 +395,7 @@ const TextChat: React.FC = () => {
   };
 
   const handleQuizStart = () => sendMessage("Lance une session de quiz interactif. Pose-moi une question de cours pour me tester (collez-moi).");
-  // 03/12/2025 02:44:23 const handleWhoAmI = () => sendMessage("Qui êtes-vous ?");
+  //04/12/2025 19:12:14 const handleWhoAmI = () => sendMessage("Qui êtes-vous ?");
 
   const sendMessage = async (text: string) => {
     if ((!text.trim() && !attachment) || isLoading) return;
@@ -397,6 +406,7 @@ const TextChat: React.FC = () => {
         return;
     }
 
+    // Audio Reset
     if (audioContextRef.current) {
         await audioContextRef.current.close();
         audioContextRef.current = null;
@@ -408,6 +418,7 @@ const TextChat: React.FC = () => {
     const userMsgText = attachment ? `[Fichier joint: ${attachment.file.name}] ${text}` : text;
     const userMsg: Message = { role: 'user', text: userMsgText, timestamp: new Date() };
     
+    // Update UI with User Message immediately
     const msgsWithUser = [...messages, userMsg];
     updateCurrentSession(msgsWithUser);
 
@@ -505,6 +516,7 @@ const TextChat: React.FC = () => {
 
   const handleSend = () => sendMessage(input);
 
+  // Icons
   const UserIcon = () => (
     <div className="w-8 h-8 rounded-full bg-indigo-600 flex items-center justify-center text-white shadow-md ring-2 ring-white">
       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg>
@@ -521,7 +533,7 @@ const TextChat: React.FC = () => {
   );
 
   return (
-    <div className="flex h-[600px] relative bg-slate-50/50 overflow-hidden rounded-b-3xl">
+    <div className="flex h-[600px] relative bg-slate-50/50 overflow-hidden">
       
       {/* SIDEBAR (HISTORY) - Width 80 (320px) */}
       <div 
@@ -685,9 +697,8 @@ const TextChat: React.FC = () => {
                         <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
                         Collez-moi !
                     </button>
-                     
-                     {/* 02/12/2025 19:03:11 : Bouton superflu
                     
+                    {/* 04/12/2025 19:07:56 Bouton superflu
                     <button 
                         onClick={handleWhoAmI}
                         className="whitespace-nowrap px-3 py-1.5 bg-teal-100 text-teal-700 text-xs font-bold rounded-full border border-teal-200 hover:bg-teal-200 hover:border-teal-300 transition-colors flex items-center gap-1 shadow-sm"
