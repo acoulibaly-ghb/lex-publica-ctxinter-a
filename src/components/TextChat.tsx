@@ -135,7 +135,7 @@ const TextChat: React.FC = () => {
   };
 
   const suggestions = [
-    "La compÃ©tence de la Cour est-elle révocable ?",
+    "La compétence de la Cour est-elle révocable ?",
     "Conditions et licéité des contre-mesures ?",
     "Comparer les arrêts et les avis de la Cour"
   ];
