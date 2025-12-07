@@ -135,7 +135,7 @@ const TextChat: React.FC = () => {
   };
 
   const suggestions = [
-    "Définis ou explique...",
+    "**Définis ou explique...**",
     "Soumets-moi un petit cas pratique",
     "Pose-moi un QCM",
     "Pose-moi uune question Vrai/Faux"    
