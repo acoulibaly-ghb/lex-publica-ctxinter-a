@@ -138,7 +138,7 @@ const TextChat: React.FC = () => {
     "Définis ou explique...",
     "Soumets-moi un petit cas pratique",
     "Pose-moi un QCM",
-    "Pose-moi uune question Vrai/Faux"    
+    "Pose-moi une question Vrai/Faux"    
   ];
 
   // --- HISTORY MANAGEMENT ---
