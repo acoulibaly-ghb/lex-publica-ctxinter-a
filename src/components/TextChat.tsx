@@ -135,12 +135,27 @@ const TextChat: React.FC = () => {
   };
 
   const suggestions = [
-    "Définis ou explique...",
-    "Soumets-moi un petit cas pratique",
-    "Pose-moi un QCM",
-    "Pose-moi une question Vrai/Faux"    
-  ];
-
+    {
+      text: "Définis ou explique...",
+      color: "bg-emerald-100 text-emerald-700 border-emerald-200 hover:bg-emerald-200 hover:border-emerald-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+    },
+    {
+      text: "Soumets-moi un petit cas pratique",
+      color: "bg-purple-100 text-purple-700 border-purple-200 hover:bg-purple-200 hover:border-purple-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"></path></svg>
+    },
+    {
+      text: "Pose-moi un QCM",
+      color: "bg-blue-100 text-blue-700 border-blue-200 hover:bg-blue-200 hover:border-blue-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
+    },
+    {
+      text: "Pose-moi une question Vrai/Faux",
+      color: "bg-amber-100 text-amber-700 border-amber-200 hover:bg-amber-200 hover:border-amber-300",
+      icon: <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+    }
+];
   // --- HISTORY MANAGEMENT ---
 
   useEffect(() => {
@@ -689,7 +704,7 @@ const TextChat: React.FC = () => {
             )}
 
             {/* Suggestions Chips & Quiz Button */}
-            {messages.length < 3 && !isLoading && !attachment && (
+            {!attachment && (
                 <div className="flex gap-2 mb-4 overflow-x-auto pb-2 scrollbar-hide items-center">
                     <button 
                         onClick={handleQuizStart}
@@ -711,14 +726,22 @@ const TextChat: React.FC = () => {
 
                     <div className="w-px h-6 bg-slate-200 mx-1"></div>
                     {suggestions.map((s, i) => (
-                        <button 
-                            key={i}
-                            onClick={() => sendMessage(s)}
-                            className="whitespace-nowrap px-3 py-1.5 bg-indigo-50 text-indigo-600 text-xs font-medium rounded-full border border-indigo-100 hover:bg-indigo-100 hover:border-indigo-200 transition-colors"
-                        >
-                            {s}
-                        </button>
-                    ))}
+    <button 
+        key={i}
+        onClick={() => {
+          if (s.text === "Définis ou explique...") {
+            setInput("Définis ou explique-moi : ");
+            textareaRef.current?.focus();
+          } else {
+            sendMessage(s.text);
+          }
+        }}
+        className={`whitespace-nowrap px-3 py-1.5 text-xs font-bold rounded-full border transition-colors flex items-center gap-1 shadow-sm ${s.color}`}
+    >
+        {s.icon}
+        {s.text}
+    </button>
+))}
                 </div>
             )}
 
