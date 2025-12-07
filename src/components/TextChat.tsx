@@ -135,10 +135,9 @@ const TextChat: React.FC = () => {
   };
 
   const suggestions = [
-    "Pose-moi un QCM",
+    "Pose-moi un QCM ou une question Vrai/Faux",
     "Donne-moi un petit cas pratique",
-    "Définis ou explique...",
-    "Que puis-je te demander ?"
+    "Définis ou explique..."
   ];
 
   // --- HISTORY MANAGEMENT ---
