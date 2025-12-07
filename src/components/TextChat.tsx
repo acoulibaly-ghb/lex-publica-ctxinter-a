@@ -135,7 +135,8 @@ const TextChat: React.FC = () => {
   };
 
   const suggestions = [
-    "Pose-moi un QCM ou une question Vrai/Faux",
+    "Pose-moi un QCM",
+    "Pose-moi uune question Vrai/Faux",
     "Donne-moi un petit cas pratique",
     "Définis ou explique..."
   ];
