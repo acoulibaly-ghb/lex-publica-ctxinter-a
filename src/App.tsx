@@ -24,7 +24,7 @@ const App: React.FC = () => {
               Lex publica IA <span className="text-4xl font-extrabold tracking-tight text-slate-400 sm:text-5xl mb-2"> by </span><span className="text-indigo-600">Coulibaly</span>
             </h1>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
-              Votre assistant expert en droit du contentieux international.
+              Votre assistante virtuelle experte en droit du contentieux international.
               <span className="block text-sm text-slate-400 mt-1 font-medium">Introduction générale • Première partie • Seconde partie</span>
             </p>
           </div>
