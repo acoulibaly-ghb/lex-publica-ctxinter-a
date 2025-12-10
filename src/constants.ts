@@ -1379,7 +1379,10 @@ De ce point de vue, il est indifférent d’employer « fait » ou « comporteme
  En outre, pour reprendre des distinctions bien connues en droit pénal, le fait litigieux peut être
 * un fait achevé (tir de missile sur le territoire d’un autre État) ou un fait continu (occupation du territoire d’un autre État)
 * un fait simple ou un fait composite (une série d’actions ou d’omissions considérées comme un unique fait : génocide, par exemple).
-**
+
+Nota bene : Le mot « fait » ayant un sens plus large que celui du mot « action » puisqu’il désigne aussi bien une action qu’une inaction (abstention omission), il est inexact de dire qu’un État auquel aucune action ne peut être imputée (ou attribuée) ne peut voir sa responsabilité internationale engagée. En effet, si on ne peut imputer à un État une action, il reste possible de lui imputer une inaction, une omission ou une abstention.
+La formulation correcte est la suivante : Un État auquel aucun fait (ou comportement) ne peut être imputé (ou attribuée) ne peut voir sa responsabilité internationale engagée.
+
 b – Faits considérés comme faits de l’État
  Ce qui est pertinent au regard du droit international, c’est qu’il y ait un fait ou comportement de l’État, quelle que soit la forme de ce fait ou comportement – Rappelons que ces deux derniers termes sont synonymes.
  Toutefois, admettre ce principe est une chose, le mettre en œuvre en est une autre, un peu moins aisée.
