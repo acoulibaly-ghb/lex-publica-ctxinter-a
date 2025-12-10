@@ -999,6 +999,15 @@ Le Règlement de la Cour contient quelques précisions d’importance :
  Le rejet d’une demande en indication de mesures conservatoires n’empêche pas la partie qui l’avait introduite de présenter en la même affaire une nouvelle demande fondée sur des faits nouveaux (Article 75, paragraphe 3, du Règlement).
  À la demande d’une partie, la Cour peut, à tout moment avant l’arrêt définitif en l’affaire, rapporter ou modifier toute décision concernant des mesures conservatoires si un changement dans la situation lui paraît justifier que cette décision soit rapportée ou modifiée (Article 76, paragraphe 1, du Règlement).
 *
+La décision rendue sur la demande en indication de mesures conservatoires ne préjuge en rien la question de la compétence de la Cour pour connaître du fond de l’affaire, ni aucune question relative à la recevabilité de la requête ou au fond lui-même. Elle laisse intact le droit des parties de faire valoir leurs moyens en ces matières.
+D’où le d’où le dilemme dit de sir Hersch Lauterpacht, qui écrit : 
+« Lorsque l'État défendeur estime qu'il lui est impossible de reconnaître la compétence de la Cour au motif que le différend n'entre pas dans le cadre défini par les termes de son acceptation de ladite compétence, on se trouve face à un dilemme dont il n'est, à première vue, pas facile de sortir. 
+Du point de vue de l'État défendeur, l'indication de mesures conservatoires par la Cour peut paraître malvenue tant qu'elle ne s'est pas assurée de sa compétence. En effet, en se conformant à l'ordonnance, l'État défendeur peut se trouver empêché — éventuellement pendant une longue période — d'exercer ses droits légitimes dans une affaire à propos de laquelle la Cour risque de conclure au bout du compte qu'elle n'a pas compétence. 
+Du point de vue de l'État demandeur, en revanche, une ordonnance « indiquant » des mesures conservatoires peut revêtir un caractère d'urgence tel qu'attendre que la Cour finisse par statuer, après une procédure qui peut être fort longue, sur la question de sa compétence quant au fond peut très bien rendre illusoire la réparation ordonnée du fait de la destruction de l'objet du différend ou pour d'autres raisons. » (Sir Hersch Lauterpacht, The Development of International Law by the International Court, p. 110-111.).
+Illustration : Affaire de l’Anglo-iranian Oil Co. 
+1. La Cour indique des mesures conservatoires (ordonnance du 5 juillet 1951).
+2. Puis, un an plus tard, elle déclare qu’elle n’a pas compétence pour statuer sur le fond (arrêt du 22 juillet 1952).
+*
 Dernière ordonnance indiquant des mesures conservatoires : 
 Demande concernant la restitution de biens confisqués dans le cadre de procédures pénales (Guinée équatoriale c. France), Mesures conservatoires, Ordonnance du 12 septembre 2025. C.I.J. Recueil 2025.  
 **
