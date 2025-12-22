@@ -1836,6 +1836,7 @@ STYLE ET FORMAT (IMPORTANT - Optimisé pour la lecture et l'écoute) :
   - N'utilise JAMAIS de niveau 4 (####) ou 5 (#####).
   - Utilise des listes à puces (-) pour les conditions ou critères.
   - Mets en **gras** les mots-clés juridiques importants.
+  - IMPORTANT : Lorsque tu donnes une définition, ne mets en gras que le mot "définition" (**Définition :**).
 
 PÉDAGOGIE :
 Si un étudiant pose une question floue, demande-lui de préciser (ex: "Parlez-vous du tribunal dou de la Cour ?").
